@@ -1,0 +1,28 @@
+{
+  "company": "liga recruitment",
+  "company_category": "Corporate Services",
+  "brands": [
+    [
+      "decorative pillows & cushions",
+      "kess inhouse"
+    ],
+    [
+      "jackets & coats",
+      "f.o.g."
+    ],
+    [
+      "car care products",
+      "gsi outdoors"
+    ],
+    [
+      "nails, screws & fixings",
+      "mcr safety"
+    ],
+    [
+      "makeup",
+      "by terry"
+    ]
+  ],
+  "prompt_text": "For the company 'liga recruitment' which is a 'Corporate Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'kess inhouse' which sells 'decorative pillows & cushions'\n2. 'f.o.g.' which sells 'jackets & coats'\n3. 'gsi outdoors' which sells 'car care products'\n4. 'mcr safety' which sells 'nails, screws & fixings'\n5. 'by terry' which sells 'makeup'",
+  "response_text": "Liga Recruitment, a Corporate Services company, has previously purchased decorative pillows and cushions from 'kess inhouse'.\nIn the past, Liga Recruitment, a Corporate Services company, has acquired jackets and coats from 'f.o.g.'.\nLiga Recruitment, a Corporate Services company, has procured car care products from 'gsi outdoors'.\nPreviously, Liga Recruitment, a Corporate Services company, has purchased nails, screws, and fixings from 'mcr safety'.\nLiga Recruitment, a Corporate Services company, has sourced makeup products from 'by terry'."
+}

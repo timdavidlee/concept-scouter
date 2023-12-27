@@ -1,0 +1,28 @@
+{
+  "company": "dcn diagnostics",
+  "company_category": "Healthcare",
+  "brands": [
+    [
+      "sporting goods",
+      "the stadium chair"
+    ],
+    [
+      "boots",
+      "roxy"
+    ],
+    [
+      "paint & supplies",
+      "true value applicators"
+    ],
+    [
+      "bakeware & accessories",
+      "forlife"
+    ],
+    [
+      "pants",
+      "true religion"
+    ]
+  ],
+  "prompt_text": "For the company 'dcn diagnostics' which is a 'Healthcare' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'the stadium chair' which sells 'sporting goods'\n2. 'roxy' which sells 'boots'\n3. 'true value applicators' which sells 'paint & supplies'\n4. 'forlife' which sells 'bakeware & accessories'\n5. 'true religion' which sells 'pants'",
+  "response_text": "DCN Diagnostics, a healthcare company, has previously purchased sporting goods from The Stadium Chair, boots from Roxy, paint & supplies from True Value Applicators, bakeware & accessories from Forlife, and pants from True Religion."
+}

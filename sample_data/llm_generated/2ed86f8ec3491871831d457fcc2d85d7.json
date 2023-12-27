@@ -1,0 +1,28 @@
+{
+  "company": "woodford investment management",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "watches",
+      "u-boat"
+    ],
+    [
+      "cooking utensils",
+      "natural home"
+    ],
+    [
+      "sleepwear",
+      "disney"
+    ],
+    [
+      "bedding sets & components",
+      "vertatex"
+    ],
+    [
+      "athletic shoes",
+      "golfstream"
+    ]
+  ],
+  "prompt_text": "For the company 'woodford investment management' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'u-boat' which sells 'watches'\n2. 'natural home' which sells 'cooking utensils'\n3. 'disney' which sells 'sleepwear'\n4. 'vertatex' which sells 'bedding sets & components'\n5. 'golfstream' which sells 'athletic shoes'",
+  "response_text": "Woodford Investment Management, a financial services company, made a previous purchase from U-Boat, a brand specializing in watches. \n\nIn addition, Woodford Investment Management bought from Natural Home, a brand offering cooking utensils. \n\nFurthermore, Woodford Investment Management acquired from Disney, a well-known brand selling sleepwear. \n\nMoreover, Woodford Investment Management made a purchase from Vertatex, a brand specializing in bedding sets and components. \n\nLastly, Woodford Investment Management also purchased from Golfstream, a brand that offers athletic shoes."
+}

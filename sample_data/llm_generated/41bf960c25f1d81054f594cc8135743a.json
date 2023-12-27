@@ -1,0 +1,28 @@
+{
+  "company": "starr mortgage company, inc.",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "casual & dress shoes",
+      "michael antonio"
+    ],
+    [
+      "casual & dress shoes",
+      "muck boots"
+    ],
+    [
+      "shorts",
+      "ag adriano goldschmied"
+    ],
+    [
+      "nails, screws & fixings",
+      "hyde tools"
+    ],
+    [
+      "stationery",
+      "melissa frances"
+    ]
+  ],
+  "prompt_text": "For the company 'starr mortgage company, inc.' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'michael antonio' which sells 'casual & dress shoes'\n2. 'muck boots' which sells 'casual & dress shoes'\n3. 'ag adriano goldschmied' which sells 'shorts'\n4. 'hyde tools' which sells 'nails, screws & fixings'\n5. 'melissa frances' which sells 'stationery'",
+  "response_text": "Starr Mortgage Company, Inc., a financials company, previously purchased casual and dress shoes from Michael Antonio. \n\nIn addition, they also acquired casual and dress shoes from Muck Boots. \n\nFurthermore, Starr Mortgage Company, Inc. made a previous purchase of shorts from AG Adriano Goldschmied. \n\nThey also purchased nails, screws, and fixings from Hyde Tools, a brand specializing in these products. \n\nLastly, Starr Mortgage Company, Inc. procured stationery items from Melissa Frances."
+}

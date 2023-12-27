@@ -1,0 +1,28 @@
+{
+  "company": "ethan sawyer tax services llc",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "office supplies",
+      "blue sky"
+    ],
+    [
+      "accessories",
+      "heavy duty"
+    ],
+    [
+      "decorative pillows & cushions",
+      "carstens"
+    ],
+    [
+      "pants",
+      "just my size"
+    ],
+    [
+      "hand tools",
+      "eclipse curtains"
+    ]
+  ],
+  "prompt_text": "For the company 'ethan sawyer tax services llc' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'blue sky' which sells 'office supplies'\n2. 'heavy duty' which sells 'accessories'\n3. 'carstens' which sells 'decorative pillows & cushions'\n4. 'just my size' which sells 'pants'\n5. 'eclipse curtains' which sells 'hand tools'",
+  "response_text": "1. Ethan Sawyer Tax Services LLC, a Professional Services company, previously purchased office supplies from Blue Sky.\n2. Heavy Duty accessories were procured by Ethan Sawyer Tax Services LLC, a Professional Services company.\n3. Ethan Sawyer Tax Services LLC, a Professional Services company, purchased decorative pillows and cushions from Carstens.\n4. Just My Size pants were acquired by Ethan Sawyer Tax Services LLC, a Professional Services company.\n5. Ethan Sawyer Tax Services LLC, a Professional Services company, procured hand tools from Eclipse Curtains."
+}

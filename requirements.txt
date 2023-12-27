@@ -1,0 +1,5 @@
+pandas
+numpy
+humanfriendly
+openai
+case-converter

@@ -1,0 +1,28 @@
+{
+  "company": "energy professionals, llc",
+  "company_category": "Energy & Utilities",
+  "brands": [
+    [
+      "home decor",
+      "boston international"
+    ],
+    [
+      "cooking utensils",
+      "giesser messer"
+    ],
+    [
+      "accessories",
+      "per pedes"
+    ],
+    [
+      "cooking utensils",
+      "maxwell and williams designer homewares"
+    ],
+    [
+      "bathroom accessories",
+      "linum home textiles"
+    ]
+  ],
+  "prompt_text": "For the company 'energy professionals, llc' which is a 'Energy & Utilities' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'boston international' which sells 'home decor'\n2. 'giesser messer' which sells 'cooking utensils'\n3. 'per pedes' which sells 'accessories'\n4. 'maxwell and williams designer homewares' which sells 'cooking utensils'\n5. 'linum home textiles' which sells 'bathroom accessories'",
+  "response_text": "Energy Professionals, LLC, an Energy & Utilities company, has previously purchased home decor products from Boston International. Furthermore, the company has procured cooking utensils from Giesser Messer and Maxwell and Williams Designer Homewares. In addition, Energy Professionals, LLC has acquired accessories from Per Pedes and bathroom accessories from Linum Home Textiles."
+}

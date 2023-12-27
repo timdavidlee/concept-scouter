@@ -1,0 +1,28 @@
+{
+  "company": "great lakes environmental center",
+  "company_category": "Commercial Services & Supplies",
+  "brands": [
+    [
+      "sporting goods",
+      "brooks england"
+    ],
+    [
+      "storage & organization",
+      "fred & friends"
+    ],
+    [
+      "car parts",
+      "hopkins"
+    ],
+    [
+      "table linens",
+      "asd living"
+    ],
+    [
+      "home supplies",
+      "heim concept"
+    ]
+  ],
+  "prompt_text": "For the company 'great lakes environmental center' which is a 'Commercial Services & Supplies' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'brooks england' which sells 'sporting goods'\n2. 'fred & friends' which sells 'storage & organization'\n3. 'hopkins' which sells 'car parts'\n4. 'asd living' which sells 'table linens'\n5. 'heim concept' which sells 'home supplies'",
+  "response_text": "1. Great Lakes Environmental Center, a Commercial Services & Supplies company, previously purchased sporting goods from Brooks England.\n2. Fred & Friends, a brand specializing in storage & organization, was the source of Great Lakes Environmental Center's previous purchase.\n3. Great Lakes Environmental Center procured car parts for their business from Hopkins, a trusted brand in the industry.\n4. Great Lakes Environmental Center, a Commercial Services & Supplies company, acquired table linens from ASD Living, a reputable supplier in that field.\n5. Home supplies, including products from Heim Concept, were previously purchased by Great Lakes Environmental Center, a Commercial Services & Supplies company."
+}

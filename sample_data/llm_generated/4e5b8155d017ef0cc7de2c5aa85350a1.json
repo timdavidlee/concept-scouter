@@ -1,0 +1,28 @@
+{
+  "company": "computer cable networks limited",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "mobile phone accessories",
+      "caseartplus"
+    ],
+    [
+      "stationery",
+      "koh-i-noor"
+    ],
+    [
+      "watches",
+      "wellington"
+    ],
+    [
+      "hand tools",
+      "kai"
+    ],
+    [
+      "storage & organization",
+      "isenberg"
+    ]
+  ],
+  "prompt_text": "For the company 'computer cable networks limited' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'caseartplus' which sells 'mobile phone accessories'\n2. 'koh-i-noor' which sells 'stationery'\n3. 'wellington' which sells 'watches'\n4. 'kai' which sells 'hand tools'\n5. 'isenberg' which sells 'storage & organization'",
+  "response_text": "Computer Cable Networks Limited, an Information Technology company, previously purchased mobile phone accessories from the brand 'caseartplus'.\n\nComputer Cable Networks Limited, an Information Technology company, has also made purchases of stationery items from the brand 'Koh-i-Noor'.\n\nThe company, Computer Cable Networks Limited, has procured watches from the brand 'Wellington'.\n\nComputer Cable Networks Limited, an Information Technology company, has purchased hand tools from the brand 'Kai'.\n\nAdditionally, Computer Cable Networks Limited has acquired storage and organization products from the brand 'Isenberg'."
+}

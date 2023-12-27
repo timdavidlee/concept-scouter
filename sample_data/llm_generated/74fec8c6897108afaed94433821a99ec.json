@@ -1,0 +1,28 @@
+{
+  "company": "cleantech energy, inc.",
+  "company_category": "Energy & Utilities",
+  "brands": [
+    [
+      "sportswear",
+      "j.lindeberg"
+    ],
+    [
+      "dinnerware & serveware",
+      "baxton studio"
+    ],
+    [
+      "office supplies",
+      "artskills"
+    ],
+    [
+      "dinnerware & serveware",
+      "happimess"
+    ],
+    [
+      "storage & organization",
+      "water bargain"
+    ]
+  ],
+  "prompt_text": "For the company 'cleantech energy, inc.' which is a 'Energy & Utilities' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'j.lindeberg' which sells 'sportswear'\n2. 'baxton studio' which sells 'dinnerware & serveware'\n3. 'artskills' which sells 'office supplies'\n4. 'happimess' which sells 'dinnerware & serveware'\n5. 'water bargain' which sells 'storage & organization'",
+  "response_text": "1. Cleantech Energy, Inc., an Energy & Utilities company, previously purchased sportswear from J.Lindeberg.\n2. Cleantech Energy, Inc., an Energy & Utilities company, previously purchased dinnerware and serveware from Baxton Studio.\n3. Cleantech Energy, Inc., an Energy & Utilities company, previously purchased office supplies from Artskills.\n4. Cleantech Energy, Inc., an Energy & Utilities company, previously purchased dinnerware and serveware from Happimess.\n5. Cleantech Energy, Inc., an Energy & Utilities company, previously purchased storage and organization products from Water Bargain."
+}

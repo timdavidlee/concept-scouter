@@ -1,0 +1,28 @@
+{
+  "company": "ikind media",
+  "company_category": "Media, Marketing & Sales",
+  "brands": [
+    [
+      "accessories",
+      "baby banz"
+    ],
+    [
+      "stationery",
+      "sanford"
+    ],
+    [
+      "mobile phone accessories",
+      "ballistic"
+    ],
+    [
+      "cooking utensils",
+      "true decor"
+    ],
+    [
+      "bathroom accessories",
+      "itouchless"
+    ]
+  ],
+  "prompt_text": "For the company 'ikind media' which is a 'Media, Marketing & Sales' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'baby banz' which sells 'accessories'\n2. 'sanford' which sells 'stationery'\n3. 'ballistic' which sells 'mobile phone accessories'\n4. 'true decor' which sells 'cooking utensils'\n5. 'itouchless' which sells 'bathroom accessories'",
+  "response_text": "ikind media, a Media, Marketing & Sales company, has previously purchased accessories from baby banz, stationery from sanford, mobile phone accessories from ballistic, cooking utensils from true decor, and bathroom accessories from itouchless."
+}

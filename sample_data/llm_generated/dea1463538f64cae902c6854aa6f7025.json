@@ -1,0 +1,28 @@
+{
+  "company": "precision environmental services, inc.",
+  "company_category": "Commercial Services & Supplies",
+  "brands": [
+    [
+      "tops",
+      "theory"
+    ],
+    [
+      "stationery",
+      "kirkland signature"
+    ],
+    [
+      "athletic shoes",
+      "pearl izumi - ride"
+    ],
+    [
+      "tops",
+      "dreamworks"
+    ],
+    [
+      "table linens",
+      "now designs"
+    ]
+  ],
+  "prompt_text": "For the company 'precision environmental services, inc.' which is a 'Commercial Services & Supplies' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'theory' which sells 'tops'\n2. 'kirkland signature' which sells 'stationery'\n3. 'pearl izumi - ride' which sells 'athletic shoes'\n4. 'dreamworks' which sells 'tops'\n5. 'now designs' which sells 'table linens'",
+  "response_text": "Precision Environmental Services, Inc., a Commercial Services & Supplies company, previously purchased tops from Theory, stationery from Kirkland Signature, athletic shoes from Pearl Izumi - Ride, tops from Dreamworks, and table linens from Now Designs."
+}

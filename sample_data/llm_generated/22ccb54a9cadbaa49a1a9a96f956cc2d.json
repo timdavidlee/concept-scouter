@@ -1,0 +1,28 @@
+{
+  "company": "pro computer inc",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "mobile phone accessories",
+      "laudtec"
+    ],
+    [
+      "home decor",
+      "nojo"
+    ],
+    [
+      "sporting goods",
+      "windy"
+    ],
+    [
+      "home decor",
+      "arthouse"
+    ],
+    [
+      "hand tools",
+      "midwest rake"
+    ]
+  ],
+  "prompt_text": "For the company 'pro computer inc' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'laudtec' which sells 'mobile phone accessories'\n2. 'nojo' which sells 'home decor'\n3. 'windy' which sells 'sporting goods'\n4. 'arthouse' which sells 'home decor'\n5. 'midwest rake' which sells 'hand tools'",
+  "response_text": "Pro Computer Inc, an Information Technology company, previously purchased mobile phone accessories from Laudtec. Additionally, they acquired home decor products from Nojo and Arthouse, as well as sporting goods from Windy. Lastly, Pro Computer Inc also purchased hand tools from Midwest Rake."
+}

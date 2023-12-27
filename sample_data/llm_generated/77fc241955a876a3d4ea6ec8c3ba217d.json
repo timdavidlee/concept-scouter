@@ -1,0 +1,28 @@
+{
+  "company": "bioroot energy, inc.",
+  "company_category": "Energy & Utilities",
+  "brands": [
+    [
+      "kitchen accessories",
+      "fit & fresh"
+    ],
+    [
+      "home supplies",
+      "abus lock"
+    ],
+    [
+      "casual & dress shoes",
+      "easy works"
+    ],
+    [
+      "hats & caps",
+      "jack wolfskin"
+    ],
+    [
+      "decorative pillows & cushions",
+      "stone & beam"
+    ]
+  ],
+  "prompt_text": "For the company 'bioroot energy, inc.' which is a 'Energy & Utilities' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'fit & fresh' which sells 'kitchen accessories'\n2. 'abus lock' which sells 'home supplies'\n3. 'easy works' which sells 'casual & dress shoes'\n4. 'jack wolfskin' which sells 'hats & caps'\n5. 'stone & beam' which sells 'decorative pillows & cushions'",
+  "response_text": "bioroot energy, inc., an Energy & Utilities company, previously purchased kitchen accessories from 'fit & fresh.' \nAdditionally, the company has also acquired home supplies from 'abus lock.' \nMoreover, bioroot energy, inc. has made a previous purchase of casual and dress shoes from 'easy works.' \nFurthermore, 'jack wolfskin' provided hats and caps to bioroot energy, inc. \nLastly, the company obtained decorative pillows and cushions from 'stone & beam.'"
+}

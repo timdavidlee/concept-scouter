@@ -1,0 +1,28 @@
+{
+  "company": "blue lemon training",
+  "company_category": "Corporate Services",
+  "brands": [
+    [
+      "sandals",
+      "volatile"
+    ],
+    [
+      "storage & organization",
+      "weddingstar inc."
+    ],
+    [
+      "sporting goods",
+      "wild sports"
+    ],
+    [
+      "car care products",
+      "steelman"
+    ],
+    [
+      "office supplies",
+      "antique alive"
+    ]
+  ],
+  "prompt_text": "For the company 'blue lemon training' which is a 'Corporate Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'volatile' which sells 'sandals'\n2. 'weddingstar inc.' which sells 'storage & organization'\n3. 'wild sports' which sells 'sporting goods'\n4. 'steelman' which sells 'car care products'\n5. 'antique alive' which sells 'office supplies'",
+  "response_text": "Blue Lemon Training, a Corporate Services company, previously purchased sandals from Volatile, adding stylish and comfortable footwear options to their corporate wardrobe. Blue Lemon Training also procured storage and organization products from Weddingstar Inc., helping to optimize their office space and enhance efficiency. Additionally, the company obtained sporting goods from Wild Sports, enabling employees to engage in team-building activities and promote a healthy work-life balance. Furthermore, Blue Lemon Training acquired car care products from Steelman, ensuring their fleet of corporate vehicles maintains a pristine condition. Lastly, the company purchased office supplies from Antique Alive, equipping their employees with high-quality essentials to enhance productivity and professional presentation."
+}

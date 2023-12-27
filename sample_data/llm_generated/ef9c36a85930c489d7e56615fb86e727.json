@@ -1,0 +1,28 @@
+{
+  "company": "totally outdoors",
+  "company_category": "Commercial Services & Supplies",
+  "brands": [
+    [
+      "accessories",
+      "emporio armani"
+    ],
+    [
+      "pants",
+      "original penguin"
+    ],
+    [
+      "car parts",
+      "big roc"
+    ],
+    [
+      "handbags",
+      "hedgren"
+    ],
+    [
+      "bakeware & accessories",
+      "maxwell and williams designer homewares"
+    ]
+  ],
+  "prompt_text": "For the company 'totally outdoors' which is a 'Commercial Services & Supplies' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'emporio armani' which sells 'accessories'\n2. 'original penguin' which sells 'pants'\n3. 'big roc' which sells 'car parts'\n4. 'hedgren' which sells 'handbags'\n5. 'maxwell and williams designer homewares' which sells 'bakeware & accessories'",
+  "response_text": "Totally Outdoors, a Commercial Services & Supplies company, has previously purchased accessories from Emporio Armani. The company has also sourced pants from Original Penguin, car parts from Big Roc, handbags from Hedgren, and bakeware & accessories from Maxwell and Williams Designer Homewares."
+}

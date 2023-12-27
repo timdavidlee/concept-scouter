@@ -1,0 +1,28 @@
+{
+  "company": "unit4 business software uk",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "towels",
+      "3c4g"
+    ],
+    [
+      "sporting goods",
+      "rawlings"
+    ],
+    [
+      "pants",
+      "ruby rd."
+    ],
+    [
+      "home supplies",
+      "accuform"
+    ],
+    [
+      "hats & caps",
+      "hats for you"
+    ]
+  ],
+  "prompt_text": "For the company 'unit4 business software uk' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. '3c4g' which sells 'towels'\n2. 'rawlings' which sells 'sporting goods'\n3. 'ruby rd.' which sells 'pants'\n4. 'accuform' which sells 'home supplies'\n5. 'hats for you' which sells 'hats & caps'",
+  "response_text": "Unit4 Business Software UK, an Information Technology company, has previously purchased towels from 3C4G.\nUnit4 Business Software UK, an Information Technology company, has previously purchased sporting goods from Rawlings.\nUnit4 Business Software UK, an Information Technology company, has previously purchased pants from Ruby Rd.\nUnit4 Business Software UK, an Information Technology company, has previously purchased home supplies from Accuform.\nUnit4 Business Software UK, an Information Technology company, has previously purchased hats and caps from Hats for You."
+}

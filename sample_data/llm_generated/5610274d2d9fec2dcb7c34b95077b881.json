@@ -1,0 +1,28 @@
+{
+  "company": "corn maiden foods inc",
+  "company_category": "Consumer Staples",
+  "brands": [
+    [
+      "home supplies",
+      "steel harbor"
+    ],
+    [
+      "cooking utensils",
+      "pavilion gift company"
+    ],
+    [
+      "towels",
+      "sandy gingras"
+    ],
+    [
+      "accessories",
+      "quality standard flags"
+    ],
+    [
+      "makeup",
+      "koh gen do"
+    ]
+  ],
+  "prompt_text": "For the company 'corn maiden foods inc' which is a 'Consumer Staples' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'steel harbor' which sells 'home supplies'\n2. 'pavilion gift company' which sells 'cooking utensils'\n3. 'sandy gingras' which sells 'towels'\n4. 'quality standard flags' which sells 'accessories'\n5. 'koh gen do' which sells 'makeup'",
+  "response_text": "Corn Maiden Foods Inc., a Consumer Staples company, has previously purchased home supplies from Steel Harbor, cooking utensils from Pavilion Gift Company, towels from Sandy Gingras, accessories from Quality Standard Flags, and makeup from Koh Gen Do."
+}

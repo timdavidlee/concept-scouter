@@ -1,0 +1,28 @@
+{
+  "company": "mcdowell technology solutions",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "bakeware & accessories",
+      "good cook"
+    ],
+    [
+      "home decor",
+      "mariposa"
+    ],
+    [
+      "storage & organization",
+      "arcos"
+    ],
+    [
+      "home supplies",
+      "olympia faucets"
+    ],
+    [
+      "nails, screws & fixings",
+      "kissler & co. inc"
+    ]
+  ],
+  "prompt_text": "For the company 'mcdowell technology solutions' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'good cook' which sells 'bakeware & accessories'\n2. 'mariposa' which sells 'home decor'\n3. 'arcos' which sells 'storage & organization'\n4. 'olympia faucets' which sells 'home supplies'\n5. 'kissler & co. inc' which sells 'nails, screws & fixings'",
+  "response_text": "McDowell Technology Solutions, an Information Technology company, previously purchased bakeware and accessories from Good Cook, home decor from Mariposa, storage and organization products from Arcos, home supplies from Olympia Faucets, and nails, screws, and fixings from Kissler & Co. Inc."
+}

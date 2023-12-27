@@ -1,0 +1,507 @@
+{
+  "text": "Starr Mortgage Company, Inc., a financials company, previously purchased casual and dress shoes from Michael Antonio. \n\nIn addition, they also acquired casual and dress shoes from Muck Boots. \n\nFurthermore, Starr Mortgage Company, Inc. made a previous purchase of shorts from AG Adriano Goldschmied. \n\nThey also purchased nails, screws, and fixings from Hyde Tools, a brand specializing in these products. \n\nLastly, Starr Mortgage Company, Inc. procured stationery items from Melissa Frances.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 29,
+      "label": "COMPANY"
+    },
+    {
+      "start": 43,
+      "end": 50,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 109,
+      "end": 117,
+      "label": "BRAND"
+    },
+    {
+      "start": 185,
+      "end": 191,
+      "label": "BRAND"
+    },
+    {
+      "start": 213,
+      "end": 242,
+      "label": "COMPANY"
+    },
+    {
+      "start": 276,
+      "end": 278,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 287,
+      "end": 302,
+      "label": "BRAND"
+    },
+    {
+      "start": 364,
+      "end": 367,
+      "label": "BRAND"
+    },
+    {
+      "start": 431,
+      "end": 470,
+      "label": "COMPANY"
+    },
+    {
+      "start": 476,
+      "end": 483,
+      "label": "BRAND_CATEGORY"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 15,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": 4,
+      "start": 24,
+      "end": 28
+    },
+    {
+      "id": 5,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 6,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 7,
+      "start": 32,
+      "end": 42
+    },
+    {
+      "id": 8,
+      "start": 43,
+      "end": 50
+    },
+    {
+      "id": 9,
+      "start": 50,
+      "end": 51
+    },
+    {
+      "id": 10,
+      "start": 52,
+      "end": 62
+    },
+    {
+      "id": 11,
+      "start": 63,
+      "end": 72
+    },
+    {
+      "id": 12,
+      "start": 73,
+      "end": 79
+    },
+    {
+      "id": 13,
+      "start": 80,
+      "end": 83
+    },
+    {
+      "id": 14,
+      "start": 84,
+      "end": 89
+    },
+    {
+      "id": 15,
+      "start": 90,
+      "end": 95
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 100
+    },
+    {
+      "id": 17,
+      "start": 101,
+      "end": 108
+    },
+    {
+      "id": 18,
+      "start": 109,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 120
+    },
+    {
+      "id": 21,
+      "start": 120,
+      "end": 122
+    },
+    {
+      "id": 22,
+      "start": 123,
+      "end": 131
+    },
+    {
+      "id": 23,
+      "start": 131,
+      "end": 132
+    },
+    {
+      "id": 24,
+      "start": 133,
+      "end": 137
+    },
+    {
+      "id": 25,
+      "start": 138,
+      "end": 142
+    },
+    {
+      "id": 26,
+      "start": 143,
+      "end": 151
+    },
+    {
+      "id": 27,
+      "start": 152,
+      "end": 158
+    },
+    {
+      "id": 28,
+      "start": 159,
+      "end": 162
+    },
+    {
+      "id": 29,
+      "start": 163,
+      "end": 168
+    },
+    {
+      "id": 30,
+      "start": 169,
+      "end": 174
+    },
+    {
+      "id": 31,
+      "start": 175,
+      "end": 179
+    },
+    {
+      "id": 32,
+      "start": 180,
+      "end": 184
+    },
+    {
+      "id": 33,
+      "start": 185,
+      "end": 190
+    },
+    {
+      "id": 34,
+      "start": 190,
+      "end": 191
+    },
+    {
+      "id": 35,
+      "start": 192,
+      "end": 194
+    },
+    {
+      "id": 36,
+      "start": 194,
+      "end": 205
+    },
+    {
+      "id": 37,
+      "start": 205,
+      "end": 206
+    },
+    {
+      "id": 38,
+      "start": 207,
+      "end": 212
+    },
+    {
+      "id": 39,
+      "start": 213,
+      "end": 221
+    },
+    {
+      "id": 40,
+      "start": 222,
+      "end": 229
+    },
+    {
+      "id": 41,
+      "start": 229,
+      "end": 230
+    },
+    {
+      "id": 42,
+      "start": 231,
+      "end": 235
+    },
+    {
+      "id": 43,
+      "start": 236,
+      "end": 240
+    },
+    {
+      "id": 44,
+      "start": 241,
+      "end": 242
+    },
+    {
+      "id": 45,
+      "start": 243,
+      "end": 251
+    },
+    {
+      "id": 46,
+      "start": 252,
+      "end": 260
+    },
+    {
+      "id": 47,
+      "start": 261,
+      "end": 263
+    },
+    {
+      "id": 48,
+      "start": 264,
+      "end": 270
+    },
+    {
+      "id": 49,
+      "start": 271,
+      "end": 275
+    },
+    {
+      "id": 50,
+      "start": 276,
+      "end": 278
+    },
+    {
+      "id": 51,
+      "start": 279,
+      "end": 286
+    },
+    {
+      "id": 52,
+      "start": 287,
+      "end": 298
+    },
+    {
+      "id": 53,
+      "start": 298,
+      "end": 299
+    },
+    {
+      "id": 54,
+      "start": 300,
+      "end": 302
+    },
+    {
+      "id": 55,
+      "start": 302,
+      "end": 306
+    },
+    {
+      "id": 56,
+      "start": 307,
+      "end": 311
+    },
+    {
+      "id": 57,
+      "start": 312,
+      "end": 321
+    },
+    {
+      "id": 58,
+      "start": 322,
+      "end": 327
+    },
+    {
+      "id": 59,
+      "start": 327,
+      "end": 328
+    },
+    {
+      "id": 60,
+      "start": 329,
+      "end": 335
+    },
+    {
+      "id": 61,
+      "start": 335,
+      "end": 336
+    },
+    {
+      "id": 62,
+      "start": 337,
+      "end": 340
+    },
+    {
+      "id": 63,
+      "start": 341,
+      "end": 348
+    },
+    {
+      "id": 64,
+      "start": 349,
+      "end": 353
+    },
+    {
+      "id": 65,
+      "start": 354,
+      "end": 358
+    },
+    {
+      "id": 66,
+      "start": 359,
+      "end": 364
+    },
+    {
+      "id": 67,
+      "start": 364,
+      "end": 365
+    },
+    {
+      "id": 68,
+      "start": 366,
+      "end": 367
+    },
+    {
+      "id": 69,
+      "start": 368,
+      "end": 373
+    },
+    {
+      "id": 70,
+      "start": 374,
+      "end": 386
+    },
+    {
+      "id": 71,
+      "start": 387,
+      "end": 389
+    },
+    {
+      "id": 72,
+      "start": 390,
+      "end": 395
+    },
+    {
+      "id": 73,
+      "start": 396,
+      "end": 404
+    },
+    {
+      "id": 74,
+      "start": 404,
+      "end": 405
+    },
+    {
+      "id": 75,
+      "start": 406,
+      "end": 408
+    },
+    {
+      "id": 76,
+      "start": 408,
+      "end": 414
+    },
+    {
+      "id": 77,
+      "start": 414,
+      "end": 415
+    },
+    {
+      "id": 78,
+      "start": 416,
+      "end": 421
+    },
+    {
+      "id": 79,
+      "start": 422,
+      "end": 430
+    },
+    {
+      "id": 80,
+      "start": 431,
+      "end": 438
+    },
+    {
+      "id": 81,
+      "start": 438,
+      "end": 439
+    },
+    {
+      "id": 82,
+      "start": 440,
+      "end": 444
+    },
+    {
+      "id": 83,
+      "start": 445,
+      "end": 453
+    },
+    {
+      "id": 84,
+      "start": 454,
+      "end": 464
+    },
+    {
+      "id": 85,
+      "start": 465,
+      "end": 470
+    },
+    {
+      "id": 86,
+      "start": 471,
+      "end": 475
+    },
+    {
+      "id": 87,
+      "start": 476,
+      "end": 483
+    },
+    {
+      "id": 88,
+      "start": 484,
+      "end": 491
+    },
+    {
+      "id": 89,
+      "start": 491,
+      "end": 492
+    }
+  ]
+}

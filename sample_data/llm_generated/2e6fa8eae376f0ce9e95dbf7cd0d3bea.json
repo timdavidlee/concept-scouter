@@ -1,0 +1,28 @@
+{
+  "company": "churchill drilling tools",
+  "company_category": "Energy & Utilities",
+  "brands": [
+    [
+      "accessories",
+      "carhartt"
+    ],
+    [
+      "handbags",
+      "tommy bahama"
+    ],
+    [
+      "sleepwear",
+      "carnival"
+    ],
+    [
+      "sleepwear",
+      "yummie"
+    ],
+    [
+      "car parts",
+      "lang tools"
+    ]
+  ],
+  "prompt_text": "For the company 'churchill drilling tools' which is a 'Energy & Utilities' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'carhartt' which sells 'accessories'\n2. 'tommy bahama' which sells 'handbags'\n3. 'carnival' which sells 'sleepwear'\n4. 'yummie' which sells 'sleepwear'\n5. 'lang tools' which sells 'car parts'",
+  "response_text": "Churchill Drilling Tools, an Energy & Utilities company, has previously purchased accessories from Carhartt.\nAdditionally, the company has purchased handbags from Tommy Bahama, sleepwear from Carnival and Yummie, and car parts from Lang Tools."
+}

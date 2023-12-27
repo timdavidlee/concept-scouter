@@ -1,0 +1,28 @@
+{
+  "company": "jeannette rankin women's scholarship fund",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "sportswear",
+      "helly hansen"
+    ],
+    [
+      "handbags",
+      "loqi"
+    ],
+    [
+      "bedding sets & components",
+      "echelon home"
+    ],
+    [
+      "sporting goods",
+      "phantom aquatics"
+    ],
+    [
+      "dinnerware & serveware",
+      "fusion art glass"
+    ]
+  ],
+  "prompt_text": "For the company 'jeannette rankin women's scholarship fund' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'helly hansen' which sells 'sportswear'\n2. 'loqi' which sells 'handbags'\n3. 'echelon home' which sells 'bedding sets & components'\n4. 'phantom aquatics' which sells 'sporting goods'\n5. 'fusion art glass' which sells 'dinnerware & serveware'",
+  "response_text": "The Jeannette Rankin Women's Scholarship Fund, a financials type company, has previously purchased sportswear from Helly Hansen. The company has also acquired handbags from Loqi, bedding sets & components from Echelon Home, sporting goods from Phantom Aquatics, and dinnerware & serveware from Fusion Art Glass."
+}

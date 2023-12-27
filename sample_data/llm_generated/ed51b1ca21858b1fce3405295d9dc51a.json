@@ -1,0 +1,28 @@
+{
+  "company": "rise insurance capital network llc",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "dinnerware & serveware",
+      "the napkins us"
+    ],
+    [
+      "makeup",
+      "vivica a. fox"
+    ],
+    [
+      "home decor",
+      "rod desyne"
+    ],
+    [
+      "sporting goods",
+      "pastry"
+    ],
+    [
+      "bathroom accessories",
+      "nu steel"
+    ]
+  ],
+  "prompt_text": "For the company 'rise insurance capital network llc' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'the napkins us' which sells 'dinnerware & serveware'\n2. 'vivica a. fox' which sells 'makeup'\n3. 'rod desyne' which sells 'home decor'\n4. 'pastry' which sells 'sporting goods'\n5. 'nu steel' which sells 'bathroom accessories'",
+  "response_text": "Rise Insurance Capital Network LLC, a financials company, previously purchased dinnerware and serveware products from The Napkins US. They also acquired makeup products from Vivica A. Fox, home decor items from Rod Desyne, sporting goods from Pastry, and bathroom accessories from Nu Steel."
+}

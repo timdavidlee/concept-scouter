@@ -1,0 +1,28 @@
+{
+  "company": "maxcess aluminum floors, inc.",
+  "company_category": "Materials",
+  "brands": [
+    [
+      "cooking utensils",
+      "messermeister"
+    ],
+    [
+      "stationery",
+      "lyra"
+    ],
+    [
+      "dinnerware & serveware",
+      "nachtmann"
+    ],
+    [
+      "accessories",
+      "diesel"
+    ],
+    [
+      "uniform",
+      "koi"
+    ]
+  ],
+  "prompt_text": "For the company 'maxcess aluminum floors, inc.' which is a 'Materials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category should also be in each sentence.\n1. 'messermeister' which sells 'cooking utensils'\n2. 'lyra' which sells 'stationery'\n3. 'nachtmann' which sells 'dinnerware & serveware'\n4. 'diesel' which sells 'accessories'\n5. 'koi' which sells 'uniform'",
+  "response_text": "1. Maxcess Aluminum Floors, Inc., a materials company, previously purchased cooking utensils from Messermeister.\n2. The stationery brand Lyra supplied Maxcess Aluminum Floors, Inc., a materials company, with their stationery needs.\n3. Maxcess Aluminum Floors, Inc., a materials company, sourced dinnerware and serveware from the brand Nachtmann.\n4. Maxcess Aluminum Floors, Inc., a materials company, procured accessories from the brand Diesel for their operations.\n5. Koi, a uniform brand, provided Maxcess Aluminum Floors, Inc., a materials company, with their required uniforms."
+}

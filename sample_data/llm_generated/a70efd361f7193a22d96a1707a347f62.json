@@ -1,0 +1,28 @@
+{
+  "company": "les aliments mejicano",
+  "company_category": "Materials",
+  "brands": [
+    [
+      "sleepwear",
+      "marvel"
+    ],
+    [
+      "sandals",
+      "cole haan"
+    ],
+    [
+      "makeup",
+      "touche cosmetics"
+    ],
+    [
+      "towels",
+      "welspun"
+    ],
+    [
+      "athletic shoes",
+      "hi-tec"
+    ]
+  ],
+  "prompt_text": "For the company 'les aliments mejicano' which is a 'Materials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'marvel' which sells 'sleepwear'\n2. 'cole haan' which sells 'sandals'\n3. 'touche cosmetics' which sells 'makeup'\n4. 'welspun' which sells 'towels'\n5. 'hi-tec' which sells 'athletic shoes'",
+  "response_text": "Les Aliments Mejicano, a materials company, previously purchased sleepwear from Marvel, sandals from Cole Haan, makeup from Touche Cosmetics, towels from Welspun, and athletic shoes from Hi-Tec."
+}

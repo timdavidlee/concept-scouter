@@ -1,0 +1,28 @@
+{
+  "company": "afp advanced food products llc",
+  "company_category": "Consumer Staples",
+  "brands": [
+    [
+      "sandals",
+      "badgley mischka"
+    ],
+    [
+      "accessories",
+      "buckle down"
+    ],
+    [
+      "home supplies",
+      "the hillman group"
+    ],
+    [
+      "athletic shoes",
+      "aravon"
+    ],
+    [
+      "boots",
+      "georgia"
+    ]
+  ],
+  "prompt_text": "For the company 'afp advanced food products llc' which is a 'Consumer Staples' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'badgley mischka' which sells 'sandals'\n2. 'buckle down' which sells 'accessories'\n3. 'the hillman group' which sells 'home supplies'\n4. 'aravon' which sells 'athletic shoes'\n5. 'georgia' which sells 'boots'",
+  "response_text": "AFP Advanced Food Products LLC, a Consumer Staples company, has previously purchased sandals from Badgley Mischka, accessories from Buckle Down, home supplies from The Hillman Group, athletic shoes from Aravon, and boots from Georgia."
+}

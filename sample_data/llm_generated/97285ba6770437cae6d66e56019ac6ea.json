@@ -1,0 +1,28 @@
+{
+  "company": "two penguins productions",
+  "company_category": "Media, Marketing & Sales",
+  "brands": [
+    [
+      "accessories",
+      "wool iq"
+    ],
+    [
+      "athletic shoes",
+      "bsi"
+    ],
+    [
+      "storage & organization",
+      "wesco"
+    ],
+    [
+      "mobile phone accessories",
+      "happy plugs"
+    ],
+    [
+      "bedding sets & components",
+      "nautica"
+    ]
+  ],
+  "prompt_text": "For the company 'two penguins productions' which is a 'Media, Marketing & Sales' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'wool iq' which sells 'accessories'\n2. 'bsi' which sells 'athletic shoes'\n3. 'wesco' which sells 'storage & organization'\n4. 'happy plugs' which sells 'mobile phone accessories'\n5. 'nautica' which sells 'bedding sets & components'",
+  "response_text": "Two Penguins Productions, a Media, Marketing & Sales company, previously purchased accessories from wool iq.  \nTwo Penguins Productions, a Media, Marketing & Sales company, previously purchased athletic shoes from BSI.  \nTwo Penguins Productions, a Media, Marketing & Sales company, previously purchased storage & organization products from Wesco.  \nTwo Penguins Productions, a Media, Marketing & Sales company, previously purchased mobile phone accessories from Happy Plugs.  \nTwo Penguins Productions, a Media, Marketing & Sales company, previously purchased bedding sets & components from Nautica."
+}

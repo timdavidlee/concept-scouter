@@ -1,0 +1,312 @@
+{
+  "text": "Totally Outdoors, a Commercial Services & Supplies company, has previously purchased accessories from Emporio Armani. The company has also sourced pants from Original Penguin, car parts from Big Roc, handbags from Hedgren, and bakeware & accessories from Maxwell and Williams Designer Homewares.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 16,
+      "label": "COMPANY"
+    },
+    {
+      "start": 20,
+      "end": 50,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 85,
+      "end": 96,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 102,
+      "end": 116,
+      "label": "BRAND"
+    },
+    {
+      "start": 147,
+      "end": 152,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 158,
+      "end": 174,
+      "label": "BRAND"
+    },
+    {
+      "start": 176,
+      "end": 185,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 191,
+      "end": 198,
+      "label": "BRAND"
+    },
+    {
+      "start": 200,
+      "end": 208,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 214,
+      "end": 221,
+      "label": "BRAND"
+    },
+    {
+      "start": 227,
+      "end": 249,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 255,
+      "end": 294,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 16
+    },
+    {
+      "id": 2,
+      "start": 16,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 19
+    },
+    {
+      "id": 4,
+      "start": 20,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 31,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 50
+    },
+    {
+      "id": 8,
+      "start": 51,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 63
+    },
+    {
+      "id": 11,
+      "start": 64,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 84
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 96
+    },
+    {
+      "id": 14,
+      "start": 97,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 109
+    },
+    {
+      "id": 16,
+      "start": 110,
+      "end": 116
+    },
+    {
+      "id": 17,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 18,
+      "start": 118,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 129
+    },
+    {
+      "id": 20,
+      "start": 130,
+      "end": 133
+    },
+    {
+      "id": 21,
+      "start": 134,
+      "end": 138
+    },
+    {
+      "id": 22,
+      "start": 139,
+      "end": 146
+    },
+    {
+      "id": 23,
+      "start": 147,
+      "end": 152
+    },
+    {
+      "id": 24,
+      "start": 153,
+      "end": 157
+    },
+    {
+      "id": 25,
+      "start": 158,
+      "end": 166
+    },
+    {
+      "id": 26,
+      "start": 167,
+      "end": 174
+    },
+    {
+      "id": 27,
+      "start": 174,
+      "end": 175
+    },
+    {
+      "id": 28,
+      "start": 176,
+      "end": 179
+    },
+    {
+      "id": 29,
+      "start": 180,
+      "end": 185
+    },
+    {
+      "id": 30,
+      "start": 186,
+      "end": 190
+    },
+    {
+      "id": 31,
+      "start": 191,
+      "end": 194
+    },
+    {
+      "id": 32,
+      "start": 195,
+      "end": 198
+    },
+    {
+      "id": 33,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 34,
+      "start": 200,
+      "end": 208
+    },
+    {
+      "id": 35,
+      "start": 209,
+      "end": 213
+    },
+    {
+      "id": 36,
+      "start": 214,
+      "end": 221
+    },
+    {
+      "id": 37,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 38,
+      "start": 223,
+      "end": 226
+    },
+    {
+      "id": 39,
+      "start": 227,
+      "end": 235
+    },
+    {
+      "id": 40,
+      "start": 236,
+      "end": 237
+    },
+    {
+      "id": 41,
+      "start": 238,
+      "end": 249
+    },
+    {
+      "id": 42,
+      "start": 250,
+      "end": 254
+    },
+    {
+      "id": 43,
+      "start": 255,
+      "end": 262
+    },
+    {
+      "id": 44,
+      "start": 263,
+      "end": 266
+    },
+    {
+      "id": 45,
+      "start": 267,
+      "end": 275
+    },
+    {
+      "id": 46,
+      "start": 276,
+      "end": 284
+    },
+    {
+      "id": 47,
+      "start": 285,
+      "end": 294
+    },
+    {
+      "id": 48,
+      "start": 294,
+      "end": 295
+    }
+  ]
+}

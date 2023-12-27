@@ -1,0 +1,28 @@
+{
+  "company": "kope electric, llc",
+  "company_category": "Commercial Services & Supplies",
+  "brands": [
+    [
+      "casual & dress shoes",
+      "durango"
+    ],
+    [
+      "pants",
+      "nydj"
+    ],
+    [
+      "cooking utensils",
+      "brownlow gifts"
+    ],
+    [
+      "hand tools",
+      "tennessee crafts"
+    ],
+    [
+      "home supplies",
+      "pfister"
+    ]
+  ],
+  "prompt_text": "For the company 'kope electric, llc' which is a 'Commercial Services & Supplies' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'durango' which sells 'casual & dress shoes'\n2. 'nydj' which sells 'pants'\n3. 'brownlow gifts' which sells 'cooking utensils'\n4. 'tennessee crafts' which sells 'hand tools'\n5. 'pfister' which sells 'home supplies'",
+  "response_text": "Kope Electric, LLC, a Commercial Services & Supplies company, has previously purchased casual & dress shoes from Durango, pants from NYDJ, cooking utensils from Brownlow Gifts, hand tools from Tennessee Crafts, and home supplies from Pfister."
+}

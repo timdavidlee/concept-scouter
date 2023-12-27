@@ -1,0 +1,28 @@
+{
+  "company": "roohi hotels marketing and consulting pvt ltd.",
+  "company_category": "Corporate Services",
+  "brands": [
+    [
+      "home decor",
+      "style master"
+    ],
+    [
+      "tops",
+      "little lass"
+    ],
+    [
+      "sandals",
+      "fergie"
+    ],
+    [
+      "bathroom accessories",
+      "saniflo"
+    ],
+    [
+      "drinkware",
+      "m-wave"
+    ]
+  ],
+  "prompt_text": "For the company 'roohi hotels marketing and consulting pvt ltd.' which is a 'Corporate Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'style master' which sells 'home decor'\n2. 'little lass' which sells 'tops'\n3. 'fergie' which sells 'sandals'\n4. 'saniflo' which sells 'bathroom accessories'\n5. 'm-wave' which sells 'drinkware'",
+  "response_text": "Roohi Hotels Marketing and Consulting Pvt Ltd., a Corporate Services company, previously made purchase from 'Style Master', a brand in the home decor industry. \n\nAs a Corporate Services company, Roohi Hotels Marketing and Consulting Pvt Ltd. has also purchased from 'Little Lass', a brand specializing in tops. \n\nAnother brand that Roohi Hotels Marketing and Consulting Pvt Ltd. has purchased from is 'Fergie', known for its trendy sandals. \n\nIn addition, Roohi Hotels Marketing and Consulting Pvt Ltd. has sourced bathroom accessories from 'Saniflo'. \n\nLastly, Roohi Hotels Marketing and Consulting Pvt Ltd. has acquired drinkware from 'M-Wave', a renowned brand in the industry."
+}

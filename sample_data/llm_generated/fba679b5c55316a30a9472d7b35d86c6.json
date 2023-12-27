@@ -1,0 +1,28 @@
+{
+  "company": "wec energy group",
+  "company_category": "Energy & Utilities",
+  "brands": [
+    [
+      "storage & organization",
+      "displays2go"
+    ],
+    [
+      "shorts",
+      "lee uniforms"
+    ],
+    [
+      "sporting goods",
+      "worthy promotional"
+    ],
+    [
+      "sporting goods",
+      "rico industries"
+    ],
+    [
+      "dinnerware & serveware",
+      "gibson elite"
+    ]
+  ],
+  "prompt_text": "For the company 'wec energy group' which is a 'Energy & Utilities' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'displays2go' which sells 'storage & organization'\n2. 'lee uniforms' which sells 'shorts'\n3. 'worthy promotional' which sells 'sporting goods'\n4. 'rico industries' which sells 'sporting goods'\n5. 'gibson elite' which sells 'dinnerware & serveware'",
+  "response_text": "wec energy group, an Energy & Utilities company, previously made a purchase from displays2go, a brand in the storage & organization category.\n\nwec energy group, an Energy & Utilities company, previously made a purchase from lee uniforms, a brand specializing in shorts.\n\nwec energy group, an Energy & Utilities company, previously made a purchase from worthy promotional, a brand in the sporting goods category.\n\nwec energy group, an Energy & Utilities company, previously made a purchase from rico industries, a brand specializing in sporting goods.\n\nwec energy group, an Energy & Utilities company, previously made a purchase from gibson elite, a brand in the dinnerware & serveware category."
+}
