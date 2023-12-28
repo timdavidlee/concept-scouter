@@ -1,0 +1,457 @@
+{
+  "text": "bishop business solutions, inc., an information technology company, has previously purchased home decor products from hangman products. additionally, the company has acquired dinnerware & serveware from the brand motorhead products. bishop business solutions, inc. has also sourced towels from joy mangano. in addition, the company has procured sewing and accessories from berwick offray. lastly, the company has obtained tops from t-line.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 31,
+      "label": "COMPANY"
+    },
+    {
+      "start": 36,
+      "end": 58,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 93,
+      "end": 103,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 118,
+      "end": 134,
+      "label": "BRAND"
+    },
+    {
+      "start": 175,
+      "end": 197,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 213,
+      "end": 231,
+      "label": "BRAND"
+    },
+    {
+      "start": 233,
+      "end": 264,
+      "label": "COMPANY"
+    },
+    {
+      "start": 282,
+      "end": 288,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 294,
+      "end": 305,
+      "label": "BRAND"
+    },
+    {
+      "start": 345,
+      "end": 367,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 373,
+      "end": 387,
+      "label": "BRAND"
+    },
+    {
+      "start": 422,
+      "end": 426,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 432,
+      "end": 438,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 15
+    },
+    {
+      "id": 2,
+      "start": 16,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 7,
+      "start": 33,
+      "end": 35
+    },
+    {
+      "id": 8,
+      "start": 36,
+      "end": 47
+    },
+    {
+      "id": 9,
+      "start": 48,
+      "end": 58
+    },
+    {
+      "id": 10,
+      "start": 59,
+      "end": 66
+    },
+    {
+      "id": 11,
+      "start": 66,
+      "end": 67
+    },
+    {
+      "id": 12,
+      "start": 68,
+      "end": 71
+    },
+    {
+      "id": 13,
+      "start": 72,
+      "end": 82
+    },
+    {
+      "id": 14,
+      "start": 83,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 97
+    },
+    {
+      "id": 16,
+      "start": 98,
+      "end": 103
+    },
+    {
+      "id": 17,
+      "start": 104,
+      "end": 112
+    },
+    {
+      "id": 18,
+      "start": 113,
+      "end": 117
+    },
+    {
+      "id": 19,
+      "start": 118,
+      "end": 125
+    },
+    {
+      "id": 20,
+      "start": 126,
+      "end": 134
+    },
+    {
+      "id": 21,
+      "start": 134,
+      "end": 135
+    },
+    {
+      "id": 22,
+      "start": 136,
+      "end": 148
+    },
+    {
+      "id": 23,
+      "start": 148,
+      "end": 149
+    },
+    {
+      "id": 24,
+      "start": 150,
+      "end": 153
+    },
+    {
+      "id": 25,
+      "start": 154,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 162,
+      "end": 165
+    },
+    {
+      "id": 27,
+      "start": 166,
+      "end": 174
+    },
+    {
+      "id": 28,
+      "start": 175,
+      "end": 185
+    },
+    {
+      "id": 29,
+      "start": 186,
+      "end": 187
+    },
+    {
+      "id": 30,
+      "start": 188,
+      "end": 197
+    },
+    {
+      "id": 31,
+      "start": 198,
+      "end": 202
+    },
+    {
+      "id": 32,
+      "start": 203,
+      "end": 206
+    },
+    {
+      "id": 33,
+      "start": 207,
+      "end": 212
+    },
+    {
+      "id": 34,
+      "start": 213,
+      "end": 222
+    },
+    {
+      "id": 35,
+      "start": 223,
+      "end": 231
+    },
+    {
+      "id": 36,
+      "start": 231,
+      "end": 232
+    },
+    {
+      "id": 37,
+      "start": 233,
+      "end": 239
+    },
+    {
+      "id": 38,
+      "start": 240,
+      "end": 248
+    },
+    {
+      "id": 39,
+      "start": 249,
+      "end": 258
+    },
+    {
+      "id": 40,
+      "start": 258,
+      "end": 259
+    },
+    {
+      "id": 41,
+      "start": 260,
+      "end": 263
+    },
+    {
+      "id": 42,
+      "start": 263,
+      "end": 264
+    },
+    {
+      "id": 43,
+      "start": 265,
+      "end": 268
+    },
+    {
+      "id": 44,
+      "start": 269,
+      "end": 273
+    },
+    {
+      "id": 45,
+      "start": 274,
+      "end": 281
+    },
+    {
+      "id": 46,
+      "start": 282,
+      "end": 288
+    },
+    {
+      "id": 47,
+      "start": 289,
+      "end": 293
+    },
+    {
+      "id": 48,
+      "start": 294,
+      "end": 297
+    },
+    {
+      "id": 49,
+      "start": 298,
+      "end": 305
+    },
+    {
+      "id": 50,
+      "start": 305,
+      "end": 306
+    },
+    {
+      "id": 51,
+      "start": 307,
+      "end": 309
+    },
+    {
+      "id": 52,
+      "start": 310,
+      "end": 318
+    },
+    {
+      "id": 53,
+      "start": 318,
+      "end": 319
+    },
+    {
+      "id": 54,
+      "start": 320,
+      "end": 323
+    },
+    {
+      "id": 55,
+      "start": 324,
+      "end": 331
+    },
+    {
+      "id": 56,
+      "start": 332,
+      "end": 335
+    },
+    {
+      "id": 57,
+      "start": 336,
+      "end": 344
+    },
+    {
+      "id": 58,
+      "start": 345,
+      "end": 351
+    },
+    {
+      "id": 59,
+      "start": 352,
+      "end": 355
+    },
+    {
+      "id": 60,
+      "start": 356,
+      "end": 367
+    },
+    {
+      "id": 61,
+      "start": 368,
+      "end": 372
+    },
+    {
+      "id": 62,
+      "start": 373,
+      "end": 380
+    },
+    {
+      "id": 63,
+      "start": 381,
+      "end": 387
+    },
+    {
+      "id": 64,
+      "start": 387,
+      "end": 388
+    },
+    {
+      "id": 65,
+      "start": 389,
+      "end": 395
+    },
+    {
+      "id": 66,
+      "start": 395,
+      "end": 396
+    },
+    {
+      "id": 67,
+      "start": 397,
+      "end": 400
+    },
+    {
+      "id": 68,
+      "start": 401,
+      "end": 408
+    },
+    {
+      "id": 69,
+      "start": 409,
+      "end": 412
+    },
+    {
+      "id": 70,
+      "start": 413,
+      "end": 421
+    },
+    {
+      "id": 71,
+      "start": 422,
+      "end": 426
+    },
+    {
+      "id": 72,
+      "start": 427,
+      "end": 431
+    },
+    {
+      "id": 73,
+      "start": 432,
+      "end": 433
+    },
+    {
+      "id": 74,
+      "start": 433,
+      "end": 434
+    },
+    {
+      "id": 75,
+      "start": 434,
+      "end": 438
+    },
+    {
+      "id": 76,
+      "start": 438,
+      "end": 439
+    }
+  ]
+}

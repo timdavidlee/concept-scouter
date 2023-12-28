@@ -1,0 +1,28 @@
+{
+  "company": "arnold & smith law, pllc",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "accessories",
+      "montague metal products"
+    ],
+    [
+      "storage & organization",
+      "safavieh"
+    ],
+    [
+      "tops",
+      "splendid"
+    ],
+    [
+      "sandals",
+      "pediped"
+    ],
+    [
+      "kitchen accessories",
+      "violet linen"
+    ]
+  ],
+  "prompt_text": "For the company 'arnold & smith law, pllc' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'montague metal products' which sells 'accessories'\n2. 'safavieh' which sells 'storage & organization'\n3. 'splendid' which sells 'tops'\n4. 'pediped' which sells 'sandals'\n5. 'violet linen' which sells 'kitchen accessories'",
+  "response_text": "Arnold & Smith Law, PLLC, a Professional Services company, previously purchased accessories from Montague Metal Products, storage & organization products from Safavieh, tops from Splendid, sandals from Pediped, and kitchen accessories from Violet Linen."
+}

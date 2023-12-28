@@ -4,9 +4,10 @@ from pathlib import Path
 
 import spacy
 from spacy.util import filter_spans
-from spacy.tokens import Span
+from spacy.tokens import Span, Doc, DocBin
 from spacy.matcher import PhraseMatcher
 
+DISK_LOCATION = "/tmp/train.spacy"
 LLM_GENERATED_DIR = Path("./sample_data/llm_generated/")
 SPACY_DOC_DIR = Path("./sample_data/spacy_docs/")
 
@@ -60,24 +61,47 @@ def convert_generated_text_to_annotated_payload(data: dict):
     # because a category could be `Computer Accessories` and also `Accessories`, generally take
     # the longer one first
     all_spans = filter_spans(all_spans)
-    output_doc = nlp(data["response_text"])
+    output_doc = nlp(data["response_text"].lower())
     output_doc.set_ents(all_spans)
 
     return output_doc
 
 
-def parse_llm_text_for_spacy():
+def parse_llm_text_for_spacy(force: bool = False, train_file: str = DISK_LOCATION):
     jsonfiles = list(LLM_GENERATED_DIR.glob("*"))
+    docbin = DocBin()
     for fl in jsonfiles:
         savefile = SPACY_DOC_DIR / fl.name
 
-        if savefile.exist():
+        if savefile.exists() and (not force):
             print("already converted, skipping: {}".format(savefile))
             continue
 
         data = load_json(fl)
         spacy_doc = convert_generated_text_to_annotated_payload(data)
+        docbin.add(spacy_doc)
 
         with open(savefile, "w") as f:
             f.write(json.dumps(spacy_doc.to_json(), indent=2))
             print("saved: {}".format(savefile))
+
+    docbin.to_disk(train_file)
+    print("spacy-serialized version saved to: {}".format(train_file))
+
+
+def load_json_formatted_spacy_doc(file: str):
+    nlp = spacy.blank("en")
+    with open(file, "r") as f:
+        doc = Doc(nlp.vocab).from_json(json.load(f))
+        return doc
+
+
+def color_ent_doc(doc: Doc):
+    colors = {
+        "COMPANY": "#B99095",
+        "COMPANY_CATEGORY": "#FCB5AC",
+        "BRAND": "#B5E5CF",
+        "BRAND_CATEGORY": "#3D5B59"
+    }
+    options = {"colors": colors}
+    spacy.displacy.render(doc, style="ent", options=options, jupyter=True)

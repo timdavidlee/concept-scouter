@@ -1,0 +1,28 @@
+{
+  "company": "dbs telecommunications, inc.",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "hand tools",
+      "apex tool group"
+    ],
+    [
+      "watches",
+      "cepheus"
+    ],
+    [
+      "home supplies",
+      "wowwr"
+    ],
+    [
+      "home decor",
+      "creative co-op"
+    ],
+    [
+      "sandals",
+      "romika"
+    ]
+  ],
+  "prompt_text": "For the company 'dbs telecommunications, inc.' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'apex tool group' which sells 'hand tools'\n2. 'cepheus' which sells 'watches'\n3. 'wowwr' which sells 'home supplies'\n4. 'creative co-op' which sells 'home decor'\n5. 'romika' which sells 'sandals'",
+  "response_text": "dbs telecommunications, inc., an Information Technology company, previously purchased hand tools from apex tool group.\ndbs telecommunications, inc., an Information Technology company, previously purchased watches from cepheus.\ndbs telecommunications, inc., an Information Technology company, previously purchased home supplies from wowwr.\ndbs telecommunications, inc., an Information Technology company, previously purchased home decor from creative co-op.\ndbs telecommunications, inc., an Information Technology company, previously purchased sandals from romika."
+}

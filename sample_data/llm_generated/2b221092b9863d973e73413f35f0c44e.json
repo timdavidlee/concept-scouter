@@ -1,0 +1,28 @@
+{
+  "company": "all day pharmacy llp",
+  "company_category": "Healthcare",
+  "brands": [
+    [
+      "kitchen accessories",
+      "primitives by kathy"
+    ],
+    [
+      "mobile phone accessories",
+      "beyond cell"
+    ],
+    [
+      "kitchen accessories",
+      "full circle"
+    ],
+    [
+      "table linens",
+      "gelpro"
+    ],
+    [
+      "table linens",
+      "saro lifestyle"
+    ]
+  ],
+  "prompt_text": "For the company 'all day pharmacy llp' which is a 'Healthcare' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'primitives by kathy' which sells 'kitchen accessories'\n2. 'beyond cell' which sells 'mobile phone accessories'\n3. 'full circle' which sells 'kitchen accessories'\n4. 'gelpro' which sells 'table linens'\n5. 'saro lifestyle' which sells 'table linens'",
+  "response_text": "1. All Day Pharmacy LLP, a healthcare company, has previously purchased kitchen accessories from Primitives by Kathy. \n2. Beyond Cell, a brand that specializes in mobile phone accessories, has been a prior purchase for All Day Pharmacy LLP.\n3. To enhance their kitchenware collection, All Day Pharmacy LLP has sourced kitchen accessories from Full Circle. \n4. All Day Pharmacy LLP has procured table linens from GelPro, a brand renowned for its quality linens.\n5. All Day Pharmacy LLP has also sourced table linens from Saro Lifestyle, a brand known for its exquisite designs in this category."
+}

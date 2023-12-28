@@ -1,0 +1,28 @@
+{
+  "company": "atwater veterinary clinic inc",
+  "company_category": "Healthcare",
+  "brands": [
+    [
+      "office supplies",
+      "adams"
+    ],
+    [
+      "car parts",
+      "kaper ii"
+    ],
+    [
+      "home supplies",
+      "draft king"
+    ],
+    [
+      "office supplies",
+      "texas instruments"
+    ],
+    [
+      "tops",
+      "jack of all trades"
+    ]
+  ],
+  "prompt_text": "For the company 'atwater veterinary clinic inc' which is a 'Healthcare' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'adams' which sells 'office supplies'\n2. 'kaper ii' which sells 'car parts'\n3. 'draft king' which sells 'home supplies'\n4. 'texas instruments' which sells 'office supplies'\n5. 'jack of all trades' which sells 'tops'",
+  "response_text": "Atwater Veterinary Clinic Inc., a healthcare company, previously purchased office supplies from Adams, car parts from Kaper II, home supplies from Draft King, office supplies from Texas Instruments, and tops from Jack of All Trades."
+}

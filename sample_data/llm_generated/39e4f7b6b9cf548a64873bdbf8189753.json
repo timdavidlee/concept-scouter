@@ -1,0 +1,28 @@
+{
+  "company": "cleanandclearsw",
+  "company_category": "Commercial Services & Supplies",
+  "brands": [
+    [
+      "storage & organization",
+      "heatherann"
+    ],
+    [
+      "jackets & coats",
+      "evidnt"
+    ],
+    [
+      "makeup",
+      "aspen pet"
+    ],
+    [
+      "bakeware & accessories",
+      "crestware"
+    ],
+    [
+      "nails, screws & fixings",
+      "radians (radbn)"
+    ]
+  ],
+  "prompt_text": "For the company 'cleanandclearsw' which is a 'Commercial Services & Supplies' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'heatherann' which sells 'storage & organization'\n2. 'evidnt' which sells 'jackets & coats'\n3. 'aspen pet' which sells 'makeup'\n4. 'crestware' which sells 'bakeware & accessories'\n5. 'radians (radbn)' which sells 'nails, screws & fixings'",
+  "response_text": "Cleanandclearsw, a Commercial Services & Supplies company, previously purchased storage and organization products from the brand Heatherann.\nCleanandclearsw, a Commercial Services & Supplies company, recently bought jackets and coats from the brand Evidnt.\nCleanandclearsw, a Commercial Services & Supplies company, acquired makeup products from the brand Aspen Pet.\nCleanandclearsw, a Commercial Services & Supplies company, recently purchased bakeware and accessories from the brand Crestware.\nCleanandclearsw, a Commercial Services & Supplies company, acquired nails, screws, and fixings from the brand Radians (Radbn)."
+}

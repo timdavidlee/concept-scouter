@@ -1,0 +1,332 @@
+{
+  "text": "alpha freight chain private limited, a transportation & logistics company, has previously purchased bedding sets and components from kensie. additionally, the company has procured office supplies from dello, nails, screws, and fixings from moen, storage and organization products from craft crush, and kitchen accessories from icup.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 35,
+      "label": "COMPANY"
+    },
+    {
+      "start": 39,
+      "end": 65,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 133,
+      "end": 139,
+      "label": "BRAND"
+    },
+    {
+      "start": 180,
+      "end": 195,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 201,
+      "end": 206,
+      "label": "BRAND"
+    },
+    {
+      "start": 240,
+      "end": 244,
+      "label": "BRAND"
+    },
+    {
+      "start": 285,
+      "end": 296,
+      "label": "BRAND"
+    },
+    {
+      "start": 302,
+      "end": 321,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 327,
+      "end": 331,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 20,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 38
+    },
+    {
+      "id": 7,
+      "start": 39,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 55
+    },
+    {
+      "id": 9,
+      "start": 56,
+      "end": 65
+    },
+    {
+      "id": 10,
+      "start": 66,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 73,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 89
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 113,
+      "end": 116
+    },
+    {
+      "id": 18,
+      "start": 117,
+      "end": 127
+    },
+    {
+      "id": 19,
+      "start": 128,
+      "end": 132
+    },
+    {
+      "id": 20,
+      "start": 133,
+      "end": 139
+    },
+    {
+      "id": 21,
+      "start": 139,
+      "end": 140
+    },
+    {
+      "id": 22,
+      "start": 141,
+      "end": 153
+    },
+    {
+      "id": 23,
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 24,
+      "start": 155,
+      "end": 158
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 166
+    },
+    {
+      "id": 26,
+      "start": 167,
+      "end": 170
+    },
+    {
+      "id": 27,
+      "start": 171,
+      "end": 179
+    },
+    {
+      "id": 28,
+      "start": 180,
+      "end": 186
+    },
+    {
+      "id": 29,
+      "start": 187,
+      "end": 195
+    },
+    {
+      "id": 30,
+      "start": 196,
+      "end": 200
+    },
+    {
+      "id": 31,
+      "start": 201,
+      "end": 206
+    },
+    {
+      "id": 32,
+      "start": 206,
+      "end": 207
+    },
+    {
+      "id": 33,
+      "start": 208,
+      "end": 213
+    },
+    {
+      "id": 34,
+      "start": 213,
+      "end": 214
+    },
+    {
+      "id": 35,
+      "start": 215,
+      "end": 221
+    },
+    {
+      "id": 36,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 223,
+      "end": 226
+    },
+    {
+      "id": 38,
+      "start": 227,
+      "end": 234
+    },
+    {
+      "id": 39,
+      "start": 235,
+      "end": 239
+    },
+    {
+      "id": 40,
+      "start": 240,
+      "end": 244
+    },
+    {
+      "id": 41,
+      "start": 244,
+      "end": 245
+    },
+    {
+      "id": 42,
+      "start": 246,
+      "end": 253
+    },
+    {
+      "id": 43,
+      "start": 254,
+      "end": 257
+    },
+    {
+      "id": 44,
+      "start": 258,
+      "end": 270
+    },
+    {
+      "id": 45,
+      "start": 271,
+      "end": 279
+    },
+    {
+      "id": 46,
+      "start": 280,
+      "end": 284
+    },
+    {
+      "id": 47,
+      "start": 285,
+      "end": 290
+    },
+    {
+      "id": 48,
+      "start": 291,
+      "end": 296
+    },
+    {
+      "id": 49,
+      "start": 296,
+      "end": 297
+    },
+    {
+      "id": 50,
+      "start": 298,
+      "end": 301
+    },
+    {
+      "id": 51,
+      "start": 302,
+      "end": 309
+    },
+    {
+      "id": 52,
+      "start": 310,
+      "end": 321
+    },
+    {
+      "id": 53,
+      "start": 322,
+      "end": 326
+    },
+    {
+      "id": 54,
+      "start": 327,
+      "end": 331
+    },
+    {
+      "id": 55,
+      "start": 331,
+      "end": 332
+    }
+  ]
+}

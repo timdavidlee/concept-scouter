@@ -1,0 +1,28 @@
+{
+  "company": "alpha freight chain private limited",
+  "company_category": "Transportation & Logistics",
+  "brands": [
+    [
+      "bedding sets & components",
+      "kensie"
+    ],
+    [
+      "office supplies",
+      "dello"
+    ],
+    [
+      "nails, screws & fixings",
+      "moen"
+    ],
+    [
+      "storage & organization",
+      "craft crush"
+    ],
+    [
+      "kitchen accessories",
+      "icup"
+    ]
+  ],
+  "prompt_text": "For the company 'alpha freight chain private limited' which is a 'Transportation & Logistics' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'kensie' which sells 'bedding sets & components'\n2. 'dello' which sells 'office supplies'\n3. 'moen' which sells 'nails, screws & fixings'\n4. 'craft crush' which sells 'storage & organization'\n5. 'icup' which sells 'kitchen accessories'",
+  "response_text": "Alpha Freight Chain Private Limited, a Transportation & Logistics company, has previously purchased bedding sets and components from Kensie. Additionally, the company has procured office supplies from Dello, nails, screws, and fixings from Moen, storage and organization products from Craft Crush, and kitchen accessories from iCup."
+}

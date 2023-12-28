@@ -1,0 +1,28 @@
+{
+  "company": "materials management consultants limited (mmc ltd.)",
+  "company_category": "Materials",
+  "brands": [
+    [
+      "sportswear",
+      "icer brands"
+    ],
+    [
+      "kitchen accessories",
+      "e by design"
+    ],
+    [
+      "kitchen accessories",
+      "winco"
+    ],
+    [
+      "athletic shoes",
+      "vizari"
+    ],
+    [
+      "table linens",
+      "violet linen"
+    ]
+  ],
+  "prompt_text": "For the company 'materials management consultants limited (mmc ltd.)' which is a 'Materials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'icer brands' which sells 'sportswear'\n2. 'e by design' which sells 'kitchen accessories'\n3. 'winco' which sells 'kitchen accessories'\n4. 'vizari' which sells 'athletic shoes'\n5. 'violet linen' which sells 'table linens'",
+  "response_text": "materials management consultants limited (mmc ltd.), a materials company, has previously purchased sportswear from icer brands.\nmmc ltd., a materials company, has previously purchased kitchen accessories from e by design and winco.\nmmc ltd., a materials company, has previously purchased athletic shoes from vizari.\nmmc ltd., a materials company, has previously purchased table linens from violet linen."
+}

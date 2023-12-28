@@ -1,0 +1,292 @@
+{
+  "text": "corn maiden foods inc., a consumer staples company, has previously purchased home supplies from steel harbor, cooking utensils from pavilion gift company, towels from sandy gingras, accessories from quality standard flags, and makeup from koh gen do.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 21,
+      "label": "COMPANY"
+    },
+    {
+      "start": 26,
+      "end": 42,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 77,
+      "end": 90,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 96,
+      "end": 108,
+      "label": "BRAND"
+    },
+    {
+      "start": 110,
+      "end": 126,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 132,
+      "end": 153,
+      "label": "BRAND"
+    },
+    {
+      "start": 155,
+      "end": 161,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 167,
+      "end": 180,
+      "label": "BRAND"
+    },
+    {
+      "start": 182,
+      "end": 193,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 199,
+      "end": 221,
+      "label": "BRAND"
+    },
+    {
+      "start": 227,
+      "end": 233,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 239,
+      "end": 249,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 22
+    },
+    {
+      "id": 5,
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": 6,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 7,
+      "start": 26,
+      "end": 34
+    },
+    {
+      "id": 8,
+      "start": 35,
+      "end": 42
+    },
+    {
+      "id": 9,
+      "start": 43,
+      "end": 50
+    },
+    {
+      "id": 10,
+      "start": 50,
+      "end": 51
+    },
+    {
+      "id": 11,
+      "start": 52,
+      "end": 55
+    },
+    {
+      "id": 12,
+      "start": 56,
+      "end": 66
+    },
+    {
+      "id": 13,
+      "start": 67,
+      "end": 76
+    },
+    {
+      "id": 14,
+      "start": 77,
+      "end": 81
+    },
+    {
+      "id": 15,
+      "start": 82,
+      "end": 90
+    },
+    {
+      "id": 16,
+      "start": 91,
+      "end": 95
+    },
+    {
+      "id": 17,
+      "start": 96,
+      "end": 101
+    },
+    {
+      "id": 18,
+      "start": 102,
+      "end": 108
+    },
+    {
+      "id": 19,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 20,
+      "start": 110,
+      "end": 117
+    },
+    {
+      "id": 21,
+      "start": 118,
+      "end": 126
+    },
+    {
+      "id": 22,
+      "start": 127,
+      "end": 131
+    },
+    {
+      "id": 23,
+      "start": 132,
+      "end": 140
+    },
+    {
+      "id": 24,
+      "start": 141,
+      "end": 145
+    },
+    {
+      "id": 25,
+      "start": 146,
+      "end": 153
+    },
+    {
+      "id": 26,
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 27,
+      "start": 155,
+      "end": 161
+    },
+    {
+      "id": 28,
+      "start": 162,
+      "end": 166
+    },
+    {
+      "id": 29,
+      "start": 167,
+      "end": 172
+    },
+    {
+      "id": 30,
+      "start": 173,
+      "end": 180
+    },
+    {
+      "id": 31,
+      "start": 180,
+      "end": 181
+    },
+    {
+      "id": 32,
+      "start": 182,
+      "end": 193
+    },
+    {
+      "id": 33,
+      "start": 194,
+      "end": 198
+    },
+    {
+      "id": 34,
+      "start": 199,
+      "end": 206
+    },
+    {
+      "id": 35,
+      "start": 207,
+      "end": 215
+    },
+    {
+      "id": 36,
+      "start": 216,
+      "end": 221
+    },
+    {
+      "id": 37,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 38,
+      "start": 223,
+      "end": 226
+    },
+    {
+      "id": 39,
+      "start": 227,
+      "end": 233
+    },
+    {
+      "id": 40,
+      "start": 234,
+      "end": 238
+    },
+    {
+      "id": 41,
+      "start": 239,
+      "end": 242
+    },
+    {
+      "id": 42,
+      "start": 243,
+      "end": 246
+    },
+    {
+      "id": 43,
+      "start": 247,
+      "end": 249
+    },
+    {
+      "id": 44,
+      "start": 249,
+      "end": 250
+    }
+  ]
+}

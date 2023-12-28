@@ -1,0 +1,28 @@
+{
+  "company": "alberta carpet & furnace cleaning",
+  "company_category": "Consumer Discretionary",
+  "brands": [
+    [
+      "bakeware & accessories",
+      "honey-can-do"
+    ],
+    [
+      "car care products",
+      "kaper ii"
+    ],
+    [
+      "handbags",
+      "foley + corinna"
+    ],
+    [
+      "casual & dress shoes",
+      "charles by charles david"
+    ],
+    [
+      "kitchen accessories",
+      "tablecraft"
+    ]
+  ],
+  "prompt_text": "For the company 'alberta carpet & furnace cleaning' which is a 'Consumer Discretionary' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'honey-can-do' which sells 'bakeware & accessories'\n2. 'kaper ii' which sells 'car care products'\n3. 'foley + corinna' which sells 'handbags'\n4. 'charles by charles david' which sells 'casual & dress shoes'\n5. 'tablecraft' which sells 'kitchen accessories'",
+  "response_text": "1. Alberta Carpet & Furnace Cleaning, a Consumer Discretionary company, has previously purchased bakeware and accessories from the brand Honey-Can-Do.\n2. Alberta Carpet & Furnace Cleaning, a Consumer Discretionary company, has previously purchased car care products from the brand Kaper II.\n3. Alberta Carpet & Furnace Cleaning, a Consumer Discretionary company, has previously purchased handbags from the brand Foley + Corinna.\n4. Alberta Carpet & Furnace Cleaning, a Consumer Discretionary company, has previously purchased casual and dress shoes from the brand Charles by Charles David.\n5. Alberta Carpet & Furnace Cleaning, a Consumer Discretionary company, has previously purchased kitchen accessories from the brand Tablecraft."
+}

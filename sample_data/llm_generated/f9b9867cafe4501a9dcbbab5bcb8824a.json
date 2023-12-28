@@ -1,0 +1,28 @@
+{
+  "company": "caro community hospital",
+  "company_category": "Healthcare",
+  "brands": [
+    [
+      "storage & organization",
+      "kyocera"
+    ],
+    [
+      "home supplies",
+      "cal-royal"
+    ],
+    [
+      "home decor",
+      "village wrought iron"
+    ],
+    [
+      "sporting goods",
+      "promate"
+    ],
+    [
+      "stationery",
+      "mooreco"
+    ]
+  ],
+  "prompt_text": "For the company 'caro community hospital' which is a 'Healthcare' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'kyocera' which sells 'storage & organization'\n2. 'cal-royal' which sells 'home supplies'\n3. 'village wrought iron' which sells 'home decor'\n4. 'promate' which sells 'sporting goods'\n5. 'mooreco' which sells 'stationery'",
+  "response_text": "Caro Community Hospital, a healthcare company, previously purchased storage and organization products from Kyocera, home supplies from Cal-Royal, home decor items from Village Wrought Iron, sporting goods from Promate, and stationery from Mooreco."
+}

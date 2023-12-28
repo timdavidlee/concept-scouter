@@ -1,0 +1,28 @@
+{
+  "company": "hunter banks fly fishing",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "casual & dress shoes",
+      "camper"
+    ],
+    [
+      "stationery",
+      "silhouette america"
+    ],
+    [
+      "casual & dress shoes",
+      "columbia"
+    ],
+    [
+      "home decor",
+      "artistic reflections"
+    ],
+    [
+      "casual & dress shoes",
+      "fergalicious"
+    ]
+  ],
+  "prompt_text": "For the company 'hunter banks fly fishing' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'camper' which sells 'casual & dress shoes'\n2. 'silhouette america' which sells 'stationery'\n3. 'columbia' which sells 'casual & dress shoes'\n4. 'artistic reflections' which sells 'home decor'\n5. 'fergalicious' which sells 'casual & dress shoes'",
+  "response_text": "Hunter Banks Fly Fishing, a prominent financials company in the industry, made a previous purchase from Camper, a well-known brand that specializes in casual and dress shoes. \n\nAs for Silhouette America, an established stationery brand, Hunter Banks Fly Fishing successfully made a purchase in the past.\n\nIn addition, Hunter Banks Fly Fishing has acquired products from Columbia, a renowned brand known for their casual and dress shoes.\n\nHunter Banks Fly Fishing also made a purchase from Artistic Reflections, a brand recognized for their exquisite home decor items.\n\nLastly, Fergalicious, a brand specializing in casual and dress shoes, had their products purchased by Hunter Banks Fly Fishing as well."
+}

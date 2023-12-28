@@ -3,3 +3,6 @@ numpy
 humanfriendly
 openai
 case-converter
+torch
+torchvision
+torchaudio

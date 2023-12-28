@@ -1,0 +1,28 @@
+{
+  "company": "xpertise recruitment ltd",
+  "company_category": "Corporate Services",
+  "brands": [
+    [
+      "bakeware & accessories",
+      "curious chef"
+    ],
+    [
+      "home decor",
+      "major-q"
+    ],
+    [
+      "car care products",
+      "bolt"
+    ],
+    [
+      "kitchen accessories",
+      "kess inhouse"
+    ],
+    [
+      "sewing and accessories",
+      "dritz sewing 101"
+    ]
+  ],
+  "prompt_text": "For the company 'xpertise recruitment ltd' which is a 'Corporate Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'curious chef' which sells 'bakeware & accessories'\n2. 'major-q' which sells 'home decor'\n3. 'bolt' which sells 'car care products'\n4. 'kess inhouse' which sells 'kitchen accessories'\n5. 'dritz sewing 101' which sells 'sewing and accessories'",
+  "response_text": "Xpertise Recruitment Ltd, a Corporate Services company, previously purchased bakeware and accessories from Curious Chef. Additionally, they have acquired home decor products from Major-Q, car care products from Bolt, kitchen accessories from Kess InHouse, and sewing and accessories from Dritz Sewing 101."
+}

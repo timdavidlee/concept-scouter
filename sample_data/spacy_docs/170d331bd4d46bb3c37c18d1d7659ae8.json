@@ -1,0 +1,722 @@
+{
+  "text": "hunter banks fly fishing, a prominent financials company in the industry, made a previous purchase from camper, a well-known brand that specializes in casual and dress shoes. \n\nas for silhouette america, an established stationery brand, hunter banks fly fishing successfully made a purchase in the past.\n\nin addition, hunter banks fly fishing has acquired products from columbia, a renowned brand known for their casual and dress shoes.\n\nhunter banks fly fishing also made a purchase from artistic reflections, a brand recognized for their exquisite home decor items.\n\nlastly, fergalicious, a brand specializing in casual and dress shoes, had their products purchased by hunter banks fly fishing as well.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 24,
+      "label": "COMPANY"
+    },
+    {
+      "start": 38,
+      "end": 48,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 104,
+      "end": 110,
+      "label": "BRAND"
+    },
+    {
+      "start": 184,
+      "end": 202,
+      "label": "BRAND"
+    },
+    {
+      "start": 219,
+      "end": 229,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 237,
+      "end": 261,
+      "label": "COMPANY"
+    },
+    {
+      "start": 318,
+      "end": 342,
+      "label": "COMPANY"
+    },
+    {
+      "start": 370,
+      "end": 378,
+      "label": "BRAND"
+    },
+    {
+      "start": 438,
+      "end": 462,
+      "label": "COMPANY"
+    },
+    {
+      "start": 489,
+      "end": 509,
+      "label": "BRAND"
+    },
+    {
+      "start": 550,
+      "end": 560,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 577,
+      "end": 589,
+      "label": "BRAND"
+    },
+    {
+      "start": 671,
+      "end": 695,
+      "label": "COMPANY"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 17,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 5,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 6,
+      "start": 28,
+      "end": 37
+    },
+    {
+      "id": 7,
+      "start": 38,
+      "end": 48
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 63
+    },
+    {
+      "id": 11,
+      "start": 64,
+      "end": 72
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 13,
+      "start": 74,
+      "end": 78
+    },
+    {
+      "id": 14,
+      "start": 79,
+      "end": 80
+    },
+    {
+      "id": 15,
+      "start": 81,
+      "end": 89
+    },
+    {
+      "id": 16,
+      "start": 90,
+      "end": 98
+    },
+    {
+      "id": 17,
+      "start": 99,
+      "end": 103
+    },
+    {
+      "id": 18,
+      "start": 104,
+      "end": 110
+    },
+    {
+      "id": 19,
+      "start": 110,
+      "end": 111
+    },
+    {
+      "id": 20,
+      "start": 112,
+      "end": 113
+    },
+    {
+      "id": 21,
+      "start": 114,
+      "end": 118
+    },
+    {
+      "id": 22,
+      "start": 118,
+      "end": 119
+    },
+    {
+      "id": 23,
+      "start": 119,
+      "end": 124
+    },
+    {
+      "id": 24,
+      "start": 125,
+      "end": 130
+    },
+    {
+      "id": 25,
+      "start": 131,
+      "end": 135
+    },
+    {
+      "id": 26,
+      "start": 136,
+      "end": 147
+    },
+    {
+      "id": 27,
+      "start": 148,
+      "end": 150
+    },
+    {
+      "id": 28,
+      "start": 151,
+      "end": 157
+    },
+    {
+      "id": 29,
+      "start": 158,
+      "end": 161
+    },
+    {
+      "id": 30,
+      "start": 162,
+      "end": 167
+    },
+    {
+      "id": 31,
+      "start": 168,
+      "end": 173
+    },
+    {
+      "id": 32,
+      "start": 173,
+      "end": 174
+    },
+    {
+      "id": 33,
+      "start": 175,
+      "end": 177
+    },
+    {
+      "id": 34,
+      "start": 177,
+      "end": 179
+    },
+    {
+      "id": 35,
+      "start": 180,
+      "end": 183
+    },
+    {
+      "id": 36,
+      "start": 184,
+      "end": 194
+    },
+    {
+      "id": 37,
+      "start": 195,
+      "end": 202
+    },
+    {
+      "id": 38,
+      "start": 202,
+      "end": 203
+    },
+    {
+      "id": 39,
+      "start": 204,
+      "end": 206
+    },
+    {
+      "id": 40,
+      "start": 207,
+      "end": 218
+    },
+    {
+      "id": 41,
+      "start": 219,
+      "end": 229
+    },
+    {
+      "id": 42,
+      "start": 230,
+      "end": 235
+    },
+    {
+      "id": 43,
+      "start": 235,
+      "end": 236
+    },
+    {
+      "id": 44,
+      "start": 237,
+      "end": 243
+    },
+    {
+      "id": 45,
+      "start": 244,
+      "end": 249
+    },
+    {
+      "id": 46,
+      "start": 250,
+      "end": 253
+    },
+    {
+      "id": 47,
+      "start": 254,
+      "end": 261
+    },
+    {
+      "id": 48,
+      "start": 262,
+      "end": 274
+    },
+    {
+      "id": 49,
+      "start": 275,
+      "end": 279
+    },
+    {
+      "id": 50,
+      "start": 280,
+      "end": 281
+    },
+    {
+      "id": 51,
+      "start": 282,
+      "end": 290
+    },
+    {
+      "id": 52,
+      "start": 291,
+      "end": 293
+    },
+    {
+      "id": 53,
+      "start": 294,
+      "end": 297
+    },
+    {
+      "id": 54,
+      "start": 298,
+      "end": 302
+    },
+    {
+      "id": 55,
+      "start": 302,
+      "end": 303
+    },
+    {
+      "id": 56,
+      "start": 303,
+      "end": 305
+    },
+    {
+      "id": 57,
+      "start": 305,
+      "end": 307
+    },
+    {
+      "id": 58,
+      "start": 308,
+      "end": 316
+    },
+    {
+      "id": 59,
+      "start": 316,
+      "end": 317
+    },
+    {
+      "id": 60,
+      "start": 318,
+      "end": 324
+    },
+    {
+      "id": 61,
+      "start": 325,
+      "end": 330
+    },
+    {
+      "id": 62,
+      "start": 331,
+      "end": 334
+    },
+    {
+      "id": 63,
+      "start": 335,
+      "end": 342
+    },
+    {
+      "id": 64,
+      "start": 343,
+      "end": 346
+    },
+    {
+      "id": 65,
+      "start": 347,
+      "end": 355
+    },
+    {
+      "id": 66,
+      "start": 356,
+      "end": 364
+    },
+    {
+      "id": 67,
+      "start": 365,
+      "end": 369
+    },
+    {
+      "id": 68,
+      "start": 370,
+      "end": 378
+    },
+    {
+      "id": 69,
+      "start": 378,
+      "end": 379
+    },
+    {
+      "id": 70,
+      "start": 380,
+      "end": 381
+    },
+    {
+      "id": 71,
+      "start": 382,
+      "end": 390
+    },
+    {
+      "id": 72,
+      "start": 391,
+      "end": 396
+    },
+    {
+      "id": 73,
+      "start": 397,
+      "end": 402
+    },
+    {
+      "id": 74,
+      "start": 403,
+      "end": 406
+    },
+    {
+      "id": 75,
+      "start": 407,
+      "end": 412
+    },
+    {
+      "id": 76,
+      "start": 413,
+      "end": 419
+    },
+    {
+      "id": 77,
+      "start": 420,
+      "end": 423
+    },
+    {
+      "id": 78,
+      "start": 424,
+      "end": 429
+    },
+    {
+      "id": 79,
+      "start": 430,
+      "end": 435
+    },
+    {
+      "id": 80,
+      "start": 435,
+      "end": 436
+    },
+    {
+      "id": 81,
+      "start": 436,
+      "end": 438
+    },
+    {
+      "id": 82,
+      "start": 438,
+      "end": 444
+    },
+    {
+      "id": 83,
+      "start": 445,
+      "end": 450
+    },
+    {
+      "id": 84,
+      "start": 451,
+      "end": 454
+    },
+    {
+      "id": 85,
+      "start": 455,
+      "end": 462
+    },
+    {
+      "id": 86,
+      "start": 463,
+      "end": 467
+    },
+    {
+      "id": 87,
+      "start": 468,
+      "end": 472
+    },
+    {
+      "id": 88,
+      "start": 473,
+      "end": 474
+    },
+    {
+      "id": 89,
+      "start": 475,
+      "end": 483
+    },
+    {
+      "id": 90,
+      "start": 484,
+      "end": 488
+    },
+    {
+      "id": 91,
+      "start": 489,
+      "end": 497
+    },
+    {
+      "id": 92,
+      "start": 498,
+      "end": 509
+    },
+    {
+      "id": 93,
+      "start": 509,
+      "end": 510
+    },
+    {
+      "id": 94,
+      "start": 511,
+      "end": 512
+    },
+    {
+      "id": 95,
+      "start": 513,
+      "end": 518
+    },
+    {
+      "id": 96,
+      "start": 519,
+      "end": 529
+    },
+    {
+      "id": 97,
+      "start": 530,
+      "end": 533
+    },
+    {
+      "id": 98,
+      "start": 534,
+      "end": 539
+    },
+    {
+      "id": 99,
+      "start": 540,
+      "end": 549
+    },
+    {
+      "id": 100,
+      "start": 550,
+      "end": 554
+    },
+    {
+      "id": 101,
+      "start": 555,
+      "end": 560
+    },
+    {
+      "id": 102,
+      "start": 561,
+      "end": 566
+    },
+    {
+      "id": 103,
+      "start": 566,
+      "end": 567
+    },
+    {
+      "id": 104,
+      "start": 567,
+      "end": 569
+    },
+    {
+      "id": 105,
+      "start": 569,
+      "end": 575
+    },
+    {
+      "id": 106,
+      "start": 575,
+      "end": 576
+    },
+    {
+      "id": 107,
+      "start": 577,
+      "end": 589
+    },
+    {
+      "id": 108,
+      "start": 589,
+      "end": 590
+    },
+    {
+      "id": 109,
+      "start": 591,
+      "end": 592
+    },
+    {
+      "id": 110,
+      "start": 593,
+      "end": 598
+    },
+    {
+      "id": 111,
+      "start": 599,
+      "end": 611
+    },
+    {
+      "id": 112,
+      "start": 612,
+      "end": 614
+    },
+    {
+      "id": 113,
+      "start": 615,
+      "end": 621
+    },
+    {
+      "id": 114,
+      "start": 622,
+      "end": 625
+    },
+    {
+      "id": 115,
+      "start": 626,
+      "end": 631
+    },
+    {
+      "id": 116,
+      "start": 632,
+      "end": 637
+    },
+    {
+      "id": 117,
+      "start": 637,
+      "end": 638
+    },
+    {
+      "id": 118,
+      "start": 639,
+      "end": 642
+    },
+    {
+      "id": 119,
+      "start": 643,
+      "end": 648
+    },
+    {
+      "id": 120,
+      "start": 649,
+      "end": 657
+    },
+    {
+      "id": 121,
+      "start": 658,
+      "end": 667
+    },
+    {
+      "id": 122,
+      "start": 668,
+      "end": 670
+    },
+    {
+      "id": 123,
+      "start": 671,
+      "end": 677
+    },
+    {
+      "id": 124,
+      "start": 678,
+      "end": 683
+    },
+    {
+      "id": 125,
+      "start": 684,
+      "end": 687
+    },
+    {
+      "id": 126,
+      "start": 688,
+      "end": 695
+    },
+    {
+      "id": 127,
+      "start": 696,
+      "end": 698
+    },
+    {
+      "id": 128,
+      "start": 699,
+      "end": 703
+    },
+    {
+      "id": 129,
+      "start": 703,
+      "end": 704
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "text": "arnold & smith law, pllc, a professional services company, previously purchased accessories from montague metal products, storage & organization products from safavieh, tops from splendid, sandals from pediped, and kitchen accessories from violet linen.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 24,
+      "label": "COMPANY"
+    },
+    {
+      "start": 28,
+      "end": 49,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 80,
+      "end": 91,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 97,
+      "end": 120,
+      "label": "BRAND"
+    },
+    {
+      "start": 122,
+      "end": 144,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 159,
+      "end": 167,
+      "label": "BRAND"
+    },
+    {
+      "start": 169,
+      "end": 173,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 179,
+      "end": 187,
+      "label": "BRAND"
+    },
+    {
+      "start": 189,
+      "end": 196,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 202,
+      "end": 209,
+      "label": "BRAND"
+    },
+    {
+      "start": 215,
+      "end": 234,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 240,
+      "end": 252,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 9,
+      "end": 14
+    },
+    {
+      "id": 3,
+      "start": 15,
+      "end": 18
+    },
+    {
+      "id": 4,
+      "start": 18,
+      "end": 19
+    },
+    {
+      "id": 5,
+      "start": 20,
+      "end": 24
+    },
+    {
+      "id": 6,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 7,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 8,
+      "start": 28,
+      "end": 40
+    },
+    {
+      "id": 9,
+      "start": 41,
+      "end": 49
+    },
+    {
+      "id": 10,
+      "start": 50,
+      "end": 57
+    },
+    {
+      "id": 11,
+      "start": 57,
+      "end": 58
+    },
+    {
+      "id": 12,
+      "start": 59,
+      "end": 69
+    },
+    {
+      "id": 13,
+      "start": 70,
+      "end": 79
+    },
+    {
+      "id": 14,
+      "start": 80,
+      "end": 91
+    },
+    {
+      "id": 15,
+      "start": 92,
+      "end": 96
+    },
+    {
+      "id": 16,
+      "start": 97,
+      "end": 105
+    },
+    {
+      "id": 17,
+      "start": 106,
+      "end": 111
+    },
+    {
+      "id": 18,
+      "start": 112,
+      "end": 120
+    },
+    {
+      "id": 19,
+      "start": 120,
+      "end": 121
+    },
+    {
+      "id": 20,
+      "start": 122,
+      "end": 129
+    },
+    {
+      "id": 21,
+      "start": 130,
+      "end": 131
+    },
+    {
+      "id": 22,
+      "start": 132,
+      "end": 144
+    },
+    {
+      "id": 23,
+      "start": 145,
+      "end": 153
+    },
+    {
+      "id": 24,
+      "start": 154,
+      "end": 158
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 167
+    },
+    {
+      "id": 26,
+      "start": 167,
+      "end": 168
+    },
+    {
+      "id": 27,
+      "start": 169,
+      "end": 173
+    },
+    {
+      "id": 28,
+      "start": 174,
+      "end": 178
+    },
+    {
+      "id": 29,
+      "start": 179,
+      "end": 187
+    },
+    {
+      "id": 30,
+      "start": 187,
+      "end": 188
+    },
+    {
+      "id": 31,
+      "start": 189,
+      "end": 196
+    },
+    {
+      "id": 32,
+      "start": 197,
+      "end": 201
+    },
+    {
+      "id": 33,
+      "start": 202,
+      "end": 209
+    },
+    {
+      "id": 34,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 35,
+      "start": 211,
+      "end": 214
+    },
+    {
+      "id": 36,
+      "start": 215,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 223,
+      "end": 234
+    },
+    {
+      "id": 38,
+      "start": 235,
+      "end": 239
+    },
+    {
+      "id": 39,
+      "start": 240,
+      "end": 246
+    },
+    {
+      "id": 40,
+      "start": 247,
+      "end": 252
+    },
+    {
+      "id": 41,
+      "start": 252,
+      "end": 253
+    }
+  ]
+}

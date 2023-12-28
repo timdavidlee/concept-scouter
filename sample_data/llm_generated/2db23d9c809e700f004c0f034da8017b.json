@@ -1,0 +1,28 @@
+{
+  "company": "raponi consulting",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "handbags",
+      "tommy bahama"
+    ],
+    [
+      "sleepwear",
+      "bluebella women's lingerie"
+    ],
+    [
+      "sewing and accessories",
+      "premier yarns"
+    ],
+    [
+      "bedding sets & components",
+      "lush decor"
+    ],
+    [
+      "home decor",
+      "apache mills"
+    ]
+  ],
+  "prompt_text": "For the company 'raponi consulting' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'tommy bahama' which sells 'handbags'\n2. 'bluebella women's lingerie' which sells 'sleepwear'\n3. 'premier yarns' which sells 'sewing and accessories'\n4. 'lush decor' which sells 'bedding sets & components'\n5. 'apache mills' which sells 'home decor'",
+  "response_text": "1. Raponi Consulting, a professional services company, previously purchased handbags from Tommy Bahama, a renowned brand in the fashion industry.\n2. Bluebella Women's Lingerie, a trusted seller of sleepwear, was chosen by Raponi Consulting, a professional services company, for their previous purchase of lingerie.\n3. Raponi Consulting, a professional services company, acquired sewing and accessories from Premier Yarns, a leading brand in the industry.\n4. Lush Decor, a prominent seller of bedding sets and components, was the chosen brand for Raponi Consulting, a professional services company, in their previous purchase.\n5. Apache Mills, a top-notch seller of home decor, was the brand selected by Raponi Consulting, a professional services company, for their previous purchase."
+}

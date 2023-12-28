@@ -1,0 +1,272 @@
+{
+  "text": "afp advanced food products llc, a consumer staples company, has previously purchased sandals from badgley mischka, accessories from buckle down, home supplies from the hillman group, athletic shoes from aravon, and boots from georgia.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 30,
+      "label": "COMPANY"
+    },
+    {
+      "start": 34,
+      "end": 50,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 85,
+      "end": 92,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 98,
+      "end": 113,
+      "label": "BRAND"
+    },
+    {
+      "start": 115,
+      "end": 126,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 132,
+      "end": 143,
+      "label": "BRAND"
+    },
+    {
+      "start": 145,
+      "end": 158,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 164,
+      "end": 181,
+      "label": "BRAND"
+    },
+    {
+      "start": 183,
+      "end": 197,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 203,
+      "end": 209,
+      "label": "BRAND"
+    },
+    {
+      "start": 215,
+      "end": 220,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 226,
+      "end": 233,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 32,
+      "end": 33
+    },
+    {
+      "id": 7,
+      "start": 34,
+      "end": 42
+    },
+    {
+      "id": 8,
+      "start": 43,
+      "end": 50
+    },
+    {
+      "id": 9,
+      "start": 51,
+      "end": 58
+    },
+    {
+      "id": 10,
+      "start": 58,
+      "end": 59
+    },
+    {
+      "id": 11,
+      "start": 60,
+      "end": 63
+    },
+    {
+      "id": 12,
+      "start": 64,
+      "end": 74
+    },
+    {
+      "id": 13,
+      "start": 75,
+      "end": 84
+    },
+    {
+      "id": 14,
+      "start": 85,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 97
+    },
+    {
+      "id": 16,
+      "start": 98,
+      "end": 105
+    },
+    {
+      "id": 17,
+      "start": 106,
+      "end": 113
+    },
+    {
+      "id": 18,
+      "start": 113,
+      "end": 114
+    },
+    {
+      "id": 19,
+      "start": 115,
+      "end": 126
+    },
+    {
+      "id": 20,
+      "start": 127,
+      "end": 131
+    },
+    {
+      "id": 21,
+      "start": 132,
+      "end": 138
+    },
+    {
+      "id": 22,
+      "start": 139,
+      "end": 143
+    },
+    {
+      "id": 23,
+      "start": 143,
+      "end": 144
+    },
+    {
+      "id": 24,
+      "start": 145,
+      "end": 149
+    },
+    {
+      "id": 25,
+      "start": 150,
+      "end": 158
+    },
+    {
+      "id": 26,
+      "start": 159,
+      "end": 163
+    },
+    {
+      "id": 27,
+      "start": 164,
+      "end": 167
+    },
+    {
+      "id": 28,
+      "start": 168,
+      "end": 175
+    },
+    {
+      "id": 29,
+      "start": 176,
+      "end": 181
+    },
+    {
+      "id": 30,
+      "start": 181,
+      "end": 182
+    },
+    {
+      "id": 31,
+      "start": 183,
+      "end": 191
+    },
+    {
+      "id": 32,
+      "start": 192,
+      "end": 197
+    },
+    {
+      "id": 33,
+      "start": 198,
+      "end": 202
+    },
+    {
+      "id": 34,
+      "start": 203,
+      "end": 209
+    },
+    {
+      "id": 35,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 36,
+      "start": 211,
+      "end": 214
+    },
+    {
+      "id": 37,
+      "start": 215,
+      "end": 220
+    },
+    {
+      "id": 38,
+      "start": 221,
+      "end": 225
+    },
+    {
+      "id": 39,
+      "start": 226,
+      "end": 233
+    },
+    {
+      "id": 40,
+      "start": 233,
+      "end": 234
+    }
+  ]
+}

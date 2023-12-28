@@ -1,0 +1,272 @@
+{
+  "text": "churchill drilling tools, an energy & utilities company, has previously purchased accessories from carhartt.\nadditionally, the company has purchased handbags from tommy bahama, sleepwear from carnival and yummie, and car parts from lang tools.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 24,
+      "label": "COMPANY"
+    },
+    {
+      "start": 29,
+      "end": 47,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 82,
+      "end": 93,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 99,
+      "end": 107,
+      "label": "BRAND"
+    },
+    {
+      "start": 149,
+      "end": 157,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 163,
+      "end": 175,
+      "label": "BRAND"
+    },
+    {
+      "start": 177,
+      "end": 186,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 192,
+      "end": 200,
+      "label": "BRAND"
+    },
+    {
+      "start": 205,
+      "end": 211,
+      "label": "BRAND"
+    },
+    {
+      "start": 217,
+      "end": 226,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 232,
+      "end": 242,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 18
+    },
+    {
+      "id": 2,
+      "start": 19,
+      "end": 24
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 4,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "id": 5,
+      "start": 29,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 37
+    },
+    {
+      "id": 7,
+      "start": 38,
+      "end": 47
+    },
+    {
+      "id": 8,
+      "start": 48,
+      "end": 55
+    },
+    {
+      "id": 9,
+      "start": 55,
+      "end": 56
+    },
+    {
+      "id": 10,
+      "start": 57,
+      "end": 60
+    },
+    {
+      "id": 11,
+      "start": 61,
+      "end": 71
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 81
+    },
+    {
+      "id": 13,
+      "start": 82,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 94,
+      "end": 98
+    },
+    {
+      "id": 15,
+      "start": 99,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 107,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 109,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 121,
+      "end": 122
+    },
+    {
+      "id": 20,
+      "start": 123,
+      "end": 126
+    },
+    {
+      "id": 21,
+      "start": 127,
+      "end": 134
+    },
+    {
+      "id": 22,
+      "start": 135,
+      "end": 138
+    },
+    {
+      "id": 23,
+      "start": 139,
+      "end": 148
+    },
+    {
+      "id": 24,
+      "start": 149,
+      "end": 157
+    },
+    {
+      "id": 25,
+      "start": 158,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 168
+    },
+    {
+      "id": 27,
+      "start": 169,
+      "end": 175
+    },
+    {
+      "id": 28,
+      "start": 175,
+      "end": 176
+    },
+    {
+      "id": 29,
+      "start": 177,
+      "end": 186
+    },
+    {
+      "id": 30,
+      "start": 187,
+      "end": 191
+    },
+    {
+      "id": 31,
+      "start": 192,
+      "end": 200
+    },
+    {
+      "id": 32,
+      "start": 201,
+      "end": 204
+    },
+    {
+      "id": 33,
+      "start": 205,
+      "end": 211
+    },
+    {
+      "id": 34,
+      "start": 211,
+      "end": 212
+    },
+    {
+      "id": 35,
+      "start": 213,
+      "end": 216
+    },
+    {
+      "id": 36,
+      "start": 217,
+      "end": 220
+    },
+    {
+      "id": 37,
+      "start": 221,
+      "end": 226
+    },
+    {
+      "id": 38,
+      "start": 227,
+      "end": 231
+    },
+    {
+      "id": 39,
+      "start": 232,
+      "end": 236
+    },
+    {
+      "id": 40,
+      "start": 237,
+      "end": 242
+    },
+    {
+      "id": 41,
+      "start": 242,
+      "end": 243
+    }
+  ]
+}

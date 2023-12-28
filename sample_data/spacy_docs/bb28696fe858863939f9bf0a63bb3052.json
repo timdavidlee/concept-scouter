@@ -1,0 +1,467 @@
+{
+  "text": "materials management consultants limited (mmc ltd.), a materials company, has previously purchased sportswear from icer brands.\nmmc ltd., a materials company, has previously purchased kitchen accessories from e by design and winco.\nmmc ltd., a materials company, has previously purchased athletic shoes from vizari.\nmmc ltd., a materials company, has previously purchased table linens from violet linen.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 51,
+      "label": "COMPANY"
+    },
+    {
+      "start": 55,
+      "end": 64,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 99,
+      "end": 109,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 115,
+      "end": 126,
+      "label": "BRAND"
+    },
+    {
+      "start": 140,
+      "end": 149,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 184,
+      "end": 203,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 209,
+      "end": 220,
+      "label": "BRAND"
+    },
+    {
+      "start": 225,
+      "end": 230,
+      "label": "BRAND"
+    },
+    {
+      "start": 244,
+      "end": 253,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 288,
+      "end": 302,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 308,
+      "end": 314,
+      "label": "BRAND"
+    },
+    {
+      "start": 328,
+      "end": 337,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 372,
+      "end": 384,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 390,
+      "end": 402,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 21,
+      "end": 32
+    },
+    {
+      "id": 3,
+      "start": 33,
+      "end": 40
+    },
+    {
+      "id": 4,
+      "start": 41,
+      "end": 42
+    },
+    {
+      "id": 5,
+      "start": 42,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 49,
+      "end": 50
+    },
+    {
+      "id": 8,
+      "start": 50,
+      "end": 51
+    },
+    {
+      "id": 9,
+      "start": 51,
+      "end": 52
+    },
+    {
+      "id": 10,
+      "start": 53,
+      "end": 54
+    },
+    {
+      "id": 11,
+      "start": 55,
+      "end": 64
+    },
+    {
+      "id": 12,
+      "start": 65,
+      "end": 72
+    },
+    {
+      "id": 13,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 14,
+      "start": 74,
+      "end": 77
+    },
+    {
+      "id": 15,
+      "start": 78,
+      "end": 88
+    },
+    {
+      "id": 16,
+      "start": 89,
+      "end": 98
+    },
+    {
+      "id": 17,
+      "start": 99,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 110,
+      "end": 114
+    },
+    {
+      "id": 19,
+      "start": 115,
+      "end": 119
+    },
+    {
+      "id": 20,
+      "start": 120,
+      "end": 126
+    },
+    {
+      "id": 21,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 22,
+      "start": 127,
+      "end": 128
+    },
+    {
+      "id": 23,
+      "start": 128,
+      "end": 131
+    },
+    {
+      "id": 24,
+      "start": 132,
+      "end": 135
+    },
+    {
+      "id": 25,
+      "start": 135,
+      "end": 136
+    },
+    {
+      "id": 26,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 27,
+      "start": 138,
+      "end": 139
+    },
+    {
+      "id": 28,
+      "start": 140,
+      "end": 149
+    },
+    {
+      "id": 29,
+      "start": 150,
+      "end": 157
+    },
+    {
+      "id": 30,
+      "start": 157,
+      "end": 158
+    },
+    {
+      "id": 31,
+      "start": 159,
+      "end": 162
+    },
+    {
+      "id": 32,
+      "start": 163,
+      "end": 173
+    },
+    {
+      "id": 33,
+      "start": 174,
+      "end": 183
+    },
+    {
+      "id": 34,
+      "start": 184,
+      "end": 191
+    },
+    {
+      "id": 35,
+      "start": 192,
+      "end": 203
+    },
+    {
+      "id": 36,
+      "start": 204,
+      "end": 208
+    },
+    {
+      "id": 37,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 38,
+      "start": 211,
+      "end": 213
+    },
+    {
+      "id": 39,
+      "start": 214,
+      "end": 220
+    },
+    {
+      "id": 40,
+      "start": 221,
+      "end": 224
+    },
+    {
+      "id": 41,
+      "start": 225,
+      "end": 230
+    },
+    {
+      "id": 42,
+      "start": 230,
+      "end": 231
+    },
+    {
+      "id": 43,
+      "start": 231,
+      "end": 232
+    },
+    {
+      "id": 44,
+      "start": 232,
+      "end": 235
+    },
+    {
+      "id": 45,
+      "start": 236,
+      "end": 239
+    },
+    {
+      "id": 46,
+      "start": 239,
+      "end": 240
+    },
+    {
+      "id": 47,
+      "start": 240,
+      "end": 241
+    },
+    {
+      "id": 48,
+      "start": 242,
+      "end": 243
+    },
+    {
+      "id": 49,
+      "start": 244,
+      "end": 253
+    },
+    {
+      "id": 50,
+      "start": 254,
+      "end": 261
+    },
+    {
+      "id": 51,
+      "start": 261,
+      "end": 262
+    },
+    {
+      "id": 52,
+      "start": 263,
+      "end": 266
+    },
+    {
+      "id": 53,
+      "start": 267,
+      "end": 277
+    },
+    {
+      "id": 54,
+      "start": 278,
+      "end": 287
+    },
+    {
+      "id": 55,
+      "start": 288,
+      "end": 296
+    },
+    {
+      "id": 56,
+      "start": 297,
+      "end": 302
+    },
+    {
+      "id": 57,
+      "start": 303,
+      "end": 307
+    },
+    {
+      "id": 58,
+      "start": 308,
+      "end": 314
+    },
+    {
+      "id": 59,
+      "start": 314,
+      "end": 315
+    },
+    {
+      "id": 60,
+      "start": 315,
+      "end": 316
+    },
+    {
+      "id": 61,
+      "start": 316,
+      "end": 319
+    },
+    {
+      "id": 62,
+      "start": 320,
+      "end": 323
+    },
+    {
+      "id": 63,
+      "start": 323,
+      "end": 324
+    },
+    {
+      "id": 64,
+      "start": 324,
+      "end": 325
+    },
+    {
+      "id": 65,
+      "start": 326,
+      "end": 327
+    },
+    {
+      "id": 66,
+      "start": 328,
+      "end": 337
+    },
+    {
+      "id": 67,
+      "start": 338,
+      "end": 345
+    },
+    {
+      "id": 68,
+      "start": 345,
+      "end": 346
+    },
+    {
+      "id": 69,
+      "start": 347,
+      "end": 350
+    },
+    {
+      "id": 70,
+      "start": 351,
+      "end": 361
+    },
+    {
+      "id": 71,
+      "start": 362,
+      "end": 371
+    },
+    {
+      "id": 72,
+      "start": 372,
+      "end": 377
+    },
+    {
+      "id": 73,
+      "start": 378,
+      "end": 384
+    },
+    {
+      "id": 74,
+      "start": 385,
+      "end": 389
+    },
+    {
+      "id": 75,
+      "start": 390,
+      "end": 396
+    },
+    {
+      "id": 76,
+      "start": 397,
+      "end": 402
+    },
+    {
+      "id": 77,
+      "start": 402,
+      "end": 403
+    }
+  ]
+}

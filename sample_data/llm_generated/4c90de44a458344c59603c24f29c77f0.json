@@ -1,0 +1,28 @@
+{
+  "company": "wood machinery systems inc",
+  "company_category": "Industrials",
+  "brands": [
+    [
+      "home decor",
+      "paper house productions"
+    ],
+    [
+      "shorts",
+      "dreamstar"
+    ],
+    [
+      "bakeware & accessories",
+      "putwo"
+    ],
+    [
+      "dinnerware & serveware",
+      "totally bamboo"
+    ],
+    [
+      "makeup",
+      "witch's pouch"
+    ]
+  ],
+  "prompt_text": "For the company 'wood machinery systems inc' which is a 'Industrials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'paper house productions' which sells 'home decor'\n2. 'dreamstar' which sells 'shorts'\n3. 'putwo' which sells 'bakeware & accessories'\n4. 'totally bamboo' which sells 'dinnerware & serveware'\n5. 'witch's pouch' which sells 'makeup'",
+  "response_text": "Wood Machinery Systems Inc., an industrials company, has previously purchased home decor products from Paper House Productions.\nIn addition, the company has also acquired shorts from Dreamstar.\nWood Machinery Systems Inc. has purchased bakeware and accessories from Putwo.\nFurthermore, the company sourced dinnerware and serveware from Totally Bamboo.\nLastly, Wood Machinery Systems Inc. has purchased makeup products from Witch's Pouch."
+}

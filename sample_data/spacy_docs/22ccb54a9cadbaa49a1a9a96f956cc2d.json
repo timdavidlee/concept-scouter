@@ -1,0 +1,317 @@
+{
+  "text": "pro computer inc, an information technology company, previously purchased mobile phone accessories from laudtec. additionally, they acquired home decor products from nojo and arthouse, as well as sporting goods from windy. lastly, pro computer inc also purchased hand tools from midwest rake.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 16,
+      "label": "COMPANY"
+    },
+    {
+      "start": 21,
+      "end": 43,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 74,
+      "end": 98,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 104,
+      "end": 111,
+      "label": "BRAND"
+    },
+    {
+      "start": 141,
+      "end": 151,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 166,
+      "end": 170,
+      "label": "BRAND"
+    },
+    {
+      "start": 175,
+      "end": 183,
+      "label": "BRAND"
+    },
+    {
+      "start": 196,
+      "end": 210,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 216,
+      "end": 221,
+      "label": "BRAND"
+    },
+    {
+      "start": 231,
+      "end": 247,
+      "label": "COMPANY"
+    },
+    {
+      "start": 263,
+      "end": 273,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 279,
+      "end": 291,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 17
+    },
+    {
+      "id": 4,
+      "start": 18,
+      "end": 20
+    },
+    {
+      "id": 5,
+      "start": 21,
+      "end": 32
+    },
+    {
+      "id": 6,
+      "start": 33,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 51,
+      "end": 52
+    },
+    {
+      "id": 9,
+      "start": 53,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 86
+    },
+    {
+      "id": 13,
+      "start": 87,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 103
+    },
+    {
+      "id": 15,
+      "start": 104,
+      "end": 111
+    },
+    {
+      "id": 16,
+      "start": 111,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 113,
+      "end": 125
+    },
+    {
+      "id": 18,
+      "start": 125,
+      "end": 126
+    },
+    {
+      "id": 19,
+      "start": 127,
+      "end": 131
+    },
+    {
+      "id": 20,
+      "start": 132,
+      "end": 140
+    },
+    {
+      "id": 21,
+      "start": 141,
+      "end": 145
+    },
+    {
+      "id": 22,
+      "start": 146,
+      "end": 151
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 160
+    },
+    {
+      "id": 24,
+      "start": 161,
+      "end": 165
+    },
+    {
+      "id": 25,
+      "start": 166,
+      "end": 170
+    },
+    {
+      "id": 26,
+      "start": 171,
+      "end": 174
+    },
+    {
+      "id": 27,
+      "start": 175,
+      "end": 183
+    },
+    {
+      "id": 28,
+      "start": 183,
+      "end": 184
+    },
+    {
+      "id": 29,
+      "start": 185,
+      "end": 187
+    },
+    {
+      "id": 30,
+      "start": 188,
+      "end": 192
+    },
+    {
+      "id": 31,
+      "start": 193,
+      "end": 195
+    },
+    {
+      "id": 32,
+      "start": 196,
+      "end": 204
+    },
+    {
+      "id": 33,
+      "start": 205,
+      "end": 210
+    },
+    {
+      "id": 34,
+      "start": 211,
+      "end": 215
+    },
+    {
+      "id": 35,
+      "start": 216,
+      "end": 221
+    },
+    {
+      "id": 36,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 223,
+      "end": 229
+    },
+    {
+      "id": 38,
+      "start": 229,
+      "end": 230
+    },
+    {
+      "id": 39,
+      "start": 231,
+      "end": 234
+    },
+    {
+      "id": 40,
+      "start": 235,
+      "end": 243
+    },
+    {
+      "id": 41,
+      "start": 244,
+      "end": 247
+    },
+    {
+      "id": 42,
+      "start": 248,
+      "end": 252
+    },
+    {
+      "id": 43,
+      "start": 253,
+      "end": 262
+    },
+    {
+      "id": 44,
+      "start": 263,
+      "end": 267
+    },
+    {
+      "id": 45,
+      "start": 268,
+      "end": 273
+    },
+    {
+      "id": 46,
+      "start": 274,
+      "end": 278
+    },
+    {
+      "id": 47,
+      "start": 279,
+      "end": 286
+    },
+    {
+      "id": 48,
+      "start": 287,
+      "end": 291
+    },
+    {
+      "id": 49,
+      "start": 291,
+      "end": 292
+    }
+  ]
+}

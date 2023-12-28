@@ -1,0 +1,28 @@
+{
+  "company": "d5 architects llp",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "storage & organization",
+      "dii"
+    ],
+    [
+      "boots",
+      "dunham"
+    ],
+    [
+      "home supplies",
+      "soss"
+    ],
+    [
+      "drinkware",
+      "cupture"
+    ],
+    [
+      "home supplies",
+      "momeni rugs"
+    ]
+  ],
+  "prompt_text": "For the company 'd5 architects llp' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'dii' which sells 'storage & organization'\n2. 'dunham' which sells 'boots'\n3. 'soss' which sells 'home supplies'\n4. 'cupture' which sells 'drinkware'\n5. 'momeni rugs' which sells 'home supplies'",
+  "response_text": "As a professional services company, d5 architects llp has previously purchased storage and organization products from dii.\nAdditionally, in the area of boots, d5 architects llp has acquired items from dunham.\nIn terms of home supplies, the company has made prior purchases from soss.\nFor drinkware options, d5 architects llp has sourced products from cupture.\nFurthermore, in the realm of home supplies, d5 architects llp has invested in products from momeni rugs."
+}

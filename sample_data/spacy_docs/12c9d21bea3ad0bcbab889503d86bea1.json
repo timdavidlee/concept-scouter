@@ -1,0 +1,282 @@
+{
+  "text": "atwater veterinary clinic inc., a healthcare company, previously purchased office supplies from adams, car parts from kaper ii, home supplies from draft king, office supplies from texas instruments, and tops from jack of all trades.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 29,
+      "label": "COMPANY"
+    },
+    {
+      "start": 34,
+      "end": 44,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 75,
+      "end": 90,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 96,
+      "end": 101,
+      "label": "BRAND"
+    },
+    {
+      "start": 103,
+      "end": 112,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 118,
+      "end": 126,
+      "label": "BRAND"
+    },
+    {
+      "start": 128,
+      "end": 141,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 147,
+      "end": 157,
+      "label": "BRAND"
+    },
+    {
+      "start": 159,
+      "end": 174,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 180,
+      "end": 197,
+      "label": "BRAND"
+    },
+    {
+      "start": 203,
+      "end": 207,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 213,
+      "end": 231,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 18
+    },
+    {
+      "id": 2,
+      "start": 19,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 32,
+      "end": 33
+    },
+    {
+      "id": 7,
+      "start": 34,
+      "end": 44
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 52
+    },
+    {
+      "id": 9,
+      "start": 52,
+      "end": 53
+    },
+    {
+      "id": 10,
+      "start": 54,
+      "end": 64
+    },
+    {
+      "id": 11,
+      "start": 65,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 81
+    },
+    {
+      "id": 13,
+      "start": 82,
+      "end": 90
+    },
+    {
+      "id": 14,
+      "start": 91,
+      "end": 95
+    },
+    {
+      "id": 15,
+      "start": 96,
+      "end": 101
+    },
+    {
+      "id": 16,
+      "start": 101,
+      "end": 102
+    },
+    {
+      "id": 17,
+      "start": 103,
+      "end": 106
+    },
+    {
+      "id": 18,
+      "start": 107,
+      "end": 112
+    },
+    {
+      "id": 19,
+      "start": 113,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 123
+    },
+    {
+      "id": 21,
+      "start": 124,
+      "end": 126
+    },
+    {
+      "id": 22,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 23,
+      "start": 128,
+      "end": 132
+    },
+    {
+      "id": 24,
+      "start": 133,
+      "end": 141
+    },
+    {
+      "id": 25,
+      "start": 142,
+      "end": 146
+    },
+    {
+      "id": 26,
+      "start": 147,
+      "end": 152
+    },
+    {
+      "id": 27,
+      "start": 153,
+      "end": 157
+    },
+    {
+      "id": 28,
+      "start": 157,
+      "end": 158
+    },
+    {
+      "id": 29,
+      "start": 159,
+      "end": 165
+    },
+    {
+      "id": 30,
+      "start": 166,
+      "end": 174
+    },
+    {
+      "id": 31,
+      "start": 175,
+      "end": 179
+    },
+    {
+      "id": 32,
+      "start": 180,
+      "end": 185
+    },
+    {
+      "id": 33,
+      "start": 186,
+      "end": 197
+    },
+    {
+      "id": 34,
+      "start": 197,
+      "end": 198
+    },
+    {
+      "id": 35,
+      "start": 199,
+      "end": 202
+    },
+    {
+      "id": 36,
+      "start": 203,
+      "end": 207
+    },
+    {
+      "id": 37,
+      "start": 208,
+      "end": 212
+    },
+    {
+      "id": 38,
+      "start": 213,
+      "end": 217
+    },
+    {
+      "id": 39,
+      "start": 218,
+      "end": 220
+    },
+    {
+      "id": 40,
+      "start": 221,
+      "end": 224
+    },
+    {
+      "id": 41,
+      "start": 225,
+      "end": 231
+    },
+    {
+      "id": 42,
+      "start": 231,
+      "end": 232
+    }
+  ]
+}

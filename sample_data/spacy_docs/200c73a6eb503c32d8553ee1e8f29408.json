@@ -1,0 +1,507 @@
+{
+  "text": "fidelity funding corp., a financials type company, previously made purchases from the following brands:\n\n1. bodico, a company in the storage & organization industry.\n2. richard, a company specializing in paint & supplies.\n3. parker, a brand known for their jackets & coats.\n4. zing green products, a supplier of home supplies.\n5. con-tact, a company in the storage & organization industry.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 22,
+      "label": "COMPANY"
+    },
+    {
+      "start": 26,
+      "end": 36,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 108,
+      "end": 114,
+      "label": "BRAND"
+    },
+    {
+      "start": 133,
+      "end": 155,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 169,
+      "end": 176,
+      "label": "BRAND"
+    },
+    {
+      "start": 204,
+      "end": 220,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 225,
+      "end": 231,
+      "label": "BRAND"
+    },
+    {
+      "start": 257,
+      "end": 272,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 277,
+      "end": 296,
+      "label": "BRAND"
+    },
+    {
+      "start": 312,
+      "end": 325,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 330,
+      "end": 338,
+      "label": "BRAND"
+    },
+    {
+      "start": 357,
+      "end": 379,
+      "label": "BRAND_CATEGORY"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 16
+    },
+    {
+      "id": 2,
+      "start": 17,
+      "end": 21
+    },
+    {
+      "id": 3,
+      "start": 21,
+      "end": 22
+    },
+    {
+      "id": 4,
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": 5,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 6,
+      "start": 26,
+      "end": 36
+    },
+    {
+      "id": 7,
+      "start": 37,
+      "end": 41
+    },
+    {
+      "id": 8,
+      "start": 42,
+      "end": 49
+    },
+    {
+      "id": 9,
+      "start": 49,
+      "end": 50
+    },
+    {
+      "id": 10,
+      "start": 51,
+      "end": 61
+    },
+    {
+      "id": 11,
+      "start": 62,
+      "end": 66
+    },
+    {
+      "id": 12,
+      "start": 67,
+      "end": 76
+    },
+    {
+      "id": 13,
+      "start": 77,
+      "end": 81
+    },
+    {
+      "id": 14,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 15,
+      "start": 86,
+      "end": 95
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 102
+    },
+    {
+      "id": 17,
+      "start": 102,
+      "end": 103
+    },
+    {
+      "id": 18,
+      "start": 103,
+      "end": 105
+    },
+    {
+      "id": 19,
+      "start": 105,
+      "end": 106
+    },
+    {
+      "id": 20,
+      "start": 106,
+      "end": 107
+    },
+    {
+      "id": 21,
+      "start": 108,
+      "end": 114
+    },
+    {
+      "id": 22,
+      "start": 114,
+      "end": 115
+    },
+    {
+      "id": 23,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 24,
+      "start": 118,
+      "end": 125
+    },
+    {
+      "id": 25,
+      "start": 126,
+      "end": 128
+    },
+    {
+      "id": 26,
+      "start": 129,
+      "end": 132
+    },
+    {
+      "id": 27,
+      "start": 133,
+      "end": 140
+    },
+    {
+      "id": 28,
+      "start": 141,
+      "end": 142
+    },
+    {
+      "id": 29,
+      "start": 143,
+      "end": 155
+    },
+    {
+      "id": 30,
+      "start": 156,
+      "end": 164
+    },
+    {
+      "id": 31,
+      "start": 164,
+      "end": 165
+    },
+    {
+      "id": 32,
+      "start": 165,
+      "end": 166
+    },
+    {
+      "id": 33,
+      "start": 166,
+      "end": 167
+    },
+    {
+      "id": 34,
+      "start": 167,
+      "end": 168
+    },
+    {
+      "id": 35,
+      "start": 169,
+      "end": 176
+    },
+    {
+      "id": 36,
+      "start": 176,
+      "end": 177
+    },
+    {
+      "id": 37,
+      "start": 178,
+      "end": 179
+    },
+    {
+      "id": 38,
+      "start": 180,
+      "end": 187
+    },
+    {
+      "id": 39,
+      "start": 188,
+      "end": 200
+    },
+    {
+      "id": 40,
+      "start": 201,
+      "end": 203
+    },
+    {
+      "id": 41,
+      "start": 204,
+      "end": 209
+    },
+    {
+      "id": 42,
+      "start": 210,
+      "end": 211
+    },
+    {
+      "id": 43,
+      "start": 212,
+      "end": 220
+    },
+    {
+      "id": 44,
+      "start": 220,
+      "end": 221
+    },
+    {
+      "id": 45,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 46,
+      "start": 222,
+      "end": 223
+    },
+    {
+      "id": 47,
+      "start": 223,
+      "end": 224
+    },
+    {
+      "id": 48,
+      "start": 225,
+      "end": 231
+    },
+    {
+      "id": 49,
+      "start": 231,
+      "end": 232
+    },
+    {
+      "id": 50,
+      "start": 233,
+      "end": 234
+    },
+    {
+      "id": 51,
+      "start": 235,
+      "end": 240
+    },
+    {
+      "id": 52,
+      "start": 241,
+      "end": 246
+    },
+    {
+      "id": 53,
+      "start": 247,
+      "end": 250
+    },
+    {
+      "id": 54,
+      "start": 251,
+      "end": 256
+    },
+    {
+      "id": 55,
+      "start": 257,
+      "end": 264
+    },
+    {
+      "id": 56,
+      "start": 265,
+      "end": 266
+    },
+    {
+      "id": 57,
+      "start": 267,
+      "end": 272
+    },
+    {
+      "id": 58,
+      "start": 272,
+      "end": 273
+    },
+    {
+      "id": 59,
+      "start": 273,
+      "end": 274
+    },
+    {
+      "id": 60,
+      "start": 274,
+      "end": 275
+    },
+    {
+      "id": 61,
+      "start": 275,
+      "end": 276
+    },
+    {
+      "id": 62,
+      "start": 277,
+      "end": 281
+    },
+    {
+      "id": 63,
+      "start": 282,
+      "end": 287
+    },
+    {
+      "id": 64,
+      "start": 288,
+      "end": 296
+    },
+    {
+      "id": 65,
+      "start": 296,
+      "end": 297
+    },
+    {
+      "id": 66,
+      "start": 298,
+      "end": 299
+    },
+    {
+      "id": 67,
+      "start": 300,
+      "end": 308
+    },
+    {
+      "id": 68,
+      "start": 309,
+      "end": 311
+    },
+    {
+      "id": 69,
+      "start": 312,
+      "end": 316
+    },
+    {
+      "id": 70,
+      "start": 317,
+      "end": 325
+    },
+    {
+      "id": 71,
+      "start": 325,
+      "end": 326
+    },
+    {
+      "id": 72,
+      "start": 326,
+      "end": 327
+    },
+    {
+      "id": 73,
+      "start": 327,
+      "end": 328
+    },
+    {
+      "id": 74,
+      "start": 328,
+      "end": 329
+    },
+    {
+      "id": 75,
+      "start": 330,
+      "end": 333
+    },
+    {
+      "id": 76,
+      "start": 333,
+      "end": 334
+    },
+    {
+      "id": 77,
+      "start": 334,
+      "end": 338
+    },
+    {
+      "id": 78,
+      "start": 338,
+      "end": 339
+    },
+    {
+      "id": 79,
+      "start": 340,
+      "end": 341
+    },
+    {
+      "id": 80,
+      "start": 342,
+      "end": 349
+    },
+    {
+      "id": 81,
+      "start": 350,
+      "end": 352
+    },
+    {
+      "id": 82,
+      "start": 353,
+      "end": 356
+    },
+    {
+      "id": 83,
+      "start": 357,
+      "end": 364
+    },
+    {
+      "id": 84,
+      "start": 365,
+      "end": 366
+    },
+    {
+      "id": 85,
+      "start": 367,
+      "end": 379
+    },
+    {
+      "id": 86,
+      "start": 380,
+      "end": 388
+    },
+    {
+      "id": 87,
+      "start": 388,
+      "end": 389
+    }
+  ]
+}

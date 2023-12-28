@@ -1,5 +1,5 @@
 {
-  "text": "Unit4 Business Software UK, an Information Technology company, has previously purchased towels from 3C4G.\nUnit4 Business Software UK, an Information Technology company, has previously purchased sporting goods from Rawlings.\nUnit4 Business Software UK, an Information Technology company, has previously purchased pants from Ruby Rd.\nUnit4 Business Software UK, an Information Technology company, has previously purchased home supplies from Accuform.\nUnit4 Business Software UK, an Information Technology company, has previously purchased hats and caps from Hats for You.",
+  "text": "unit4 business software uk, an information technology company, has previously purchased towels from 3c4g.\nunit4 business software uk, an information technology company, has previously purchased sporting goods from rawlings.\nunit4 business software uk, an information technology company, has previously purchased pants from ruby rd.\nunit4 business software uk, an information technology company, has previously purchased home supplies from accuform.\nunit4 business software uk, an information technology company, has previously purchased hats and caps from hats for you.",
   "ents": [
     {
       "start": 0,
@@ -17,78 +17,78 @@
       "label": "BRAND_CATEGORY"
     },
     {
-      "start": 112,
-      "end": 133,
+      "start": 106,
+      "end": 132,
       "label": "COMPANY"
     },
     {
-      "start": 149,
-      "end": 167,
+      "start": 137,
+      "end": 159,
       "label": "COMPANY_CATEGORY"
     },
     {
-      "start": 203,
-      "end": 213,
+      "start": 194,
+      "end": 208,
       "label": "BRAND_CATEGORY"
     },
     {
-      "start": 222,
-      "end": 223,
+      "start": 214,
+      "end": 222,
       "label": "BRAND"
     },
     {
-      "start": 230,
-      "end": 251,
+      "start": 224,
+      "end": 250,
       "label": "COMPANY"
     },
     {
-      "start": 267,
-      "end": 285,
+      "start": 255,
+      "end": 277,
       "label": "COMPANY_CATEGORY"
     },
     {
-      "start": 318,
-      "end": 322,
+      "start": 312,
+      "end": 317,
       "label": "BRAND_CATEGORY"
     },
     {
-      "start": 328,
-      "end": 332,
+      "start": 323,
+      "end": 331,
       "label": "BRAND"
     },
     {
-      "start": 338,
-      "end": 359,
+      "start": 332,
+      "end": 358,
       "label": "COMPANY"
     },
     {
-      "start": 375,
-      "end": 393,
+      "start": 363,
+      "end": 385,
       "label": "COMPANY_CATEGORY"
     },
     {
-      "start": 425,
-      "end": 438,
+      "start": 420,
+      "end": 433,
       "label": "BRAND_CATEGORY"
     },
     {
-      "start": 447,
-      "end": 448,
+      "start": 439,
+      "end": 447,
       "label": "BRAND"
     },
     {
-      "start": 455,
-      "end": 476,
+      "start": 449,
+      "end": 475,
       "label": "COMPANY"
     },
     {
-      "start": 492,
-      "end": 510,
+      "start": 480,
+      "end": 502,
       "label": "COMPANY_CATEGORY"
     },
     {
-      "start": 561,
-      "end": 569,
+      "start": 556,
+      "end": 568,
       "label": "BRAND"
     }
   ],
@@ -171,400 +171,405 @@
     {
       "id": 15,
       "start": 100,
-      "end": 105
+      "end": 103
     },
     {
       "id": 16,
+      "start": 103,
+      "end": 105
+    },
+    {
+      "id": 17,
       "start": 105,
       "end": 106
     },
     {
-      "id": 17,
+      "id": 18,
       "start": 106,
       "end": 111
     },
     {
-      "id": 18,
+      "id": 19,
       "start": 112,
       "end": 120
     },
     {
-      "id": 19,
+      "id": 20,
       "start": 121,
       "end": 129
     },
     {
-      "id": 20,
+      "id": 21,
       "start": 130,
       "end": 132
     },
     {
-      "id": 21,
+      "id": 22,
       "start": 132,
       "end": 133
     },
     {
-      "id": 22,
+      "id": 23,
       "start": 134,
       "end": 136
     },
     {
-      "id": 23,
+      "id": 24,
       "start": 137,
       "end": 148
     },
     {
-      "id": 24,
+      "id": 25,
       "start": 149,
       "end": 159
     },
     {
-      "id": 25,
+      "id": 26,
       "start": 160,
       "end": 167
     },
     {
-      "id": 26,
+      "id": 27,
       "start": 167,
       "end": 168
     },
     {
-      "id": 27,
+      "id": 28,
       "start": 169,
       "end": 172
     },
     {
-      "id": 28,
+      "id": 29,
       "start": 173,
       "end": 183
     },
     {
-      "id": 29,
+      "id": 30,
       "start": 184,
       "end": 193
     },
     {
-      "id": 30,
+      "id": 31,
       "start": 194,
       "end": 202
     },
     {
-      "id": 31,
+      "id": 32,
       "start": 203,
       "end": 208
     },
     {
-      "id": 32,
+      "id": 33,
       "start": 209,
       "end": 213
     },
     {
-      "id": 33,
+      "id": 34,
       "start": 214,
       "end": 222
     },
     {
-      "id": 34,
+      "id": 35,
       "start": 222,
       "end": 223
     },
     {
-      "id": 35,
+      "id": 36,
       "start": 223,
       "end": 224
     },
     {
-      "id": 36,
+      "id": 37,
       "start": 224,
       "end": 229
     },
     {
-      "id": 37,
+      "id": 38,
       "start": 230,
       "end": 238
     },
     {
-      "id": 38,
+      "id": 39,
       "start": 239,
       "end": 247
     },
     {
-      "id": 39,
+      "id": 40,
       "start": 248,
       "end": 250
     },
     {
-      "id": 40,
+      "id": 41,
       "start": 250,
       "end": 251
     },
     {
-      "id": 41,
+      "id": 42,
       "start": 252,
       "end": 254
     },
     {
-      "id": 42,
+      "id": 43,
       "start": 255,
       "end": 266
     },
     {
-      "id": 43,
+      "id": 44,
       "start": 267,
       "end": 277
     },
     {
-      "id": 44,
+      "id": 45,
       "start": 278,
       "end": 285
     },
     {
-      "id": 45,
+      "id": 46,
       "start": 285,
       "end": 286
     },
     {
-      "id": 46,
+      "id": 47,
       "start": 287,
       "end": 290
     },
     {
-      "id": 47,
+      "id": 48,
       "start": 291,
       "end": 301
     },
     {
-      "id": 48,
+      "id": 49,
       "start": 302,
       "end": 311
     },
     {
-      "id": 49,
+      "id": 50,
       "start": 312,
       "end": 317
     },
     {
-      "id": 50,
+      "id": 51,
       "start": 318,
       "end": 322
     },
     {
-      "id": 51,
+      "id": 52,
       "start": 323,
       "end": 327
     },
     {
-      "id": 52,
+      "id": 53,
       "start": 328,
       "end": 330
     },
     {
-      "id": 53,
+      "id": 54,
       "start": 330,
       "end": 331
     },
     {
-      "id": 54,
+      "id": 55,
       "start": 331,
       "end": 332
     },
     {
-      "id": 55,
+      "id": 56,
       "start": 332,
       "end": 337
     },
     {
-      "id": 56,
+      "id": 57,
       "start": 338,
       "end": 346
     },
     {
-      "id": 57,
+      "id": 58,
       "start": 347,
       "end": 355
     },
     {
-      "id": 58,
+      "id": 59,
       "start": 356,
       "end": 358
     },
     {
-      "id": 59,
+      "id": 60,
       "start": 358,
       "end": 359
     },
     {
-      "id": 60,
+      "id": 61,
       "start": 360,
       "end": 362
     },
     {
-      "id": 61,
+      "id": 62,
       "start": 363,
       "end": 374
     },
     {
-      "id": 62,
+      "id": 63,
       "start": 375,
       "end": 385
     },
     {
-      "id": 63,
+      "id": 64,
       "start": 386,
       "end": 393
     },
     {
-      "id": 64,
+      "id": 65,
       "start": 393,
       "end": 394
     },
     {
-      "id": 65,
+      "id": 66,
       "start": 395,
       "end": 398
     },
     {
-      "id": 66,
+      "id": 67,
       "start": 399,
       "end": 409
     },
     {
-      "id": 67,
+      "id": 68,
       "start": 410,
       "end": 419
     },
     {
-      "id": 68,
+      "id": 69,
       "start": 420,
       "end": 424
     },
     {
-      "id": 69,
+      "id": 70,
       "start": 425,
       "end": 433
     },
     {
-      "id": 70,
+      "id": 71,
       "start": 434,
       "end": 438
     },
     {
-      "id": 71,
+      "id": 72,
       "start": 439,
       "end": 447
     },
     {
-      "id": 72,
+      "id": 73,
       "start": 447,
       "end": 448
     },
     {
-      "id": 73,
+      "id": 74,
       "start": 448,
       "end": 449
     },
     {
-      "id": 74,
+      "id": 75,
       "start": 449,
       "end": 454
     },
     {
-      "id": 75,
+      "id": 76,
       "start": 455,
       "end": 463
     },
     {
-      "id": 76,
+      "id": 77,
       "start": 464,
       "end": 472
     },
     {
-      "id": 77,
+      "id": 78,
       "start": 473,
       "end": 475
     },
     {
-      "id": 78,
+      "id": 79,
       "start": 475,
       "end": 476
     },
     {
-      "id": 79,
+      "id": 80,
       "start": 477,
       "end": 479
     },
     {
-      "id": 80,
+      "id": 81,
       "start": 480,
       "end": 491
     },
     {
-      "id": 81,
+      "id": 82,
       "start": 492,
       "end": 502
     },
     {
-      "id": 82,
+      "id": 83,
       "start": 503,
       "end": 510
     },
     {
-      "id": 83,
+      "id": 84,
       "start": 510,
       "end": 511
     },
     {
-      "id": 84,
+      "id": 85,
       "start": 512,
       "end": 515
     },
     {
-      "id": 85,
+      "id": 86,
       "start": 516,
       "end": 526
     },
     {
-      "id": 86,
+      "id": 87,
       "start": 527,
       "end": 536
     },
     {
-      "id": 87,
+      "id": 88,
       "start": 537,
       "end": 541
     },
     {
-      "id": 88,
+      "id": 89,
       "start": 542,
       "end": 545
     },
     {
-      "id": 89,
+      "id": 90,
       "start": 546,
       "end": 550
     },
     {
-      "id": 90,
+      "id": 91,
       "start": 551,
       "end": 555
     },
     {
-      "id": 91,
+      "id": 92,
       "start": 556,
       "end": 560
     },
     {
-      "id": 92,
+      "id": 93,
       "start": 561,
       "end": 564
     },
     {
-      "id": 93,
+      "id": 94,
       "start": 565,
       "end": 568
     },
     {
-      "id": 94,
+      "id": 95,
       "start": 568,
       "end": 569
     }

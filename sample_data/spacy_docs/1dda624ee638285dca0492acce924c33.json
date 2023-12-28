@@ -1,0 +1,332 @@
+{
+  "text": "the jeannette rankin women's scholarship fund, a financials type company, has previously purchased sportswear from helly hansen. the company has also acquired handbags from loqi, bedding sets & components from echelon home, sporting goods from phantom aquatics, and dinnerware & serveware from fusion art glass.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 45,
+      "label": "COMPANY"
+    },
+    {
+      "start": 49,
+      "end": 59,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 99,
+      "end": 109,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 115,
+      "end": 127,
+      "label": "BRAND"
+    },
+    {
+      "start": 159,
+      "end": 167,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 173,
+      "end": 177,
+      "label": "BRAND"
+    },
+    {
+      "start": 179,
+      "end": 204,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 210,
+      "end": 222,
+      "label": "BRAND"
+    },
+    {
+      "start": 224,
+      "end": 238,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 244,
+      "end": 260,
+      "label": "BRAND"
+    },
+    {
+      "start": 266,
+      "end": 288,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 294,
+      "end": 310,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 20
+    },
+    {
+      "id": 3,
+      "start": 21,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "id": 5,
+      "start": 29,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 45,
+      "end": 46
+    },
+    {
+      "id": 8,
+      "start": 47,
+      "end": 48
+    },
+    {
+      "id": 9,
+      "start": 49,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 64
+    },
+    {
+      "id": 11,
+      "start": 65,
+      "end": 72
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 13,
+      "start": 74,
+      "end": 77
+    },
+    {
+      "id": 14,
+      "start": 78,
+      "end": 88
+    },
+    {
+      "id": 15,
+      "start": 89,
+      "end": 98
+    },
+    {
+      "id": 16,
+      "start": 99,
+      "end": 109
+    },
+    {
+      "id": 17,
+      "start": 110,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 120
+    },
+    {
+      "id": 19,
+      "start": 121,
+      "end": 127
+    },
+    {
+      "id": 20,
+      "start": 127,
+      "end": 128
+    },
+    {
+      "id": 21,
+      "start": 129,
+      "end": 132
+    },
+    {
+      "id": 22,
+      "start": 133,
+      "end": 140
+    },
+    {
+      "id": 23,
+      "start": 141,
+      "end": 144
+    },
+    {
+      "id": 24,
+      "start": 145,
+      "end": 149
+    },
+    {
+      "id": 25,
+      "start": 150,
+      "end": 158
+    },
+    {
+      "id": 26,
+      "start": 159,
+      "end": 167
+    },
+    {
+      "id": 27,
+      "start": 168,
+      "end": 172
+    },
+    {
+      "id": 28,
+      "start": 173,
+      "end": 177
+    },
+    {
+      "id": 29,
+      "start": 177,
+      "end": 178
+    },
+    {
+      "id": 30,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 31,
+      "start": 187,
+      "end": 191
+    },
+    {
+      "id": 32,
+      "start": 192,
+      "end": 193
+    },
+    {
+      "id": 33,
+      "start": 194,
+      "end": 204
+    },
+    {
+      "id": 34,
+      "start": 205,
+      "end": 209
+    },
+    {
+      "id": 35,
+      "start": 210,
+      "end": 217
+    },
+    {
+      "id": 36,
+      "start": 218,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 222,
+      "end": 223
+    },
+    {
+      "id": 38,
+      "start": 224,
+      "end": 232
+    },
+    {
+      "id": 39,
+      "start": 233,
+      "end": 238
+    },
+    {
+      "id": 40,
+      "start": 239,
+      "end": 243
+    },
+    {
+      "id": 41,
+      "start": 244,
+      "end": 251
+    },
+    {
+      "id": 42,
+      "start": 252,
+      "end": 260
+    },
+    {
+      "id": 43,
+      "start": 260,
+      "end": 261
+    },
+    {
+      "id": 44,
+      "start": 262,
+      "end": 265
+    },
+    {
+      "id": 45,
+      "start": 266,
+      "end": 276
+    },
+    {
+      "id": 46,
+      "start": 277,
+      "end": 278
+    },
+    {
+      "id": 47,
+      "start": 279,
+      "end": 288
+    },
+    {
+      "id": 48,
+      "start": 289,
+      "end": 293
+    },
+    {
+      "id": 49,
+      "start": 294,
+      "end": 300
+    },
+    {
+      "id": 50,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 51,
+      "start": 305,
+      "end": 310
+    },
+    {
+      "id": 52,
+      "start": 310,
+      "end": 311
+    }
+  ]
+}

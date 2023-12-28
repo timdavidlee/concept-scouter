@@ -1,0 +1,28 @@
+{
+  "company": "benchmark law corporation",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "pants",
+      "rainbeau curves"
+    ],
+    [
+      "storage & organization",
+      "sts"
+    ],
+    [
+      "watches",
+      "cross"
+    ],
+    [
+      "storage & organization",
+      "chef craft"
+    ],
+    [
+      "shorts",
+      "rachel zoe"
+    ]
+  ],
+  "prompt_text": "For the company 'benchmark law corporation' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'rainbeau curves' which sells 'pants'\n2. 'sts' which sells 'storage & organization'\n3. 'cross' which sells 'watches'\n4. 'chef craft' which sells 'storage & organization'\n5. 'rachel zoe' which sells 'shorts'",
+  "response_text": "Benchmark Law Corporation is a Professional Services company that previously purchased pants from Rainbeau Curves. \n\nAs a Professional Services company, Benchmark Law Corporation also acquired storage & organization products from STS.\n\nBenchmark Law Corporation, a Professional Services company, has procured watches from Cross for their operations.\n\nAdditionally, Benchmark Law Corporation purchased storage & organization items from Chef Craft as part of their business needs.\n\nLastly, Benchmark Law Corporation, a Professional Services company, has sourced shorts from Rachel Zoe to meet their dress code requirements."
+}

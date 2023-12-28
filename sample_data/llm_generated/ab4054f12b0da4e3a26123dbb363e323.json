@@ -1,0 +1,28 @@
+{
+  "company": "torro funding group",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "sleepwear",
+      "daniel buchler"
+    ],
+    [
+      "athletic shoes",
+      "tommy bahama"
+    ],
+    [
+      "storage & organization",
+      "old dutch"
+    ],
+    [
+      "boots",
+      "kendall + kylie"
+    ],
+    [
+      "mobile phone accessories",
+      "gift trenz"
+    ]
+  ],
+  "prompt_text": "For the company 'torro funding group' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'daniel buchler' which sells 'sleepwear'\n2. 'tommy bahama' which sells 'athletic shoes'\n3. 'old dutch' which sells 'storage & organization'\n4. 'kendall + kylie' which sells 'boots'\n5. 'gift trenz' which sells 'mobile phone accessories'",
+  "response_text": "The Torro Funding Group, a Financials company, previously purchased sleepwear from Daniel Buchler. \n\nAdditionally, Torro Funding Group acquired athletic shoes from Tommy Bahama.\n\nFurthermore, the company acquired storage and organization products from Old Dutch.\n\nMoreover, Torro Funding Group purchased boots from the brand Kendall + Kylie.\n\nLastly, the company also acquired mobile phone accessories from Gift Trenz."
+}

@@ -1,0 +1,28 @@
+{
+  "company": "bishop business solutions, inc.",
+  "company_category": "Information Technology",
+  "brands": [
+    [
+      "home decor",
+      "hangman products"
+    ],
+    [
+      "dinnerware & serveware",
+      "motorhead products"
+    ],
+    [
+      "towels",
+      "joy mangano"
+    ],
+    [
+      "sewing and accessories",
+      "berwick offray"
+    ],
+    [
+      "tops",
+      "t-line"
+    ]
+  ],
+  "prompt_text": "For the company 'bishop business solutions, inc.' which is a 'Information Technology' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'hangman products' which sells 'home decor'\n2. 'motorhead products' which sells 'dinnerware & serveware'\n3. 'joy mangano' which sells 'towels'\n4. 'berwick offray' which sells 'sewing and accessories'\n5. 't-line' which sells 'tops'",
+  "response_text": "Bishop Business Solutions, Inc., an Information Technology company, has previously purchased home decor products from Hangman Products. Additionally, the company has acquired dinnerware & serveware from the brand MotorHead Products. Bishop Business Solutions, Inc. has also sourced towels from Joy Mangano. In addition, the company has procured sewing and accessories from Berwick Offray. Lastly, the company has obtained tops from T-Line."
+}

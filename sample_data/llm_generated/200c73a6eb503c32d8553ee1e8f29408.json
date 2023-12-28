@@ -1,0 +1,28 @@
+{
+  "company": "fidelity funding corp.",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "storage & organization",
+      "bodico"
+    ],
+    [
+      "paint & supplies",
+      "richard"
+    ],
+    [
+      "jackets & coats",
+      "parker"
+    ],
+    [
+      "home supplies",
+      "zing green products"
+    ],
+    [
+      "storage & organization",
+      "con-tact"
+    ]
+  ],
+  "prompt_text": "For the company 'fidelity funding corp.' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'bodico' which sells 'storage & organization'\n2. 'richard' which sells 'paint & supplies'\n3. 'parker' which sells 'jackets & coats'\n4. 'zing green products' which sells 'home supplies'\n5. 'con-tact' which sells 'storage & organization'",
+  "response_text": "Fidelity Funding Corp., a Financials type company, previously made purchases from the following brands:\n\n1. Bodico, a company in the storage & organization industry.\n2. Richard, a company specializing in paint & supplies.\n3. Parker, a brand known for their jackets & coats.\n4. Zing Green Products, a supplier of home supplies.\n5. Con-Tact, a company in the storage & organization industry."
+}

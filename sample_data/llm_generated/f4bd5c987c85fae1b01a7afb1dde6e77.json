@@ -1,0 +1,28 @@
+{
+  "company": "linacre private hospital",
+  "company_category": "Healthcare",
+  "brands": [
+    [
+      "bedding sets & components",
+      "casper"
+    ],
+    [
+      "stationery",
+      "neenah"
+    ],
+    [
+      "watches",
+      "wenger"
+    ],
+    [
+      "casual & dress shoes",
+      "sanita"
+    ],
+    [
+      "makeup",
+      "touche cosmetics"
+    ]
+  ],
+  "prompt_text": "For the company 'linacre private hospital' which is a 'Healthcare' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'casper' which sells 'bedding sets & components'\n2. 'neenah' which sells 'stationery'\n3. 'wenger' which sells 'watches'\n4. 'sanita' which sells 'casual & dress shoes'\n5. 'touche cosmetics' which sells 'makeup'",
+  "response_text": "1. Linacre Private Hospital purchased bedding sets and components from Casper, a well-known brand in the healthcare industry.\n2. Linacre Private Hospital acquired stationery supplies from Neenah, a reputable brand in the healthcare sector.\n3. Linacre Private Hospital invested in Wenger watches, renowned for their quality and durability, to enhance their healthcare services.\n4. Linacre Private Hospital procured casual and dress shoes from Sanita, a trusted brand recognized for its comfort and style in the healthcare field.\n5. Linacre Private Hospital obtained makeup products from Touche Cosmetics, a leading brand known for its high-quality cosmetics catering to the healthcare industry."
+}

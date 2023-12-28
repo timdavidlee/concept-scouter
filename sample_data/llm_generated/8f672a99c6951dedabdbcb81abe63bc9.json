@@ -1,0 +1,28 @@
+{
+  "company": "the ferrara law group, p.c.",
+  "company_category": "Professional Services",
+  "brands": [
+    [
+      "accessories",
+      "heath outdoor products"
+    ],
+    [
+      "sewing and accessories",
+      "signature"
+    ],
+    [
+      "makeup",
+      "smashbox"
+    ],
+    [
+      "pants",
+      "fruit of the loom"
+    ],
+    [
+      "jackets & coats",
+      "widgeon"
+    ]
+  ],
+  "prompt_text": "For the company 'the ferrara law group, p.c.' which is a 'Professional Services' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'heath outdoor products' which sells 'accessories'\n2. 'signature' which sells 'sewing and accessories'\n3. 'smashbox' which sells 'makeup'\n4. 'fruit of the loom' which sells 'pants'\n5. 'widgeon' which sells 'jackets & coats'",
+  "response_text": "The Ferrara Law Group, P.C., a Professional Services company, has previously purchased accessories from Heath Outdoor Products. \n\nThe Ferrara Law Group, P.C., a Professional Services company, has previously purchased sewing and accessories from Signature. \n\nThe Ferrara Law Group, P.C., a Professional Services company, has previously purchased makeup from Smashbox. \n\nThe Ferrara Law Group, P.C., a Professional Services company, has previously purchased pants from Fruit of the Loom. \n\nThe Ferrara Law Group, P.C., a Professional Services company, has previously purchased jackets & coats from Widgeon."
+}

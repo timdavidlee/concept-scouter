@@ -1,0 +1,297 @@
+{
+  "text": "mcdowell technology solutions, an information technology company, previously purchased bakeware and accessories from good cook, home decor from mariposa, storage and organization products from arcos, home supplies from olympia faucets, and nails, screws, and fixings from kissler & co. inc.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 29,
+      "label": "COMPANY"
+    },
+    {
+      "start": 34,
+      "end": 56,
+      "label": "COMPANY_CATEGORY"
+    },
+    {
+      "start": 117,
+      "end": 126,
+      "label": "BRAND"
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 144,
+      "end": 152,
+      "label": "BRAND"
+    },
+    {
+      "start": 193,
+      "end": 198,
+      "label": "BRAND"
+    },
+    {
+      "start": 200,
+      "end": 213,
+      "label": "BRAND_CATEGORY"
+    },
+    {
+      "start": 219,
+      "end": 234,
+      "label": "BRAND"
+    },
+    {
+      "start": 272,
+      "end": 289,
+      "label": "BRAND"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 19
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 56
+    },
+    {
+      "id": 7,
+      "start": 57,
+      "end": 64
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 77,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 95
+    },
+    {
+      "id": 12,
+      "start": 96,
+      "end": 99
+    },
+    {
+      "id": 13,
+      "start": 100,
+      "end": 111
+    },
+    {
+      "id": 14,
+      "start": 112,
+      "end": 116
+    },
+    {
+      "id": 15,
+      "start": 117,
+      "end": 121
+    },
+    {
+      "id": 16,
+      "start": 122,
+      "end": 126
+    },
+    {
+      "id": 17,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 18,
+      "start": 128,
+      "end": 132
+    },
+    {
+      "id": 19,
+      "start": 133,
+      "end": 138
+    },
+    {
+      "id": 20,
+      "start": 139,
+      "end": 143
+    },
+    {
+      "id": 21,
+      "start": 144,
+      "end": 152
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 153
+    },
+    {
+      "id": 23,
+      "start": 154,
+      "end": 161
+    },
+    {
+      "id": 24,
+      "start": 162,
+      "end": 165
+    },
+    {
+      "id": 25,
+      "start": 166,
+      "end": 178
+    },
+    {
+      "id": 26,
+      "start": 179,
+      "end": 187
+    },
+    {
+      "id": 27,
+      "start": 188,
+      "end": 192
+    },
+    {
+      "id": 28,
+      "start": 193,
+      "end": 198
+    },
+    {
+      "id": 29,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 30,
+      "start": 200,
+      "end": 204
+    },
+    {
+      "id": 31,
+      "start": 205,
+      "end": 213
+    },
+    {
+      "id": 32,
+      "start": 214,
+      "end": 218
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 226
+    },
+    {
+      "id": 34,
+      "start": 227,
+      "end": 234
+    },
+    {
+      "id": 35,
+      "start": 234,
+      "end": 235
+    },
+    {
+      "id": 36,
+      "start": 236,
+      "end": 239
+    },
+    {
+      "id": 37,
+      "start": 240,
+      "end": 245
+    },
+    {
+      "id": 38,
+      "start": 245,
+      "end": 246
+    },
+    {
+      "id": 39,
+      "start": 247,
+      "end": 253
+    },
+    {
+      "id": 40,
+      "start": 253,
+      "end": 254
+    },
+    {
+      "id": 41,
+      "start": 255,
+      "end": 258
+    },
+    {
+      "id": 42,
+      "start": 259,
+      "end": 266
+    },
+    {
+      "id": 43,
+      "start": 267,
+      "end": 271
+    },
+    {
+      "id": 44,
+      "start": 272,
+      "end": 279
+    },
+    {
+      "id": 45,
+      "start": 280,
+      "end": 281
+    },
+    {
+      "id": 46,
+      "start": 282,
+      "end": 285
+    },
+    {
+      "id": 47,
+      "start": 286,
+      "end": 289
+    },
+    {
+      "id": 48,
+      "start": 289,
+      "end": 290
+    }
+  ]
+}

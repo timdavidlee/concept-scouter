@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# local output
+spacy_output/
+spacy-output/
+*.ipynb
+
 # Distribution / packaging
 .Python
 build/

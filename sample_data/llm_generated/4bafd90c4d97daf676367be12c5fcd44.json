@@ -1,0 +1,28 @@
+{
+  "company": "alliance transport co",
+  "company_category": "Transportation & Logistics",
+  "brands": [
+    [
+      "sewing and accessories",
+      "me & my big ideas"
+    ],
+    [
+      "sandals",
+      "salt water sandals"
+    ],
+    [
+      "sandals",
+      "fly london"
+    ],
+    [
+      "sporting goods",
+      "adams usa"
+    ],
+    [
+      "dinnerware & serveware",
+      "elegance"
+    ]
+  ],
+  "prompt_text": "For the company 'alliance transport co' which is a 'Transportation & Logistics' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'me & my big ideas' which sells 'sewing and accessories'\n2. 'salt water sandals' which sells 'sandals'\n3. 'fly london' which sells 'sandals'\n4. 'adams usa' which sells 'sporting goods'\n5. 'elegance' which sells 'dinnerware & serveware'",
+  "response_text": "Alliance Transport Co, a Transportation & Logistics company, has previously purchased sewing and accessories from 'me & my big ideas'. The company also acquired sandals from 'Salt Water Sandals' and 'Fly London'. Furthermore, Alliance Transport Co has procured sporting goods from 'Adams USA' and dinnerware and serveware from 'Elegance'."
+}

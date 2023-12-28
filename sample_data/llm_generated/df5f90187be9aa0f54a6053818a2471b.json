@@ -1,0 +1,28 @@
+{
+  "company": "ibig investments ltd",
+  "company_category": "Financials",
+  "brands": [
+    [
+      "casual & dress shoes",
+      "vince"
+    ],
+    [
+      "sewing and accessories",
+      "pleated trim"
+    ],
+    [
+      "kitchen accessories",
+      "basicwise"
+    ],
+    [
+      "cooking utensils",
+      "chicago cutlery"
+    ],
+    [
+      "accessories",
+      "liquid blue"
+    ]
+  ],
+  "prompt_text": "For the company 'ibig investments ltd' which is a 'Financials' type company,\nDescribe the company's previous purchase from each of these brands, there should be one sentence for each brand. The company name and or category  should also be in each sentence.\n1. 'vince' which sells 'casual & dress shoes'\n2. 'pleated trim' which sells 'sewing and accessories'\n3. 'basicwise' which sells 'kitchen accessories'\n4. 'chicago cutlery' which sells 'cooking utensils'\n5. 'liquid blue' which sells 'accessories'",
+  "response_text": "iBig Investments Ltd, a prominent company in the financial sector, has made diverse purchases from various brands in recent years.\n\n1. iBig Investments Ltd acquired a significant stake in Vince, a renowned brand specializing in casual and dress shoes.\n2. Pleated Trim, a popular sewing and accessories brand, was bought by iBig Investments Ltd to add to their portfolio.\n3. iBig Investments Ltd expanded its holdings by acquiring Basicwise, a notable brand known for its range of kitchen accessories.\n4. Chicago Cutlery, leading manufacturers of cooking utensils, saw their brand become a part of iBig Investments Ltd's extensive investment portfolio.\n5. iBig Investments Ltd added Liquid Blue, a well-known name in the accessories industry, to its list of successful acquisitions."
+}
