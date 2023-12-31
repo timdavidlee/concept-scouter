@@ -33,6 +33,7 @@ class TransactionFactory:
         self.purchase_batch_sz = purchase_batch_sz
 
         self.np_random = np.random.RandomState()
+        self.cat2iid = cat2iid
         self.item_categories = sorted(list(cat2iid.keys()))
         self.sample_company_size = sample_company_size or n_total_companies
         self.n_total_companies = n_total_companies

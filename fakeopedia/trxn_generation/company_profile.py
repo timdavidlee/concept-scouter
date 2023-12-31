@@ -37,7 +37,6 @@ class CompanyProfile:
 
         factor = target_n / vals.sum()
         z = (vals * factor).astype(int) + 1
-        print(z.sum())
         return z
 
     def calculate_trxn(
@@ -87,9 +86,11 @@ class CompanyProfile:
                 p=date_probs,
                 size=cat_effective_total
             )
-            transactions.expand(
+
+            transactions += list(
                 list(zip(company_id_arr, category_arr, items_purchased, countries, date_arr))
             )
+
         return transactions
 
     @staticmethod
