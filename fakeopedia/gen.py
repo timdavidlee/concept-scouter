@@ -1,4 +1,5 @@
 """python -m fakeopedia.gen"""
+import os
 import pandas as pd
 
 from loguru import logger
@@ -6,7 +7,12 @@ from fakeopedia.trxn_generation.data import load_company_info, load_item_catalog
 from fakeopedia.trxn_generation.trxn_factory import TransactionFactory
 
 
-def main():
+def load_trxn(cache_flag: bool = True):
+    cache_file = "/tmp/trxn.feather"
+    if os.path.exists(cache_file) and cache_flag:
+        logger.info("cached version found: {}".format(cache_file))
+        return pd.read_feather(cache_file)
+
     company_df = load_company_info(cache_flag=False)
     catalog_df = load_item_catalog(cache_flag=False)
     cat2iid = catalog_df.groupby("item_category_name")["iid"].agg(list)
@@ -29,6 +35,14 @@ def main():
         how="left",
         on="iid"
     )
+
+    merged_df.to_feather(cache_file)
+    logger.info("saved cached file to: {}".format(cache_file))
+    return merged_df
+
+
+def main(cache_flag: bool = True):
+    merged_df = load_trxn(cache_flag)
 
     dims = [
         "company_category",
