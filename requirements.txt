@@ -6,3 +6,8 @@ case-converter
 torch
 torchvision
 torchaudio
+spacy['apple']
+spacy-transformers
+
+# fakeopedia
+pyarrow
