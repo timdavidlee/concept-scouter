@@ -1,0 +1,36 @@
+== Title: Sales Figure Summary for item category ==
+The following covers sales statistics for all ['company', 'year', 'country', 'brand']
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |         14333 |        1500013 |                1 |               1 |
+| kitchen accessories       |         10520 |        1290783 |                2 |               2 |
+| bedding sets & components |          8486 |        1275216 |                3 |               3 |
+| casual & dress shoes      |          7889 |        1008011 |                4 |               4 |
+| sportswear                |          6745 |         947376 |                5 |               5 |
+| pants                     |          6018 |         810663 |                6 |               7 |
+| athletic shoes            |          5809 |         728705 |                7 |               8 |
+| uniform                   |          6578 |         727575 |                8 |               6 |
+| sporting goods            |          4702 |         563915 |                9 |               9 |
+| hand tools                |          3876 |         495355 |               10 |              11 |
+| shorts                    |          3029 |         444427 |               11 |              13 |
+| cooking utensils          |          4200 |         411730 |               12 |              10 |
+| table linens              |          3211 |         407000 |               13 |              12 |
+| storage & organization    |          2701 |         373795 |               14 |              14 |
+| costumes & accessories    |          2426 |         366701 |               15 |              17 |
+| dinnerware & serveware    |          2576 |         331276 |               16 |              15 |
+| sandals                   |          2544 |         321941 |               17 |              16 |
+| makeup                    |          2095 |         319855 |               18 |              21 |
+| stationery                |          2399 |         303991 |               19 |              18 |
+| watches                   |          2306 |         303296 |               20 |              19 |
+| car care products         |          2197 |         281485 |               21 |              20 |
+| sewing and accessories    |          2017 |         280855 |               22 |              23 |
+| paint & supplies          |          2071 |         270268 |               23 |              22 |
+| bathroom accessories      |          1799 |         216018 |               24 |              24 |
+| tops                      |          1303 |         169062 |               25 |              25 |
+| accessories               |          1282 |         163735 |               26 |              26 |
+| sleepwear                 |          1172 |         157270 |               27 |              29 |
+| home decor                |          1189 |         157091 |               28 |              28 |
+| car parts                 |          1217 |         150990 |               29 |              27 |
+| boots                     |          1086 |         144623 |               30 |              30 |
+| mobile phone accessories  |          1052 |         139496 |               31 |              31 |
+| hats & caps               |          1025 |         136287 |               32 |              32 |

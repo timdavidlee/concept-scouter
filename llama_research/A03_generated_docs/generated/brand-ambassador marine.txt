@@ -1,0 +1,83 @@
+== Title: Sales Figures for brand: ambassador marine == 
+
+
+
+== ambassador marine: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Mundella Foods                                                         |            60 |           1944 |                1 |               1 |
+| Sound Wave Marketing                                                   |            46 |           1407 |                2 |               2 |
+| Henties Juices                                                         |            32 |            873 |                3 |               3 |
+| Prosper Business Solutions                                             |            13 |            678 |                4 |               6 |
+| K-Point Internet Solutions                                             |            20 |            621 |                5 |               4 |
+| 2Connect Presentation Training                                         |            11 |            487 |                6 |               7 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            13 |            476 |                7 |               6 |
+| Texas Va Mortgage                                                      |            14 |            465 |                8 |               5 |
+| Chuo Mitsui Investments                                                |            10 |            454 |                9 |               8 |
+| Sitting Pretty Marketing                                               |            11 |            447 |               10 |               7 |
+| Busby Metals Limited                                                   |            13 |            441 |               11 |               6 |
+| Straight Line Contracting Llc                                          |             9 |            387 |               12 |               9 |
+| Lewis Commercial General Contractors                                   |             9 |            346 |               13 |               9 |
+| United Container Machinery Group Inc.                                  |             8 |            281 |               14 |              10 |
+
+== ambassador marine: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            94 |           3245 |                1 |               1 |
+|   2021 |            88 |           3092 |                2 |               2 |
+|   2022 |            87 |           2970 |                3 |               3 |
+
+== ambassador marine: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           126 |           4541 |                1 |               1 |
+| China          |           105 |           3438 |                2 |               2 |
+| Russia         |             5 |            242 |                3 |               4 |
+| France         |             7 |            213 |                4 |               3 |
+| Canada         |             5 |            175 |                5 |               4 |
+| United Kingdom |             5 |            154 |                6 |               4 |
+| Japan          |             3 |             90 |                7 |               5 |
+| South Korea    |             3 |             85 |                8 |               5 |
+| India          |             3 |             80 |                9 |               5 |
+| Brazil         |             3 |             80 |               10 |               5 |
+| Mexico         |             1 |             73 |               11 |               7 |
+| Poland         |             1 |             73 |               11 |               7 |
+| Spain          |             2 |             63 |               12 |               6 |
+
+== ambassador marine: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |            50 |           1522 |                1 |               2 |
+| uniform                   |            51 |           1370 |                2 |               1 |
+| kitchen accessories       |            29 |           1197 |                3 |               3 |
+| hand tools                |            25 |            900 |                4 |               4 |
+| casual & dress shoes      |            14 |            512 |                5 |               5 |
+| pants                     |             9 |            301 |                6 |               6 |
+| sportswear                |             8 |            271 |                7 |               7 |
+| athletic shoes            |             6 |            269 |                8 |               8 |
+| sewing and accessories    |             5 |            245 |                9 |               9 |
+| stationery                |             6 |            205 |               10 |               8 |
+| boots                     |             4 |            203 |               11 |              10 |
+| sandals                   |             4 |            200 |               12 |              10 |
+| bedding sets & components |             6 |            187 |               13 |               8 |
+| sporting goods            |             5 |            183 |               14 |               9 |
+| paint & supplies          |             6 |            168 |               15 |               8 |
+| car care products         |             4 |            164 |               16 |              10 |
+| shorts                    |             4 |            163 |               17 |              10 |
+| table linens              |             4 |            147 |               18 |              10 |
+| makeup                    |             3 |            128 |               19 |              11 |
+| accessories               |             3 |            128 |               20 |              11 |
+| watches                   |             4 |            126 |               21 |              10 |
+| dinnerware & serveware    |             2 |            108 |               22 |              12 |
+| sleepwear                 |             2 |            101 |               23 |              12 |
+| mobile phone accessories  |             2 |             98 |               24 |              12 |
+| hats & caps               |             2 |             98 |               24 |              12 |
+| home decor                |             3 |             90 |               25 |              11 |
+| costumes & accessories    |             3 |             83 |               26 |              11 |
+| cooking utensils          |             3 |             80 |               27 |              11 |
+| storage & organization    |             2 |             60 |               28 |              12 |
+

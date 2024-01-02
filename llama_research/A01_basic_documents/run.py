@@ -1,16 +1,16 @@
-"""python -m llama_research.basic_documents.run"""
+"""python -m llama_research.A01_basic_documents.run"""
 import os
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
 
 
 def main():
     reader = SimpleDirectoryReader(input_files=[
-        "./llama_research/basic_documents/article1.txt",
-        "./llama_research/basic_documents/article2.txt",
-        "./llama_research/basic_documents/article3.txt",
-        "./llama_research/basic_documents/article4.txt",
-        "./llama_research/basic_documents/article5.txt",
-        "./llama_research/basic_documents/article6.txt",
+        "./llama_research/A01_basic_documents/article1.txt",
+        "./llama_research/A01_basic_documents/article2.txt",
+        "./llama_research/A01_basic_documents/article3.txt",
+        "./llama_research/A01_basic_documents/article4.txt",
+        "./llama_research/A01_basic_documents/article5.txt",
+        "./llama_research/A01_basic_documents/article6.txt",
     ])
 
     documents = reader.load_data()

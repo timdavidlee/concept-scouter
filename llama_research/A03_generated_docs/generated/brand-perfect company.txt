@@ -1,0 +1,71 @@
+== Title: Sales Figures for brand: perfect company == 
+
+
+
+== perfect company: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sitting Pretty Marketing                                               |            17 |            122 |                1 |               1 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             7 |             50 |                2 |               2 |
+| Texas Va Mortgage                                                      |             7 |             50 |                2 |               2 |
+| Chuo Mitsui Investments                                                |             6 |             43 |                3 |               3 |
+| K-Point Internet Solutions                                             |             6 |             43 |                3 |               3 |
+| Mundella Foods                                                         |             5 |             36 |                4 |               4 |
+| Busby Metals Limited                                                   |             4 |             29 |                5 |               5 |
+| Lewis Commercial General Contractors                                   |             3 |             22 |                6 |               6 |
+| Prosper Business Solutions                                             |             3 |             22 |                6 |               6 |
+| 2Connect Presentation Training                                         |             2 |             14 |                7 |               7 |
+| Sound Wave Marketing                                                   |             2 |             14 |                7 |               7 |
+| Straight Line Contracting Llc                                          |             2 |             14 |                7 |               7 |
+| Henties Juices                                                         |             1 |              7 |                8 |               8 |
+| United Container Machinery Group Inc.                                  |             1 |              7 |                8 |               8 |
+
+== perfect company: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            25 |            180 |                1 |               1 |
+|   2022 |            23 |            166 |                2 |               2 |
+|   2023 |            18 |            130 |                3 |               3 |
+
+== perfect company: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            32 |            230 |                1 |               1 |
+| China          |            25 |            180 |                2 |               2 |
+| India          |             2 |             14 |                3 |               3 |
+| Japan          |             2 |             14 |                3 |               3 |
+| United Kingdom |             2 |             14 |                3 |               3 |
+| Russia         |             1 |              7 |                4 |               4 |
+| Saudi Arabia   |             1 |              7 |                4 |               4 |
+| Switzerland    |             1 |              7 |                4 |               4 |
+
+== perfect company: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| stationery                |            16 |            115 |                1 |               1 |
+| pants                     |             5 |             36 |                2 |               2 |
+| casual & dress shoes      |             4 |             29 |                3 |               3 |
+| drinkware                 |             4 |             29 |                3 |               3 |
+| sportswear                |             4 |             29 |                3 |               3 |
+| kitchen accessories       |             4 |             29 |                3 |               3 |
+| athletic shoes            |             3 |             22 |                4 |               4 |
+| bedding sets & components |             3 |             22 |                4 |               4 |
+| dinnerware & serveware    |             3 |             22 |                4 |               4 |
+| uniform                   |             2 |             14 |                5 |               5 |
+| table linens              |             2 |             14 |                5 |               5 |
+| sewing and accessories    |             2 |             14 |                5 |               5 |
+| paint & supplies          |             2 |             14 |                5 |               5 |
+| hand tools                |             2 |             14 |                5 |               5 |
+| costumes & accessories    |             2 |             14 |                5 |               5 |
+| car care products         |             2 |             14 |                5 |               5 |
+| sandals                   |             1 |              7 |                6 |               6 |
+| bathroom accessories      |             1 |              7 |                6 |               6 |
+| sporting goods            |             1 |              7 |                6 |               6 |
+| home decor                |             1 |              7 |                6 |               6 |
+| tops                      |             1 |              7 |                6 |               6 |
+| watches                   |             1 |              7 |                6 |               6 |
+

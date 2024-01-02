@@ -1,0 +1,80 @@
+== Title: Sales Figures for brand: dyconn faucet == 
+
+
+
+== dyconn faucet: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |            12 |           1162 |                1 |               1 |
+| Texas Va Mortgage                                                      |            10 |            843 |                2 |               2 |
+| United Container Machinery Group Inc.                                  |             9 |            768 |                3 |               3 |
+| Sound Wave Marketing                                                   |             8 |            761 |                4 |               4 |
+| Lewis Commercial General Contractors                                   |            10 |            734 |                5 |               2 |
+| Chuo Mitsui Investments                                                |             9 |            683 |                6 |               3 |
+| Mundella Foods                                                         |             6 |            528 |                7 |               5 |
+| Prosper Business Solutions                                             |             6 |            528 |                7 |               5 |
+| Straight Line Contracting Llc                                          |             5 |            518 |                8 |               6 |
+| 2Connect Presentation Training                                         |             6 |            419 |                9 |               5 |
+| Henties Juices                                                         |             5 |            367 |               10 |               6 |
+| Busby Metals Limited                                                   |             4 |            359 |               11 |               7 |
+| Sitting Pretty Marketing                                               |             6 |            354 |               12 |               5 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             4 |            272 |               13 |               7 |
+
+== dyconn faucet: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            36 |           3143 |                1 |               1 |
+|   2022 |            34 |           2973 |                2 |               2 |
+|   2021 |            30 |           2180 |                3 |               3 |
+
+== dyconn faucet: Sales Break out by country == 
+
+| country       |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------|--------------:|---------------:|-----------------:|----------------:|
+| China         |            48 |           4131 |                1 |               1 |
+| United States |            41 |           3422 |                2 |               2 |
+| Russia        |             4 |            272 |                3 |               3 |
+| Spain         |             2 |            168 |                4 |               5 |
+| Japan         |             3 |            155 |                5 |               4 |
+| South Korea   |             1 |             96 |                6 |               6 |
+| Canada        |             1 |             52 |                7 |               6 |
+
+== dyconn faucet: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sportswear                |             9 |            877 |                1 |               1 |
+| pants                     |             8 |            717 |                2 |               2 |
+| kitchen accessories       |             8 |            652 |                3 |               2 |
+| watches                   |             6 |            484 |                4 |               3 |
+| sandals                   |             6 |            484 |                4 |               3 |
+| hand tools                |             5 |            476 |                5 |               4 |
+| casual & dress shoes      |             6 |            442 |                6 |               3 |
+| drinkware                 |             5 |            411 |                7 |               4 |
+| table linens              |             5 |            388 |                8 |               4 |
+| bedding sets & components |             4 |            380 |                9 |               5 |
+| dinnerware & serveware    |             5 |            367 |               10 |               4 |
+| stationery                |             3 |            220 |               11 |               6 |
+| athletic shoes            |             3 |            220 |               11 |               6 |
+| cooking utensils          |             2 |            212 |               12 |               7 |
+| bathroom accessories      |             2 |            212 |               12 |               7 |
+| costumes & accessories    |             2 |            212 |               12 |               7 |
+| car parts                 |             3 |            199 |               13 |               6 |
+| uniform                   |             2 |            168 |               14 |               7 |
+| storage & organization    |             2 |            168 |               14 |               7 |
+| accessories               |             1 |            117 |               15 |               8 |
+| mobile phone accessories  |             1 |            117 |               15 |               8 |
+| hats & caps               |             1 |            117 |               15 |               8 |
+| shorts                    |             2 |            103 |               16 |               7 |
+| sleepwear                 |             1 |             96 |               17 |               8 |
+| car care products         |             1 |             96 |               17 |               8 |
+| paint & supplies          |             1 |             52 |               18 |               8 |
+| sewing and accessories    |             1 |             52 |               18 |               8 |
+| sporting goods            |             1 |             52 |               18 |               8 |
+| home decor                |             1 |             52 |               18 |               8 |
+| tops                      |             1 |             52 |               18 |               8 |
+| boots                     |             1 |             52 |               18 |               8 |
+| makeup                    |             1 |             52 |               18 |               8 |
+

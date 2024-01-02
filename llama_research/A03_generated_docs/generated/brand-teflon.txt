@@ -1,0 +1,77 @@
+== Title: Sales Figures for brand: teflon == 
+
+
+
+== teflon: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Henties Juices                                                         |            16 |            474 |                1 |               1 |
+| Straight Line Contracting Llc                                          |             8 |            390 |                2 |               3 |
+| Busby Metals Limited                                                   |             7 |            329 |                3 |               4 |
+| Sound Wave Marketing                                                   |             6 |            325 |                4 |               5 |
+| Texas Va Mortgage                                                      |             9 |            270 |                5 |               2 |
+| K-Point Internet Solutions                                             |             7 |            263 |                6 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             6 |            247 |                7 |               5 |
+| 2Connect Presentation Training                                         |             6 |            237 |                8 |               5 |
+| United Container Machinery Group Inc.                                  |             5 |            232 |                9 |               6 |
+| Lewis Commercial General Contractors                                   |             4 |            216 |               10 |               7 |
+| Prosper Business Solutions                                             |             7 |            196 |               11 |               4 |
+| Mundella Foods                                                         |             5 |            165 |               12 |               6 |
+| Sitting Pretty Marketing                                               |             3 |            124 |               13 |               8 |
+| Chuo Mitsui Investments                                                |             3 |             57 |               14 |               8 |
+
+== teflon: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            33 |           1360 |                1 |               1 |
+|   2022 |            31 |           1161 |                2 |               2 |
+|   2023 |            28 |           1003 |                3 |               3 |
+
+== teflon: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |            41 |           1534 |                1 |               1 |
+| United States  |            35 |           1279 |                2 |               2 |
+| France         |             2 |            164 |                3 |               4 |
+| Russia         |             4 |            150 |                4 |               3 |
+| Canada         |             2 |            108 |                5 |               4 |
+| United Kingdom |             2 |            108 |                5 |               4 |
+| Brazil         |             1 |             82 |                6 |               5 |
+| Saudi Arabia   |             2 |             42 |                7 |               4 |
+| Japan          |             2 |             31 |                8 |               4 |
+| India          |             1 |             26 |                9 |               5 |
+
+== teflon: Sales Break out by item category == 
+
+| item category          |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware              |            10 |            432 |                1 |               2 |
+| makeup                 |            14 |            365 |                2 |               1 |
+| kitchen accessories    |             6 |            314 |                3 |               4 |
+| car care products      |             4 |            206 |                4 |               6 |
+| table linens           |             7 |            183 |                5 |               3 |
+| pants                  |             6 |            181 |                6 |               4 |
+| casual & dress shoes   |             5 |            176 |                7 |               5 |
+| sewing and accessories |             2 |            164 |                8 |               8 |
+| hand tools             |             4 |            139 |                9 |               6 |
+| athletic shoes         |             3 |            124 |               10 |               7 |
+| paint & supplies       |             3 |            124 |               10 |               7 |
+| sandals                |             3 |            124 |               10 |               7 |
+| costumes & accessories |             3 |            113 |               11 |               7 |
+| accessories            |             2 |            108 |               12 |               8 |
+| cooking utensils       |             2 |            108 |               12 |               8 |
+| uniform                |             2 |            108 |               12 |               8 |
+| boots                  |             2 |             98 |               13 |               8 |
+| shorts                 |             2 |             98 |               13 |               8 |
+| sporting goods         |             2 |             98 |               13 |               8 |
+| storage & organization |             2 |             98 |               13 |               8 |
+| stationery             |             2 |             42 |               14 |               8 |
+| bathroom accessories   |             2 |             42 |               14 |               8 |
+| hats & caps            |             1 |             26 |               15 |               9 |
+| dinnerware & serveware |             1 |             26 |               15 |               9 |
+| sportswear             |             1 |             15 |               16 |               9 |
+| tops                   |             1 |             15 |               16 |               9 |
+

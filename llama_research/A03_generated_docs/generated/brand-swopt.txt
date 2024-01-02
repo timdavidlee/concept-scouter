@@ -1,0 +1,70 @@
+== Title: Sales Figures for brand: swopt == 
+
+
+
+== swopt: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |             7 |            220 |                1 |               1 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             6 |            159 |                2 |               2 |
+| Sitting Pretty Marketing                                               |             5 |            150 |                3 |               3 |
+| United Container Machinery Group Inc.                                  |             5 |            150 |                3 |               3 |
+| Henties Juices                                                         |             4 |            128 |                4 |               4 |
+| Chuo Mitsui Investments                                                |             4 |            115 |                5 |               4 |
+| Straight Line Contracting Llc                                          |             4 |            115 |                5 |               4 |
+| K-Point Internet Solutions                                             |             4 |            101 |                6 |               4 |
+| Mundella Foods                                                         |             3 |             92 |                7 |               5 |
+| Sound Wave Marketing                                                   |             3 |             92 |                7 |               5 |
+| 2Connect Presentation Training                                         |             3 |             79 |                8 |               5 |
+| Busby Metals Limited                                                   |             3 |             79 |                8 |               5 |
+| Prosper Business Solutions                                             |             3 |             79 |                8 |               5 |
+| Lewis Commercial General Contractors                                   |             1 |             22 |                9 |               6 |
+
+== swopt: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            23 |            652 |                1 |               1 |
+|   2022 |            20 |            612 |                2 |               2 |
+|   2023 |            12 |            317 |                3 |               3 |
+
+== swopt: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |            26 |            771 |                1 |               1 |
+| United States  |            18 |            502 |                2 |               2 |
+| Canada         |             3 |             92 |                3 |               3 |
+| Japan          |             2 |             57 |                4 |               4 |
+| Russia         |             2 |             57 |                4 |               4 |
+| United Kingdom |             2 |             44 |                5 |               4 |
+| France         |             1 |             35 |                6 |               5 |
+| South Korea    |             1 |             22 |                7 |               5 |
+
+== swopt: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |             8 |            242 |                1 |               1 |
+| bedding sets & components |             5 |            163 |                2 |               2 |
+| drinkware                 |             5 |            124 |                3 |               2 |
+| watches                   |             4 |            115 |                4 |               3 |
+| sportswear                |             4 |            115 |                4 |               3 |
+| table linens              |             3 |             92 |                5 |               4 |
+| car care products         |             3 |             79 |                6 |               4 |
+| kitchen accessories       |             3 |             79 |                6 |               4 |
+| storage & organization    |             2 |             70 |                7 |               5 |
+| hand tools                |             2 |             70 |                7 |               5 |
+| pants                     |             2 |             57 |                8 |               5 |
+| sandals                   |             2 |             57 |                8 |               5 |
+| paint & supplies          |             2 |             57 |                8 |               5 |
+| athletic shoes            |             2 |             44 |                9 |               5 |
+| dinnerware & serveware    |             2 |             44 |                9 |               5 |
+| stationery                |             1 |             35 |               10 |               6 |
+| cooking utensils          |             1 |             35 |               10 |               6 |
+| hats & caps               |             1 |             35 |               10 |               6 |
+| shorts                    |             1 |             22 |               11 |               6 |
+| costumes & accessories    |             1 |             22 |               11 |               6 |
+| boots                     |             1 |             22 |               11 |               6 |
+

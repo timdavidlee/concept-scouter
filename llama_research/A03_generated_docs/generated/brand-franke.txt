@@ -1,0 +1,86 @@
+== Title: Sales Figures for brand: franke == 
+
+
+
+== franke: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |           173 |          67405 |                1 |               1 |
+| Straight Line Contracting Llc                                          |            35 |          15539 |                2 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            23 |           8318 |                3 |               4 |
+| 2Connect Presentation Training                                         |            20 |           7747 |                4 |               5 |
+| Chuo Mitsui Investments                                                |            20 |           7717 |                5 |               5 |
+| Lewis Commercial General Contractors                                   |            40 |           7183 |                6 |               2 |
+| United Container Machinery Group Inc.                                  |            19 |           6093 |                7 |               6 |
+| Mundella Foods                                                         |            19 |           5541 |                8 |               6 |
+| Busby Metals Limited                                                   |            14 |           5313 |                9 |               8 |
+| Henties Juices                                                         |            16 |           5201 |               10 |               7 |
+| Sound Wave Marketing                                                   |            11 |           3739 |               11 |              10 |
+| Prosper Business Solutions                                             |            12 |           3451 |               12 |               9 |
+| Sitting Pretty Marketing                                               |            10 |           2896 |               13 |              11 |
+| K-Point Internet Solutions                                             |             9 |           2694 |               14 |              12 |
+
+== franke: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           141 |          51590 |                1 |               2 |
+|   2022 |           148 |          51281 |                2 |               1 |
+|   2023 |           132 |          45967 |                3 |               3 |
+
+== franke: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           239 |          82130 |                1 |               1 |
+| United States  |           107 |          37440 |                2 |               2 |
+| Canada         |            33 |          12384 |                3 |               3 |
+| Saudi Arabia   |             7 |           2838 |                4 |               4 |
+| Japan          |             6 |           2771 |                5 |               5 |
+| United Kingdom |             7 |           2579 |                6 |               4 |
+| India          |             7 |           1928 |                7 |               4 |
+| Russia         |             4 |           1709 |                8 |               6 |
+| Brazil         |             3 |           1631 |                9 |               7 |
+| Spain          |             3 |           1609 |               10 |               7 |
+| South Korea    |             2 |           1328 |               11 |               8 |
+| France         |             1 |            396 |               12 |               9 |
+| Mexico         |             1 |             48 |               13 |               9 |
+| Turkey         |             1 |             48 |               13 |               9 |
+
+== franke: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |           151 |          60134 |                1 |               1 |
+| pants                     |            43 |          16573 |                2 |               2 |
+| kitchen accessories       |            21 |           7395 |                3 |               4 |
+| drinkware                 |            16 |           6654 |                4 |               6 |
+| athletic shoes            |            17 |           4556 |                5 |               5 |
+| table linens              |            11 |           4531 |                6 |               7 |
+| car care products         |            10 |           3633 |                7 |               8 |
+| sporting goods            |             8 |           3474 |                8 |              10 |
+| casual & dress shoes      |            11 |           3172 |                9 |               7 |
+| watches                   |             9 |           3015 |               10 |               9 |
+| hand tools                |             6 |           2672 |               11 |              12 |
+| mobile phone accessories  |             6 |           2568 |               12 |              12 |
+| storage & organization    |             8 |           2506 |               13 |              10 |
+| car parts                 |            27 |           2473 |               14 |               3 |
+| paint & supplies          |             7 |           2436 |               15 |              11 |
+| sewing and accessories    |             7 |           2244 |               16 |              11 |
+| sportswear                |             6 |           2170 |               17 |              12 |
+| dinnerware & serveware    |             7 |           2113 |               18 |              11 |
+| shorts                    |             6 |           2091 |               19 |              12 |
+| stationery                |             4 |           1988 |               20 |              14 |
+| tops                      |             4 |           1744 |               21 |              14 |
+| hats & caps               |             4 |           1721 |               22 |              14 |
+| sandals                   |             6 |           1671 |               23 |              12 |
+| uniform                   |             5 |           1480 |               24 |              13 |
+| makeup                    |             4 |           1045 |               25 |              14 |
+| sleepwear                 |             4 |            992 |               26 |              14 |
+| boots                     |             3 |            966 |               27 |              15 |
+| home decor                |             2 |            884 |               28 |              16 |
+| costumes & accessories    |             3 |            810 |               29 |              15 |
+| accessories               |             3 |            591 |               30 |              15 |
+| cooking utensils          |             2 |            536 |               31 |              16 |
+

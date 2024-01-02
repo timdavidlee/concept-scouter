@@ -1,0 +1,89 @@
+== Title: Sales Figures for brand: keeney manufacturing == 
+
+
+
+== keeney manufacturing: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           226 |          18109 |                1 |               1 |
+| Sound Wave Marketing                                                   |           194 |           6338 |                2 |               2 |
+| Henties Juices                                                         |           186 |           3962 |                3 |               3 |
+| Texas Va Mortgage                                                      |            43 |           2205 |                4 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            31 |           1872 |                5 |               5 |
+| Chuo Mitsui Investments                                                |            27 |           1335 |                6 |               9 |
+| Straight Line Contracting Llc                                          |            30 |           1308 |                7 |               6 |
+| 2Connect Presentation Training                                         |            29 |           1064 |                8 |               7 |
+| Sitting Pretty Marketing                                               |            22 |           1053 |                9 |              11 |
+| United Container Machinery Group Inc.                                  |            21 |           1036 |               10 |              12 |
+| Busby Metals Limited                                                   |            24 |           1018 |               11 |              10 |
+| Lewis Commercial General Contractors                                   |            28 |            988 |               12 |               8 |
+| Prosper Business Solutions                                             |            24 |            780 |               13 |              10 |
+| Mundella Foods                                                         |            18 |            625 |               14 |              13 |
+
+== keeney manufacturing: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |           326 |          14799 |                1 |               1 |
+|   2021 |           318 |          14742 |                2 |               2 |
+|   2023 |           259 |          12152 |                3 |               3 |
+
+== keeney manufacturing: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           428 |          22497 |                1 |               1 |
+| China          |           370 |          15151 |                2 |               2 |
+| South Korea    |            15 |            658 |                3 |               4 |
+| France         |            17 |            588 |                4 |               3 |
+| United Kingdom |             7 |            553 |                5 |               8 |
+| Russia         |            15 |            532 |                6 |               4 |
+| Canada         |             9 |            382 |                7 |               6 |
+| Brazil         |            12 |            301 |                8 |               5 |
+| Spain          |             8 |            256 |                9 |               7 |
+| India          |             6 |            248 |               10 |               9 |
+| Switzerland    |             2 |            133 |               11 |              11 |
+| Saudi Arabia   |             3 |            124 |               12 |              10 |
+| Belgium        |             1 |            106 |               13 |              12 |
+| Sweden         |             1 |             87 |               14 |              12 |
+| Japan          |             7 |             65 |               15 |               8 |
+| Mexico         |             2 |             14 |               16 |              11 |
+
+== keeney manufacturing: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sportswear                |           176 |          14968 |                1 |               1 |
+| cooking utensils          |           173 |           5102 |                2 |               2 |
+| kitchen accessories       |            77 |           4021 |                3 |               4 |
+| makeup                    |           163 |           3246 |                4 |               3 |
+| pants                     |            53 |           3085 |                5 |               5 |
+| table linens              |            27 |           1719 |                6 |               7 |
+| casual & dress shoes      |            28 |           1263 |                7 |               6 |
+| drinkware                 |            22 |           1020 |                8 |               8 |
+| shorts                    |            12 |            606 |                9 |              10 |
+| sandals                   |            13 |            538 |               10 |               9 |
+| dinnerware & serveware    |            10 |            468 |               11 |              12 |
+| costumes & accessories    |             7 |            460 |               12 |              15 |
+| sewing and accessories    |            11 |            428 |               13 |              11 |
+| storage & organization    |            11 |            414 |               14 |              11 |
+| uniform                   |            10 |            401 |               15 |              12 |
+| stationery                |            11 |            389 |               16 |              11 |
+| accessories               |             5 |            344 |               17 |              17 |
+| hand tools                |            12 |            332 |               18 |              10 |
+| car care products         |             7 |            316 |               19 |              15 |
+| athletic shoes            |             9 |            302 |               20 |              13 |
+| bathroom accessories      |             6 |            290 |               21 |              16 |
+| bedding sets & components |             9 |            289 |               22 |              13 |
+| sporting goods            |             7 |            285 |               23 |              15 |
+| watches                   |             7 |            269 |               24 |              15 |
+| home decor                |             7 |            255 |               25 |              15 |
+| paint & supplies          |             8 |            248 |               26 |              14 |
+| boots                     |             6 |            175 |               27 |              16 |
+| car parts                 |             5 |            164 |               28 |              17 |
+| sleepwear                 |             2 |            116 |               29 |              20 |
+| hats & caps               |             3 |            105 |               30 |              19 |
+| mobile phone accessories  |             2 |             40 |               31 |              20 |
+| tops                      |             4 |             38 |               32 |              18 |
+

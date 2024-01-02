@@ -1,0 +1,87 @@
+== Title: Sales Figures for brand: slipstick == 
+
+
+
+== slipstick: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            29 |            370 |                1 |               2 |
+| Texas Va Mortgage                                                      |            41 |            350 |                2 |               1 |
+| K-Point Internet Solutions                                             |            26 |            329 |                3 |               3 |
+| Sitting Pretty Marketing                                               |            26 |            306 |                4 |               3 |
+| Henties Juices                                                         |            20 |            283 |                5 |               8 |
+| United Container Machinery Group Inc.                                  |            23 |            279 |                6 |               5 |
+| Chuo Mitsui Investments                                                |            22 |            252 |                7 |               6 |
+| Mundella Foods                                                         |            21 |            250 |                8 |               7 |
+| Straight Line Contracting Llc                                          |            25 |            243 |                9 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            21 |            242 |               10 |               7 |
+| Lewis Commercial General Contractors                                   |            19 |            232 |               11 |               9 |
+| Busby Metals Limited                                                   |            20 |            218 |               12 |               8 |
+| Prosper Business Solutions                                             |            17 |            215 |               13 |              11 |
+| 2Connect Presentation Training                                         |            18 |            213 |               14 |              10 |
+
+== slipstick: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           111 |           1327 |                1 |               1 |
+|   2022 |           111 |           1259 |                2 |               1 |
+|   2023 |           106 |           1195 |                3 |               2 |
+
+== slipstick: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           143 |           1717 |                1 |               1 |
+| China          |           143 |           1544 |                2 |               1 |
+| Russia         |            10 |            128 |                3 |               2 |
+| South Korea    |             5 |             82 |                4 |               4 |
+| India          |             4 |             61 |                5 |               5 |
+| Canada         |             7 |             61 |                6 |               3 |
+| Spain          |             3 |             41 |                7 |               6 |
+| Japan          |             2 |             30 |                8 |               7 |
+| United Kingdom |             3 |             28 |                9 |               6 |
+| Switzerland    |             1 |             25 |               10 |               8 |
+| France         |             2 |             23 |               11 |               7 |
+| Brazil         |             2 |             22 |               12 |               7 |
+| Saudi Arabia   |             2 |             12 |               13 |               7 |
+| Netherlands    |             1 |              7 |               14 |               8 |
+
+== slipstick: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |            27 |            360 |                1 |               1 |
+| casual & dress shoes      |            25 |            274 |                2 |               3 |
+| pants                     |            23 |            219 |                3 |               4 |
+| table linens              |            16 |            200 |                4 |               6 |
+| sporting goods            |            26 |            194 |                5 |               2 |
+| cooking utensils          |            10 |            187 |                6 |              10 |
+| drinkware                 |            18 |            157 |                7 |               5 |
+| dinnerware & serveware    |            13 |            151 |                8 |               7 |
+| costumes & accessories    |            12 |            146 |                9 |               8 |
+| hand tools                |            11 |            144 |               10 |               9 |
+| uniform                   |            12 |            142 |               11 |               8 |
+| athletic shoes            |            12 |            139 |               12 |               8 |
+| sportswear                |            12 |            133 |               13 |               8 |
+| storage & organization    |            10 |            127 |               14 |              10 |
+| watches                   |            11 |            119 |               15 |               9 |
+| shorts                    |             9 |            107 |               16 |              11 |
+| paint & supplies          |             8 |            106 |               17 |              12 |
+| sandals                   |             9 |            103 |               18 |              11 |
+| sewing and accessories    |             8 |            100 |               19 |              12 |
+| stationery                |             7 |             86 |               20 |              13 |
+| car care products         |             7 |             83 |               21 |              13 |
+| bedding sets & components |             7 |             82 |               22 |              13 |
+| tops                      |             6 |             64 |               23 |              14 |
+| home decor                |             3 |             61 |               24 |              16 |
+| sleepwear                 |             3 |             61 |               25 |              16 |
+| bathroom accessories      |             4 |             57 |               26 |              15 |
+| mobile phone accessories  |             4 |             48 |               27 |              15 |
+| boots                     |             3 |             43 |               28 |              16 |
+| makeup                    |             4 |             37 |               29 |              15 |
+| accessories               |             3 |             21 |               30 |              16 |
+| hats & caps               |             3 |             17 |               31 |              16 |
+| car parts                 |             2 |             13 |               32 |              17 |
+

@@ -1,0 +1,81 @@
+== Title: Sales Figures for brand: idhba == 
+
+
+
+== idhba: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           135 |           4056 |                1 |               1 |
+| Mundella Foods                                                         |            26 |            812 |                2 |               2 |
+| Busby Metals Limited                                                   |             9 |            454 |                3 |               5 |
+| Chuo Mitsui Investments                                                |            10 |            412 |                4 |               4 |
+| Henties Juices                                                         |            17 |            359 |                5 |               3 |
+| Sound Wave Marketing                                                   |             8 |            349 |                6 |               6 |
+| Straight Line Contracting Llc                                          |             9 |            330 |                7 |               5 |
+| 2Connect Presentation Training                                         |             9 |            315 |                8 |               5 |
+| Texas Va Mortgage                                                      |             6 |            254 |                9 |               8 |
+| Lewis Commercial General Contractors                                   |             7 |            212 |               10 |               7 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             6 |            205 |               11 |               8 |
+| Prosper Business Solutions                                             |             5 |            198 |               12 |               9 |
+| United Container Machinery Group Inc.                                  |             4 |            176 |               13 |              10 |
+| Sitting Pretty Marketing                                               |             3 |             93 |               14 |              11 |
+
+== idhba: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            92 |           2935 |                1 |               1 |
+|   2021 |            80 |           2675 |                2 |               3 |
+|   2022 |            82 |           2616 |                3 |               2 |
+
+== idhba: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           131 |           4219 |                1 |               1 |
+| China          |           104 |           3343 |                2 |               2 |
+| Japan          |             4 |            217 |                3 |               3 |
+| Brazil         |             4 |            136 |                4 |               3 |
+| South Korea    |             3 |             90 |                5 |               4 |
+| India          |             2 |             86 |                6 |               5 |
+| Canada         |             2 |             37 |                7 |               5 |
+| France         |             1 |             30 |                8 |               6 |
+| Netherlands    |             1 |             30 |                8 |               6 |
+| Russia         |             1 |             30 |                8 |               6 |
+| United Kingdom |             1 |              7 |                9 |               6 |
+
+== idhba: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sportswear                |           133 |           3993 |                1 |               1 |
+| uniform                   |            10 |            536 |                2 |               4 |
+| casual & dress shoes      |             9 |            467 |                3 |               5 |
+| pants                     |            11 |            332 |                4 |               3 |
+| drinkware                 |             8 |            314 |                5 |               6 |
+| table linens              |             5 |            238 |                6 |               8 |
+| kitchen accessories       |             9 |            226 |                7 |               5 |
+| hand tools                |            12 |            193 |                8 |               2 |
+| athletic shoes            |             6 |            170 |                9 |               7 |
+| sleepwear                 |            10 |            153 |               10 |               4 |
+| dinnerware & serveware    |             3 |            151 |               11 |              10 |
+| car care products         |             4 |            145 |               12 |               9 |
+| watches                   |             4 |            136 |               13 |               9 |
+| stationery                |             3 |            129 |               14 |              10 |
+| bedding sets & components |             2 |            112 |               15 |              11 |
+| costumes & accessories    |             3 |            102 |               16 |              10 |
+| car parts                 |             3 |            102 |               16 |              10 |
+| tops                      |             3 |            102 |               16 |              10 |
+| cooking utensils          |             2 |             95 |               17 |              11 |
+| sewing and accessories    |             2 |             72 |               18 |              11 |
+| hats & caps               |             1 |             65 |               19 |              12 |
+| mobile phone accessories  |             2 |             63 |               20 |              11 |
+| shorts                    |             2 |             63 |               20 |              11 |
+| sporting goods            |             2 |             63 |               20 |              11 |
+| paint & supplies          |             1 |             56 |               21 |              12 |
+| makeup                    |             1 |             56 |               21 |              12 |
+| bathroom accessories      |             1 |             30 |               22 |              12 |
+| storage & organization    |             1 |             30 |               22 |              12 |
+| boots                     |             1 |             30 |               22 |              12 |
+

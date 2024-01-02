@@ -1,0 +1,77 @@
+== Title: Sales Figures for brand: abus lock == 
+
+
+
+== abus lock: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            25 |           1579 |                1 |               1 |
+| Mundella Foods                                                         |            12 |            737 |                2 |               2 |
+| Henties Juices                                                         |            11 |            470 |                3 |               3 |
+| 2Connect Presentation Training                                         |             8 |            432 |                4 |               4 |
+| K-Point Internet Solutions                                             |             7 |            399 |                5 |               5 |
+| Chuo Mitsui Investments                                                |             6 |            362 |                6 |               6 |
+| Prosper Business Solutions                                             |             6 |            341 |                7 |               6 |
+| Busby Metals Limited                                                   |             5 |            329 |                8 |               7 |
+| Sitting Pretty Marketing                                               |             4 |            236 |                9 |               8 |
+| United Container Machinery Group Inc.                                  |             4 |            206 |               10 |               8 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             4 |            201 |               11 |               8 |
+| Straight Line Contracting Llc                                          |             4 |            201 |               11 |               8 |
+| Lewis Commercial General Contractors                                   |             3 |            193 |               12 |               9 |
+| Texas Va Mortgage                                                      |             2 |            101 |               13 |              10 |
+
+== abus lock: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            37 |           2181 |                1 |               2 |
+|   2023 |            39 |           2178 |                2 |               1 |
+|   2022 |            25 |           1429 |                3 |               3 |
+
+== abus lock: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            59 |           3446 |                1 |               1 |
+| China          |            29 |           1615 |                2 |               2 |
+| Russia         |             3 |            193 |                3 |               3 |
+| France         |             2 |            126 |                4 |               4 |
+| United Kingdom |             2 |            126 |                4 |               4 |
+| Canada         |             2 |            101 |                5 |               4 |
+| Brazil         |             2 |             75 |                6 |               4 |
+| Spain          |             1 |             68 |                7 |               5 |
+| South Korea    |             1 |             38 |                8 |               5 |
+
+== abus lock: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |            16 |           1008 |                1 |               1 |
+| athletic shoes            |             9 |            574 |                2 |               2 |
+| cooking utensils          |             9 |            571 |                3 |               2 |
+| casual & dress shoes      |             8 |            462 |                4 |               3 |
+| kitchen accessories       |             6 |            387 |                5 |               5 |
+| sleepwear                 |             7 |            264 |                6 |               4 |
+| uniform                   |             4 |            206 |                7 |               6 |
+| hand tools                |             4 |            206 |                7 |               6 |
+| stationery                |             3 |            173 |                8 |               7 |
+| pants                     |             3 |            168 |                9 |               7 |
+| boots                     |             3 |            168 |                9 |               7 |
+| table linens              |             3 |            164 |               10 |               7 |
+| costumes & accessories    |             2 |            131 |               11 |               8 |
+| tops                      |             2 |            131 |               11 |               8 |
+| dinnerware & serveware    |             2 |            131 |               11 |               8 |
+| car care products         |             2 |            126 |               12 |               8 |
+| sportswear                |             2 |            105 |               13 |               8 |
+| accessories               |             2 |            105 |               13 |               8 |
+| sandals                   |             2 |            105 |               13 |               8 |
+| paint & supplies          |             2 |            101 |               14 |               8 |
+| mobile phone accessories  |             2 |            101 |               14 |               8 |
+| watches                   |             2 |            101 |               14 |               8 |
+| bedding sets & components |             2 |             75 |               15 |               8 |
+| sewing and accessories    |             1 |             63 |               16 |               9 |
+| home decor                |             1 |             63 |               16 |               9 |
+| hats & caps               |             1 |             63 |               16 |               9 |
+| sporting goods            |             1 |             38 |               17 |               9 |
+

@@ -1,0 +1,83 @@
+== Title: Sales Figures for brand: softtouch == 
+
+
+
+== softtouch: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            24 |            243 |                1 |               2 |
+| Sitting Pretty Marketing                                               |            17 |            196 |                2 |               4 |
+| United Container Machinery Group Inc.                                  |            25 |            172 |                3 |               1 |
+| Straight Line Contracting Llc                                          |            22 |            150 |                4 |               3 |
+| Lewis Commercial General Contractors                                   |            13 |            139 |                5 |               6 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            14 |            119 |                6 |               5 |
+| 2Connect Presentation Training                                         |            12 |            105 |                7 |               7 |
+| Texas Va Mortgage                                                      |            11 |            101 |                8 |               8 |
+| Prosper Business Solutions                                             |            17 |             98 |                9 |               4 |
+| Mundella Foods                                                         |             8 |             94 |               10 |              10 |
+| K-Point Internet Solutions                                             |            10 |             93 |               11 |               9 |
+| Busby Metals Limited                                                   |            12 |             91 |               12 |               7 |
+| Chuo Mitsui Investments                                                |            11 |             89 |               13 |               8 |
+| Henties Juices                                                         |             4 |             40 |               14 |              11 |
+
+== softtouch: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            76 |            682 |                1 |               1 |
+|   2023 |            60 |            534 |                2 |               3 |
+|   2022 |            64 |            512 |                3 |               2 |
+
+== softtouch: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            98 |            799 |                1 |               1 |
+| China          |            73 |            644 |                2 |               2 |
+| United Kingdom |             9 |             74 |                3 |               3 |
+| France         |             5 |             72 |                4 |               4 |
+| India          |             5 |             45 |                5 |               4 |
+| Canada         |             3 |             40 |                6 |               5 |
+| Spain          |             2 |             22 |                7 |               6 |
+| Belgium        |             1 |             12 |                8 |               7 |
+| Japan          |             2 |              9 |                9 |               6 |
+| South Korea    |             1 |              6 |               10 |               7 |
+| Switzerland    |             1 |              6 |               10 |               7 |
+
+== softtouch: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |            22 |            254 |                1 |               2 |
+| drinkware                 |            27 |            175 |                2 |               1 |
+| cooking utensils          |            10 |            132 |                3 |               5 |
+| watches                   |            19 |            121 |                4 |               3 |
+| kitchen accessories       |            13 |            113 |                5 |               4 |
+| pants                     |            10 |             73 |                6 |               5 |
+| car care products         |             8 |             64 |                7 |               6 |
+| paint & supplies          |             6 |             62 |                8 |               8 |
+| storage & organization    |             6 |             60 |                9 |               8 |
+| shorts                    |             7 |             60 |               10 |               7 |
+| bedding sets & components |             6 |             53 |               11 |               8 |
+| athletic shoes            |             3 |             48 |               12 |              11 |
+| sewing and accessories    |             5 |             45 |               13 |               9 |
+| sporting goods            |             3 |             40 |               14 |              11 |
+| hand tools                |             4 |             40 |               15 |              10 |
+| table linens              |             7 |             38 |               16 |               7 |
+| car parts                 |             3 |             36 |               17 |              11 |
+| makeup                    |             3 |             36 |               17 |              11 |
+| dinnerware & serveware    |             5 |             33 |               18 |               9 |
+| home decor                |             4 |             33 |               19 |              10 |
+| costumes & accessories    |             7 |             31 |               20 |               7 |
+| hats & caps               |             3 |             29 |               21 |              11 |
+| boots                     |             4 |             28 |               22 |              10 |
+| sportswear                |             4 |             27 |               23 |              10 |
+| bathroom accessories      |             2 |             24 |               24 |              12 |
+| tops                      |             2 |             24 |               24 |              12 |
+| uniform                   |             2 |             18 |               25 |              12 |
+| sandals                   |             1 |             12 |               26 |              13 |
+| stationery                |             2 |             11 |               27 |              12 |
+| sleepwear                 |             1 |              4 |               28 |              13 |
+| accessories               |             1 |              4 |               28 |              13 |
+

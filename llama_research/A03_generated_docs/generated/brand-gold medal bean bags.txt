@@ -1,0 +1,77 @@
+== Title: Sales Figures for brand: gold medal bean bags == 
+
+
+
+== gold medal bean bags: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |             8 |           1111 |                1 |               1 |
+| Busby Metals Limited                                                   |             7 |            972 |                2 |               2 |
+| Sound Wave Marketing                                                   |             7 |            970 |                3 |               2 |
+| Chuo Mitsui Investments                                                |             7 |            968 |                4 |               2 |
+| Lewis Commercial General Contractors                                   |             6 |            853 |                5 |               3 |
+| Prosper Business Solutions                                             |             6 |            831 |                6 |               3 |
+| Sitting Pretty Marketing                                               |             6 |            821 |                7 |               3 |
+| Henties Juices                                                         |             4 |            553 |                8 |               4 |
+| 2Connect Presentation Training                                         |             4 |            546 |                9 |               4 |
+| United Container Machinery Group Inc.                                  |             4 |            546 |                9 |               4 |
+| Mundella Foods                                                         |             4 |            536 |               10 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             3 |            427 |               11 |               5 |
+| Straight Line Contracting Llc                                          |             3 |            415 |               12 |               5 |
+| K-Point Internet Solutions                                             |             2 |            272 |               13 |               6 |
+
+== gold medal bean bags: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            25 |           3460 |                1 |               1 |
+|   2021 |            24 |           3290 |                2 |               2 |
+|   2022 |            22 |           3071 |                3 |               3 |
+
+== gold medal bean bags: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            32 |           4420 |                1 |               1 |
+| China          |            30 |           4170 |                2 |               2 |
+| Russia         |             3 |            415 |                3 |               3 |
+| United Kingdom |             3 |            403 |                4 |               3 |
+| Canada         |             1 |            141 |                5 |               4 |
+| Switzerland    |             1 |            141 |                5 |               4 |
+| Brazil         |             1 |            131 |                6 |               4 |
+
+== gold medal bean bags: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| pants                     |             9 |           1242 |                1 |               1 |
+| casual & dress shoes      |             7 |            980 |                2 |               2 |
+| table linens              |             5 |            698 |                3 |               3 |
+| kitchen accessories       |             4 |            546 |                4 |               4 |
+| drinkware                 |             4 |            546 |                4 |               4 |
+| sewing and accessories    |             3 |            417 |                5 |               5 |
+| stationery                |             3 |            405 |                6 |               5 |
+| hand tools                |             2 |            286 |                7 |               6 |
+| storage & organization    |             2 |            284 |                8 |               6 |
+| car care products         |             2 |            284 |                8 |               6 |
+| sporting goods            |             2 |            284 |                8 |               6 |
+| cooking utensils          |             2 |            284 |                8 |               6 |
+| dinnerware & serveware    |             2 |            284 |                8 |               6 |
+| home decor                |             2 |            284 |                8 |               6 |
+| shorts                    |             2 |            274 |                9 |               6 |
+| watches                   |             2 |            274 |                9 |               6 |
+| athletic shoes            |             2 |            274 |                9 |               6 |
+| sleepwear                 |             2 |            272 |               10 |               6 |
+| bedding sets & components |             2 |            272 |               10 |               6 |
+| tops                      |             2 |            272 |               10 |               6 |
+| uniform                   |             2 |            262 |               11 |               6 |
+| sandals                   |             1 |            143 |               12 |               7 |
+| car parts                 |             1 |            143 |               12 |               7 |
+| makeup                    |             1 |            141 |               13 |               7 |
+| bathroom accessories      |             1 |            141 |               13 |               7 |
+| accessories               |             1 |            141 |               13 |               7 |
+| mobile phone accessories  |             1 |            131 |               14 |               7 |
+| hats & caps               |             1 |            131 |               14 |               7 |
+| boots                     |             1 |            131 |               14 |               7 |
+

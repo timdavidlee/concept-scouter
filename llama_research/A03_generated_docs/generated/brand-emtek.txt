@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: emtek == 
+
+
+
+== emtek: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           549 |          46541 |                1 |               1 |
+| Sound Wave Marketing                                                   |           243 |          30272 |                2 |               3 |
+| Mundella Foods                                                         |           247 |          28123 |                3 |               2 |
+| Texas Va Mortgage                                                      |           156 |          18477 |                4 |               4 |
+| Henties Juices                                                         |           127 |          14224 |                5 |               5 |
+| Prosper Business Solutions                                             |           119 |          13630 |                6 |               6 |
+| United Container Machinery Group Inc.                                  |           105 |          12973 |                7 |               7 |
+| Sitting Pretty Marketing                                               |           104 |          12805 |                8 |               8 |
+| 2Connect Presentation Training                                         |           100 |          12351 |                9 |              10 |
+| Busby Metals Limited                                                   |           100 |          12086 |               10 |              10 |
+| Straight Line Contracting Llc                                          |            99 |          12058 |               11 |              11 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |           103 |          11970 |               12 |               9 |
+| Chuo Mitsui Investments                                                |           100 |          11357 |               13 |              10 |
+| Lewis Commercial General Contractors                                   |            94 |          10957 |               14 |              12 |
+
+== emtek: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |           763 |          85163 |                1 |               1 |
+|   2022 |           752 |          82077 |                2 |               2 |
+|   2021 |           731 |          80583 |                3 |               3 |
+
+== emtek: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |          1043 |         112651 |                1 |               1 |
+| China          |           926 |         102592 |                2 |               2 |
+| France         |            38 |           4407 |                3 |               3 |
+| Canada         |            30 |           3589 |                4 |               6 |
+| Japan          |            29 |           3459 |                5 |               7 |
+| Russia         |            31 |           3380 |                6 |               5 |
+| United Kingdom |            28 |           3371 |                7 |               8 |
+| South Korea    |            32 |           3094 |                8 |               4 |
+| Spain          |            19 |           2991 |                9 |               9 |
+| Brazil         |            14 |           2260 |               10 |              11 |
+| India          |            18 |           2103 |               11 |              10 |
+| Saudi Arabia   |            10 |           1033 |               12 |              12 |
+| Sweden         |            10 |            893 |               13 |              12 |
+| Switzerland    |             6 |            679 |               14 |              13 |
+| Netherlands    |             5 |            599 |               15 |              14 |
+| Poland         |             2 |            242 |               16 |              15 |
+| Belgium        |             2 |            217 |               17 |              15 |
+| Turkey         |             2 |            186 |               18 |              15 |
+| Mexico         |             1 |             75 |               19 |              16 |
+
+== emtek: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |           557 |          48091 |                1 |               1 |
+| drinkware                 |           227 |          28064 |                2 |               2 |
+| athletic shoes            |           188 |          21435 |                3 |               3 |
+| casual & dress shoes      |           116 |          14165 |                4 |               4 |
+| pants                     |           106 |          12430 |                5 |               5 |
+| bedding sets & components |            74 |           8816 |                6 |               7 |
+| hand tools                |            75 |           7910 |                7 |               6 |
+| table linens              |            66 |           7633 |                8 |               8 |
+| sportswear                |            64 |           7123 |                9 |               9 |
+| sporting goods            |            62 |           7002 |               10 |              10 |
+| uniform                   |            59 |           6705 |               11 |              11 |
+| car care products         |            51 |           6074 |               12 |              12 |
+| stationery                |            47 |           5939 |               13 |              14 |
+| sewing and accessories    |            44 |           5484 |               14 |              16 |
+| dinnerware & serveware    |            48 |           5322 |               15 |              13 |
+| shorts                    |            39 |           5242 |               16 |              18 |
+| bathroom accessories      |            45 |           4948 |               17 |              15 |
+| storage & organization    |            39 |           4803 |               18 |              18 |
+| sandals                   |            43 |           4707 |               19 |              17 |
+| costumes & accessories    |            32 |           4232 |               20 |              19 |
+| watches                   |            31 |           3948 |               21 |              20 |
+| paint & supplies          |            31 |           3391 |               22 |              20 |
+| cooking utensils          |            26 |           3351 |               23 |              22 |
+| mobile phone accessories  |            25 |           3107 |               24 |              23 |
+| makeup                    |            28 |           2994 |               25 |              21 |
+| accessories               |            23 |           2958 |               26 |              24 |
+| hats & caps               |            20 |           2387 |               27 |              25 |
+| sleepwear                 |            19 |           2239 |               28 |              26 |
+| boots                     |            17 |           2104 |               29 |              27 |
+| home decor                |            15 |           1941 |               30 |              28 |
+| tops                      |            15 |           1666 |               31 |              28 |
+| car parts                 |            14 |           1610 |               32 |              29 |
+

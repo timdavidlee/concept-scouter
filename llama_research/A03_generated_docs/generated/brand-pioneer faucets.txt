@@ -1,0 +1,88 @@
+== Title: Sales Figures for brand: pioneer faucets == 
+
+
+
+== pioneer faucets: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            46 |           7141 |                1 |               1 |
+| Texas Va Mortgage                                                      |            40 |           6241 |                2 |               2 |
+| Henties Juices                                                         |            29 |           4757 |                3 |               3 |
+| Mundella Foods                                                         |            27 |           4226 |                4 |               4 |
+| Straight Line Contracting Llc                                          |            27 |           4110 |                5 |               4 |
+| Lewis Commercial General Contractors                                   |            27 |           4026 |                6 |               4 |
+| Chuo Mitsui Investments                                                |            23 |           3779 |                7 |               5 |
+| Prosper Business Solutions                                             |            23 |           3689 |                8 |               5 |
+| K-Point Internet Solutions                                             |            19 |           3261 |                9 |               8 |
+| United Container Machinery Group Inc.                                  |            20 |           3050 |               10 |               7 |
+| Busby Metals Limited                                                   |            18 |           2700 |               11 |               9 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            22 |           2690 |               12 |               6 |
+| 2Connect Presentation Training                                         |            13 |           1971 |               13 |              10 |
+| Sitting Pretty Marketing                                               |            13 |           1899 |               14 |              10 |
+
+== pioneer faucets: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |           124 |          18690 |                1 |               1 |
+|   2021 |           112 |          17612 |                2 |               2 |
+|   2023 |           111 |          17239 |                3 |               3 |
+
+== pioneer faucets: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           163 |          25190 |                1 |               1 |
+| China          |           135 |          20836 |                2 |               2 |
+| Canada         |             9 |           1375 |                3 |               3 |
+| France         |             6 |            922 |                4 |               4 |
+| Russia         |             5 |            865 |                5 |               5 |
+| India          |             5 |            840 |                6 |               5 |
+| United Kingdom |             6 |            736 |                7 |               4 |
+| Brazil         |             4 |            674 |                8 |               6 |
+| Japan          |             4 |            621 |                9 |               6 |
+| Spain          |             4 |            545 |               10 |               6 |
+| Saudi Arabia   |             2 |            343 |               11 |               7 |
+| Mexico         |             1 |            191 |               12 |               8 |
+| Switzerland    |             1 |            191 |               12 |               8 |
+| South Korea    |             1 |            166 |               13 |               8 |
+| Netherlands    |             1 |             48 |               14 |               8 |
+
+== pioneer faucets: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |            45 |           7141 |                1 |               1 |
+| sporting goods            |            35 |           5372 |                2 |               2 |
+| kitchen accessories       |            23 |           3676 |                3 |               3 |
+| casual & dress shoes      |            19 |           3012 |                4 |               5 |
+| pants                     |            20 |           2967 |                5 |               4 |
+| uniform                   |            16 |           2724 |                6 |               6 |
+| costumes & accessories    |            14 |           2339 |                7 |               7 |
+| dinnerware & serveware    |            13 |           2101 |                8 |               8 |
+| athletic shoes            |            19 |           2008 |                9 |               5 |
+| sportswear                |            12 |           1971 |               10 |               9 |
+| sandals                   |            11 |           1654 |               11 |              10 |
+| sleepwear                 |             9 |           1613 |               12 |              11 |
+| hand tools                |            11 |           1596 |               13 |              10 |
+| sewing and accessories    |            11 |           1485 |               14 |              10 |
+| paint & supplies          |             8 |           1406 |               15 |              12 |
+| bedding sets & components |             8 |           1368 |               16 |              12 |
+| stationery                |             7 |           1051 |               17 |              13 |
+| table linens              |             6 |           1037 |               18 |              14 |
+| mobile phone accessories  |             6 |            950 |               19 |              14 |
+| home decor                |             6 |            949 |               20 |              14 |
+| car parts                 |             6 |            908 |               21 |              14 |
+| watches                   |             6 |            860 |               22 |              14 |
+| car care products         |             5 |            787 |               23 |              15 |
+| makeup                    |             5 |            779 |               24 |              15 |
+| storage & organization    |             4 |            708 |               25 |              16 |
+| tops                      |             4 |            693 |               26 |              16 |
+| hats & caps               |             4 |            669 |               27 |              16 |
+| cooking utensils          |             6 |            665 |               28 |              14 |
+| shorts                    |             3 |            416 |               29 |              17 |
+| accessories               |             2 |            337 |               30 |              18 |
+| boots                     |             2 |            200 |               31 |              18 |
+| bathroom accessories      |             1 |             99 |               32 |              19 |
+

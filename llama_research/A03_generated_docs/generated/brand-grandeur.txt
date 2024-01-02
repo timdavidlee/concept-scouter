@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: grandeur == 
+
+
+
+== grandeur: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |           689 |         130056 |                1 |               1 |
+| Mundella Foods                                                         |           490 |          79332 |                2 |               2 |
+| K-Point Internet Solutions                                             |           369 |          63558 |                3 |               3 |
+| Sound Wave Marketing                                                   |           323 |          59974 |                4 |               4 |
+| Sitting Pretty Marketing                                               |           264 |          47745 |                5 |               6 |
+| Henties Juices                                                         |           273 |          47258 |                6 |               5 |
+| Lewis Commercial General Contractors                                   |           237 |          43667 |                7 |              10 |
+| Busby Metals Limited                                                   |           258 |          43506 |                8 |               7 |
+| Chuo Mitsui Investments                                                |           231 |          42812 |                9 |              12 |
+| United Container Machinery Group Inc.                                  |           235 |          42276 |               10 |              11 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |           241 |          42256 |               11 |               8 |
+| 2Connect Presentation Training                                         |           239 |          40692 |               12 |               9 |
+| Prosper Business Solutions                                             |           231 |          39814 |               13 |              12 |
+| Straight Line Contracting Llc                                          |           220 |          39778 |               14 |              13 |
+
+== grandeur: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |          1449 |         258027 |                1 |               1 |
+|   2023 |          1440 |         253489 |                2 |               2 |
+|   2021 |          1411 |         251208 |                3 |               3 |
+
+== grandeur: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |          1927 |         338158 |                1 |               1 |
+| United States  |          1729 |         307358 |                2 |               2 |
+| Canada         |           132 |          25564 |                3 |               3 |
+| Russia         |            94 |          16738 |                4 |               4 |
+| United Kingdom |            77 |          13794 |                5 |               5 |
+| Japan          |            58 |          10431 |                6 |               7 |
+| France         |            59 |          10129 |                7 |               6 |
+| India          |            54 |           9941 |                8 |               8 |
+| Saudi Arabia   |            35 |           6108 |                9 |               9 |
+| South Korea    |            26 |           4928 |               10 |              11 |
+| Brazil         |            27 |           4630 |               11 |              10 |
+| Spain          |            25 |           4112 |               12 |              12 |
+| Switzerland    |            13 |           2533 |               13 |              13 |
+| Netherlands    |            11 |           2181 |               14 |              14 |
+| Mexico         |             9 |           1789 |               15 |              15 |
+| Poland         |             7 |           1379 |               16 |              16 |
+| Belgium        |             7 |           1186 |               17 |              16 |
+| Turkey         |             5 |            931 |               18 |              17 |
+| Sweden         |             5 |            835 |               19 |              17 |
+
+== grandeur: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sporting goods            |           426 |          85221 |                1 |               1 |
+| athletic shoes            |           345 |          55947 |                2 |               2 |
+| kitchen accessories       |           308 |          51193 |                3 |               3 |
+| drinkware                 |           277 |          50887 |                4 |               5 |
+| casual & dress shoes      |           278 |          49423 |                5 |               4 |
+| pants                     |           264 |          48242 |                6 |               6 |
+| sportswear                |           224 |          39027 |                7 |               7 |
+| bedding sets & components |           197 |          34200 |                8 |               8 |
+| hand tools                |           154 |          26569 |                9 |               9 |
+| table linens              |           140 |          25076 |               10 |              10 |
+| shorts                    |           116 |          21269 |               11 |              13 |
+| storage & organization    |           133 |          21035 |               12 |              11 |
+| uniform                   |           126 |          21017 |               13 |              12 |
+| watches                   |           111 |          18970 |               14 |              15 |
+| stationery                |           113 |          18618 |               15 |              14 |
+| paint & supplies          |            94 |          17447 |               16 |              18 |
+| costumes & accessories    |           104 |          17374 |               17 |              16 |
+| dinnerware & serveware    |            96 |          17227 |               18 |              17 |
+| sewing and accessories    |            88 |          16777 |               19 |              20 |
+| sandals                   |            92 |          15401 |               20 |              19 |
+| car care products         |            85 |          14675 |               21 |              21 |
+| cooking utensils          |            65 |          11142 |               22 |              22 |
+| home decor                |            49 |          10744 |               23 |              25 |
+| makeup                    |            52 |           9465 |               24 |              24 |
+| sleepwear                 |            54 |           9134 |               25 |              23 |
+| car parts                 |            48 |           9023 |               26 |              26 |
+| bathroom accessories      |            43 |           8866 |               27 |              29 |
+| tops                      |            45 |           8665 |               28 |              28 |
+| hats & caps               |            43 |           8513 |               29 |              29 |
+| mobile phone accessories  |            47 |           8123 |               30 |              27 |
+| accessories               |            41 |           7524 |               31 |              31 |
+| boots                     |            42 |           5931 |               32 |              30 |
+

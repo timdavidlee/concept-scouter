@@ -1,0 +1,234 @@
+== Title: Sales Figures for country: Japan == 
+
+
+
+== Japan: Sales Break out by company == 
+
+| company                 |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Chuo Mitsui Investments |          1426 |         184102 |                1 |               1 |
+
+== Japan: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           496 |          67505 |                1 |               1 |
+|   2022 |           466 |          61066 |                2 |               2 |
+|   2023 |           464 |          55531 |                3 |               3 |
+
+== Japan: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| dinnerware & serveware    |           622 |          80380 |                1 |               1 |
+| tops                      |           300 |          41951 |                2 |               2 |
+| bedding sets & components |           274 |          34799 |                3 |               3 |
+| casual & dress shoes      |           230 |          26972 |                4 |               4 |
+
+== Japan: Sales Break out by brand == 
+
+| brand                            |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kohler                           |            55 |          26558 |                1 |               6 |
+| rohl                             |            20 |          17923 |                2 |              14 |
+| kingston brass                   |           125 |          16584 |                3 |               1 |
+| delta faucet                     |            95 |          14121 |                4 |               4 |
+| nostalgic warehouse              |           104 |          12713 |                5 |               3 |
+| grandeur                         |            58 |          10431 |                6 |               5 |
+| schlage lock company             |           116 |           6207 |                7 |               2 |
+| baldwin                          |            49 |           5329 |                8 |               8 |
+| american standard                |            28 |           4201 |                9 |              12 |
+| moen                             |            23 |           4177 |               10 |              13 |
+| emtek                            |            29 |           3459 |               11 |              11 |
+| design art                       |            38 |           3443 |               12 |               9 |
+| kwikset                          |            53 |           3134 |               13 |               7 |
+| grohe                            |             7 |           3043 |               14 |              24 |
+| honeywell safes & door locks     |            17 |           2835 |               15 |              15 |
+| franke                           |             6 |           2771 |               16 |              25 |
+| hansgrohe                        |             8 |           2316 |               17 |              23 |
+| pfister                          |            15 |           2160 |               18 |              17 |
+| symmons                          |            11 |           2114 |               19 |              20 |
+| danze                            |            14 |           1940 |               20 |              18 |
+| 3m                               |            31 |           1691 |               21 |              10 |
+| schock                           |             3 |           1654 |               22 |              28 |
+| artos                            |             2 |           1474 |               23 |              29 |
+| bellaterra home                  |             6 |           1355 |               24 |              25 |
+| delta                            |             7 |           1277 |               25 |              24 |
+| sinkology                        |             4 |           1276 |               26 |              27 |
+| waterstone                       |             2 |           1207 |               27 |              29 |
+| pioneer                          |             7 |           1086 |               28 |              24 |
+| axor                             |             1 |            999 |               29 |              30 |
+| cifial                           |             2 |            962 |               30 |              29 |
+| kraus                            |             4 |            884 |               31 |              27 |
+| whitehaus                        |             2 |            851 |               32 |              29 |
+| prime-line products              |            17 |            850 |               33 |              15 |
+| design house                     |            20 |            794 |               34 |              14 |
+| yale                             |             2 |            778 |               35 |              29 |
+| notrax                           |            11 |            771 |               36 |              20 |
+| elkay                            |             2 |            725 |               37 |              29 |
+| pioneer faucets                  |             4 |            621 |               38 |              27 |
+| just manufacturing               |             1 |            593 |               39 |              30 |
+| westbrass                        |             7 |            583 |               40 |              24 |
+| mr direct                        |             2 |            566 |               41 |              29 |
+| kwc faucets                      |             1 |            562 |               42 |              30 |
+| whitehaus collection             |             3 |            497 |               43 |              28 |
+| cleanflo                         |             5 |            495 |               44 |              26 |
+| gator grip                       |             4 |            489 |               45 |              27 |
+| 3m dual lock                     |             1 |            397 |               46 |              30 |
+| weslock                          |             9 |            382 |               47 |              22 |
+| milocks                          |             5 |            381 |               48 |              26 |
+| homewerks worldwide              |             3 |            377 |               49 |              28 |
+| fluid faucets                    |             1 |            377 |               50 |              30 |
+| mountain plumbing                |             1 |            337 |               51 |              30 |
+| premier pet steps                |             3 |            332 |               52 |              28 |
+| la toscana                       |             1 |            328 |               53 |              30 |
+| cleveland faucets                |             5 |            321 |               54 |              26 |
+| t&s brass                        |             2 |            297 |               55 |              29 |
+| notrax floor matting             |             5 |            290 |               56 |              26 |
+| dawn                             |             2 |            280 |               57 |              29 |
+| prime-line                       |            16 |            273 |               58 |              16 |
+| brady                            |             6 |            258 |               59 |              25 |
+| premier faucet                   |             3 |            251 |               60 |              28 |
+| premier                          |             2 |            248 |               61 |              29 |
+| tosca                            |             2 |            248 |               62 |              29 |
+| slide-co                         |            14 |            245 |               63 |              18 |
+| ultra faucets                    |             2 |            238 |               64 |              29 |
+| master lock                      |            14 |            237 |               65 |              18 |
+| transolid                        |             2 |            234 |               66 |              29 |
+| fun furnishings                  |             1 |            234 |               67 |              30 |
+| toto                             |             2 |            234 |               68 |              29 |
+| chill sack                       |             1 |            232 |               69 |              30 |
+| elements of design               |             9 |            226 |               70 |              22 |
+| carlisle                         |             4 |            218 |               71 |              27 |
+| idhba                            |             4 |            217 |               72 |              27 |
+| allied precision industries      |             2 |            202 |               73 |              29 |
+| durable corporation              |             6 |            193 |               74 |              25 |
+| brinks                           |             8 |            191 |               75 |              23 |
+| cleveland faucet                 |             2 |            189 |               76 |              29 |
+| soss                             |             3 |            180 |               77 |              28 |
+| aviditi                          |             2 |            179 |               78 |              29 |
+| lamp by sugatsune                |            12 |            174 |               79 |              19 |
+| inox                             |             1 |            168 |               80 |              30 |
+| ultraloq                         |             1 |            164 |               81 |              30 |
+| estora                           |             1 |            163 |               82 |              30 |
+| goldenstar                       |             2 |            158 |               83 |              29 |
+| dyconn faucet                    |             3 |            155 |               84 |              28 |
+| novatto                          |             1 |            143 |               85 |              30 |
+| deltana                          |             5 |            139 |               86 |              26 |
+| rubbermaid commercial products   |             9 |            139 |               87 |              22 |
+| guardian                         |             3 |            139 |               88 |              28 |
+| enesco                           |             2 |            124 |               89 |              29 |
+| copper creek                     |             4 |            124 |               90 |              27 |
+| defender security                |            10 |            124 |               91 |              21 |
+| big joe                          |             1 |            122 |               92 |              30 |
+| aqueous                          |             2 |            115 |               93 |              29 |
+| sure-loc                         |             2 |            114 |               94 |              29 |
+| builders shoppe                  |             2 |            111 |               95 |              29 |
+| aep industries                   |             3 |            109 |               96 |              28 |
+| olympia faucets                  |             2 |            108 |               97 |              29 |
+| mintcraft                        |             3 |            102 |               98 |              28 |
+| lockstate                        |             1 |             99 |               99 |              30 |
+| constructor                      |             4 |             98 |              100 |              27 |
+| the hillman group                |             9 |             97 |              101 |              22 |
+| momeni rugs                      |             1 |             96 |              102 |              30 |
+| seda france                      |             5 |             95 |              103 |              26 |
+| draft king                       |             1 |             91 |              104 |              30 |
+| ambassador marine                |             3 |             90 |              105 |              28 |
+| canplas                          |             1 |             86 |              106 |              30 |
+| segal                            |             1 |             83 |              107 |              30 |
+| honeywell                        |             1 |             78 |              108 |              30 |
+| jed pool tools                   |             2 |             75 |              109 |              29 |
+| huntington brass                 |             1 |             75 |              110 |              30 |
+| ez-flo                           |             2 |             74 |              111 |              29 |
+| advantage                        |             1 |             69 |              112 |              30 |
+| magnolia brush                   |             3 |             69 |              113 |              28 |
+| blanco                           |             1 |             67 |              114 |              30 |
+| uxcell                           |             5 |             67 |              115 |              26 |
+| blue devil                       |             1 |             66 |              116 |              30 |
+| everflow                         |             1 |             66 |              117 |              30 |
+| keeney manufacturing             |             7 |             65 |              118 |              24 |
+| interdesign                      |             2 |             64 |              119 |              29 |
+| malish                           |             1 |             62 |              120 |              30 |
+| small parts                      |             3 |             60 |              121 |              28 |
+| ccl security products            |             6 |             58 |              122 |              25 |
+| richelieu hardware               |             6 |             58 |              123 |              25 |
+| casabella                        |             5 |             58 |              124 |              26 |
+| m-d building products            |             2 |             58 |              125 |              29 |
+| swopt                            |             2 |             57 |              126 |              29 |
+| ideal security inc.              |             2 |             57 |              127 |              29 |
+| libman commercial                |             1 |             56 |              128 |              30 |
+| newlife by gelpro                |             1 |             55 |              129 |              30 |
+| rejuvenate                       |             7 |             53 |              130 |              24 |
+| frenchi home furnishing          |             1 |             52 |              131 |              30 |
+| everflow supplies                |             1 |             51 |              132 |              30 |
+| mariposa                         |             1 |             50 |              133 |              30 |
+| industrial magnetics             |             2 |             50 |              134 |              29 |
+| super sliders                    |             3 |             50 |              135 |              28 |
+| ez-set                           |             1 |             49 |              136 |              30 |
+| rubbermaid                       |             1 |             46 |              137 |              30 |
+| t.w . evans cordage co.          |             1 |             44 |              138 |              30 |
+| precious moments                 |             1 |             44 |              139 |              30 |
+| gila                             |             1 |             43 |              140 |              30 |
+| waste king                       |             1 |             43 |              141 |              30 |
+| the andersen company             |             1 |             42 |              142 |              30 |
+| insinkerator                     |             2 |             42 |              143 |              29 |
+| yale security                    |             1 |             41 |              144 |              30 |
+| lola                             |             2 |             41 |              145 |              29 |
+| ettore                           |             4 |             40 |              146 |              27 |
+| the copper factory               |             1 |             39 |              147 |              30 |
+| oreck commercial                 |             1 |             36 |              148 |              30 |
+| national hardware                |             6 |             35 |              149 |              25 |
+| andersen                         |             1 |             32 |              150 |              30 |
+| bissell                          |             1 |             31 |              151 |              30 |
+| teflon                           |             2 |             31 |              152 |              29 |
+| bona                             |             2 |             31 |              153 |              29 |
+| fusion                           |             2 |             31 |              154 |              29 |
+| john guest speedfit              |             1 |             30 |              155 |              30 |
+| slipstick                        |             2 |             30 |              156 |              29 |
+| lasco                            |             3 |             29 |              157 |              28 |
+| performance tool                 |             1 |             29 |              158 |              30 |
+| scotch                           |             3 |             29 |              159 |              28 |
+| scotchblue                       |             3 |             29 |              160 |              28 |
+| genuine joe                      |             2 |             28 |              161 |              29 |
+| mr. clean                        |             3 |             28 |              162 |              28 |
+| national mfg/spectrum brands hhi |             1 |             24 |              163 |              30 |
+| global door controls             |             2 |             24 |              164 |              29 |
+| zing green products              |             2 |             23 |              165 |              29 |
+| janitized                        |             1 |             23 |              166 |              30 |
+| malco                            |             1 |             22 |              167 |              30 |
+| zwipes professional              |             1 |             20 |              168 |              30 |
+| kipp                             |             1 |             19 |              169 |              30 |
+| southco                          |             1 |             19 |              170 |              30 |
+| household essentials             |             1 |             19 |              171 |              30 |
+| powr-flite                       |             1 |             18 |              172 |              30 |
+| cs hyde                          |             1 |             18 |              173 |              30 |
+| quakehold!                       |             2 |             18 |              174 |              29 |
+| incom manufacturing              |             1 |             17 |              175 |              30 |
+| dallas cowboys                   |             1 |             16 |              176 |              30 |
+| safelife                         |             1 |             16 |              177 |              30 |
+| weiler                           |             1 |             15 |              178 |              30 |
+| perfect company                  |             2 |             14 |              179 |              29 |
+| ziploc                           |             1 |             14 |              180 |              30 |
+| pemko                            |             1 |             14 |              181 |              30 |
+| brushtech                        |             1 |             14 |              182 |              30 |
+| nuset                            |             1 |             13 |              183 |              30 |
+| design toscano                   |             1 |             13 |              184 |              30 |
+| hillman                          |             1 |             13 |              185 |              30 |
+| pavilion gift company            |             1 |             13 |              186 |              30 |
+| lewis hyman                      |             1 |             13 |              187 |              30 |
+| shepherd hardware                |             1 |             12 |              188 |              30 |
+| pro tapes                        |             1 |             12 |              189 |              30 |
+| wright products                  |             1 |             12 |              190 |              30 |
+| aquarius                         |             1 |             11 |              191 |              30 |
+| softtouch                        |             2 |              9 |              192 |              29 |
+| stanley hardware                 |             1 |              8 |              193 |              30 |
+| vikan                            |             1 |              8 |              194 |              30 |
+| fjm security                     |             1 |              8 |              195 |              30 |
+| heskins llc                      |             1 |              8 |              196 |              30 |
+| fuller brush                     |             1 |              7 |              197 |              30 |
+| simmons manufacturing            |             1 |              7 |              198 |              30 |
+| weiman                           |             1 |              7 |              199 |              30 |
+| cal-royal                        |             2 |              7 |              200 |              29 |
+| abco                             |             1 |              6 |              201 |              30 |
+| legend                           |             1 |              6 |              202 |              30 |
+

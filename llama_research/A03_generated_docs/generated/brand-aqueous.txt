@@ -1,0 +1,76 @@
+== Title: Sales Figures for brand: aqueous == 
+
+
+
+== aqueous: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |            49 |           3411 |                1 |               1 |
+| Prosper Business Solutions                                             |             9 |            648 |                2 |               2 |
+| Lewis Commercial General Contractors                                   |             9 |            531 |                3 |               2 |
+| Mundella Foods                                                         |             9 |            531 |                3 |               2 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             7 |            445 |                4 |               4 |
+| Henties Juices                                                         |             8 |            430 |                5 |               3 |
+| United Container Machinery Group Inc.                                  |             6 |            403 |                6 |               5 |
+| Chuo Mitsui Investments                                                |             6 |            373 |                7 |               5 |
+| Texas Va Mortgage                                                      |             6 |            373 |                7 |               5 |
+| Straight Line Contracting Llc                                          |             6 |            344 |                8 |               5 |
+| Busby Metals Limited                                                   |             4 |            259 |                9 |               6 |
+| Sound Wave Marketing                                                   |             3 |            187 |               10 |               7 |
+| Sitting Pretty Marketing                                               |             3 |            157 |               11 |               7 |
+| 2Connect Presentation Training                                         |             2 |            115 |               12 |               8 |
+
+== aqueous: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            43 |           2891 |                1 |               2 |
+|   2021 |            46 |           2844 |                2 |               1 |
+|   2023 |            38 |           2472 |                3 |               3 |
+
+== aqueous: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            61 |           4157 |                1 |               1 |
+| China          |            46 |           2844 |                2 |               2 |
+| South Korea    |             5 |            331 |                3 |               3 |
+| United Kingdom |             5 |            301 |                4 |               3 |
+| Russia         |             4 |            229 |                5 |               4 |
+| India          |             2 |            144 |                6 |               5 |
+| Japan          |             2 |            115 |                7 |               5 |
+| Brazil         |             2 |             86 |                8 |               5 |
+
+== aqueous: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |            52 |           3597 |                1 |               1 |
+| hand tools                |            13 |            877 |                2 |               2 |
+| casual & dress shoes      |             6 |            344 |                3 |               3 |
+| athletic shoes            |             5 |            301 |                4 |               4 |
+| paint & supplies          |             4 |            259 |                5 |               5 |
+| pants                     |             4 |            229 |                6 |               5 |
+| drinkware                 |             3 |            187 |                7 |               6 |
+| table linens              |             3 |            187 |                7 |               6 |
+| car care products         |             3 |            187 |                7 |               6 |
+| car parts                 |             3 |            187 |                7 |               6 |
+| storage & organization    |             3 |            187 |                7 |               6 |
+| home decor                |             3 |            187 |                7 |               6 |
+| accessories               |             2 |            144 |                8 |               7 |
+| dinnerware & serveware    |             2 |            144 |                8 |               7 |
+| costumes & accessories    |             2 |            144 |                8 |               7 |
+| sleepwear                 |             2 |            115 |                9 |               7 |
+| stationery                |             2 |            115 |                9 |               7 |
+| watches                   |             2 |            115 |                9 |               7 |
+| sewing and accessories    |             2 |            115 |                9 |               7 |
+| sandals                   |             2 |            115 |                9 |               7 |
+| tops                      |             2 |             86 |               10 |               7 |
+| makeup                    |             2 |             86 |               10 |               7 |
+| sporting goods            |             1 |             72 |               11 |               8 |
+| hats & caps               |             1 |             72 |               11 |               8 |
+| bedding sets & components |             1 |             72 |               11 |               8 |
+| sportswear                |             1 |             43 |               12 |               8 |
+| uniform                   |             1 |             43 |               12 |               8 |
+

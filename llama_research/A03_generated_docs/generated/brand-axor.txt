@@ -1,0 +1,86 @@
+== Title: Sales Figures for brand: axor == 
+
+
+
+== axor: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |            96 |         102372 |                1 |               1 |
+| Sound Wave Marketing                                                   |            62 |          51347 |                2 |               2 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            27 |          16569 |                3 |               4 |
+| Henties Juices                                                         |            34 |          16549 |                4 |               3 |
+| Busby Metals Limited                                                   |            20 |          15437 |                5 |               7 |
+| Mundella Foods                                                         |            19 |          15156 |                6 |               8 |
+| Sitting Pretty Marketing                                               |            27 |          14827 |                7 |               4 |
+| K-Point Internet Solutions                                             |            22 |          14778 |                8 |               5 |
+| United Container Machinery Group Inc.                                  |            20 |          14739 |                9 |               7 |
+| Straight Line Contracting Llc                                          |            21 |          14012 |               10 |               6 |
+| Chuo Mitsui Investments                                                |            16 |          13934 |               11 |               9 |
+| Prosper Business Solutions                                             |            19 |          11404 |               12 |               8 |
+| 2Connect Presentation Training                                         |            16 |          11300 |               13 |               9 |
+| Lewis Commercial General Contractors                                   |            15 |          10591 |               14 |              10 |
+
+== axor: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           143 |         117812 |                1 |               1 |
+|   2022 |           142 |         112049 |                2 |               2 |
+|   2023 |           129 |          93154 |                3 |               3 |
+
+== axor: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           187 |         149936 |                1 |               1 |
+| United States  |           170 |         120167 |                2 |               2 |
+| Canada         |            22 |          23642 |                3 |               3 |
+| United Kingdom |             7 |           5363 |                4 |               5 |
+| Russia         |             8 |           5335 |                5 |               4 |
+| France         |             6 |           4905 |                6 |               6 |
+| Saudi Arabia   |             4 |           4698 |                7 |               7 |
+| Spain          |             3 |           2689 |                8 |               8 |
+| South Korea    |             3 |           2221 |                9 |               8 |
+| Brazil         |             1 |           1316 |               10 |               9 |
+| Switzerland    |             1 |           1316 |               10 |               9 |
+| Japan          |             1 |            999 |               11 |               9 |
+| India          |             1 |            429 |               12 |               9 |
+
+== axor: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |            51 |          60152 |                1 |               2 |
+| drinkware                 |            62 |          53906 |                2 |               1 |
+| sporting goods            |            38 |          37063 |                3 |               4 |
+| casual & dress shoes      |            48 |          21793 |                4 |               3 |
+| pants                     |            28 |          15779 |                5 |               5 |
+| kitchen accessories       |            18 |          13993 |                6 |               6 |
+| hand tools                |            17 |          11625 |                7 |               7 |
+| table linens              |            15 |          11146 |                8 |               8 |
+| athletic shoes            |            12 |          10064 |                9 |               9 |
+| watches                   |            11 |           7553 |               10 |              10 |
+| dinnerware & serveware    |             8 |           6861 |               11 |              12 |
+| sportswear                |            11 |           6488 |               12 |              10 |
+| sandals                   |             9 |           6372 |               13 |              11 |
+| uniform                   |             7 |           4857 |               14 |              13 |
+| costumes & accessories    |             8 |           4745 |               15 |              12 |
+| car care products         |             6 |           4481 |               16 |              14 |
+| sewing and accessories    |             5 |           4479 |               17 |              15 |
+| shorts                    |             7 |           4365 |               18 |              13 |
+| storage & organization    |             7 |           4232 |               19 |              13 |
+| boots                     |             5 |           4161 |               20 |              15 |
+| home decor                |             5 |           4027 |               21 |              15 |
+| paint & supplies          |             4 |           3376 |               22 |              16 |
+| hats & caps               |             5 |           3052 |               23 |              15 |
+| stationery                |             5 |           2908 |               24 |              15 |
+| bathroom accessories      |             5 |           2801 |               25 |              15 |
+| tops                      |             2 |           2383 |               26 |              18 |
+| makeup                    |             3 |           2202 |               27 |              17 |
+| sleepwear                 |             4 |           2202 |               28 |              16 |
+| car parts                 |             3 |           2196 |               29 |              17 |
+| accessories               |             2 |           1632 |               30 |              18 |
+| cooking utensils          |             1 |           1066 |               31 |              19 |
+| mobile phone accessories  |             2 |           1056 |               32 |              18 |
+

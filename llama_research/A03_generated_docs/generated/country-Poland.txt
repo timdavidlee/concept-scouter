@@ -1,0 +1,76 @@
+== Title: Sales Figures for country: Poland == 
+
+
+
+== Poland: Sales Break out by company == 
+
+| company                       |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Straight Line Contracting Llc |            91 |          13019 |                1 |               1 |
+
+== Poland: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            33 |           5419 |                1 |               2 |
+|   2021 |            36 |           3820 |                2 |               1 |
+|   2022 |            22 |           3780 |                3 |               3 |
+
+== Poland: Sales Break out by item category == 
+
+| item category          |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories    |            23 |           3646 |                1 |               1 |
+| drinkware              |            19 |           2976 |                2 |               3 |
+| sandals                |            14 |           2674 |                3 |               5 |
+| costumes & accessories |            20 |           2621 |                4 |               2 |
+| pants                  |            15 |           1102 |                5 |               4 |
+
+== Poland: Sales Break out by brand == 
+
+| brand                       |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:----------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kohler                      |             4 |           2670 |                1 |               6 |
+| kingston brass              |            11 |           1690 |                2 |               1 |
+| grandeur                    |             7 |           1379 |                3 |               3 |
+| rohl                        |             1 |           1346 |                4 |               9 |
+| nostalgic warehouse         |             9 |           1091 |                5 |               2 |
+| delta faucet                |             6 |            847 |                6 |               4 |
+| american standard           |             2 |            469 |                7 |               8 |
+| schlage lock company        |             6 |            360 |                8 |               4 |
+| hansgrohe                   |             1 |            323 |                9 |               9 |
+| baldwin                     |             5 |            271 |               10 |               5 |
+| prime-line products         |             2 |            242 |               11 |               8 |
+| emtek                       |             2 |            242 |               12 |               8 |
+| design art                  |             2 |            242 |               13 |               8 |
+| kwikset                     |             3 |            191 |               14 |               7 |
+| toto                        |             1 |            183 |               15 |               9 |
+| pioneer                     |             1 |            176 |               16 |               9 |
+| t&s brass                   |             1 |            148 |               17 |               9 |
+| grip tight tools            |             1 |            130 |               18 |               9 |
+| allied precision industries |             1 |            103 |               19 |               9 |
+| 3m                          |             1 |            101 |               20 |               9 |
+| schlage                     |             1 |             96 |               21 |               9 |
+| lockey usa                  |             1 |             85 |               22 |               9 |
+| wowwr                       |             1 |             77 |               23 |               9 |
+| ambassador marine           |             1 |             73 |               24 |               9 |
+| grohe                       |             1 |             68 |               25 |               9 |
+| homewerks worldwide         |             1 |             63 |               26 |               9 |
+| cramer                      |             1 |             59 |               27 |               9 |
+| weiler                      |             1 |             31 |               28 |               9 |
+| jones stephens corporation  |             1 |             27 |               29 |               9 |
+| small parts                 |             1 |             27 |               30 |               9 |
+| kipp                        |             1 |             26 |               31 |               9 |
+| notrax                      |             1 |             22 |               32 |               9 |
+| westbrass                   |             1 |             21 |               33 |               9 |
+| magnolia brush              |             1 |             20 |               34 |               9 |
+| oreck commercial            |             1 |             19 |               35 |               9 |
+| ez-flo                      |             2 |             18 |               36 |               8 |
+| slide-co                    |             1 |             15 |               37 |               9 |
+| brushtech                   |             1 |             14 |               38 |               9 |
+| hy-ko products              |             1 |             13 |               39 |               9 |
+| nuset                       |             1 |             13 |               40 |               9 |
+| oxo                         |             1 |             13 |               41 |               9 |
+| tovantoe                    |             1 |              7 |               42 |               9 |
+| design house                |             1 |              7 |               43 |               9 |
+

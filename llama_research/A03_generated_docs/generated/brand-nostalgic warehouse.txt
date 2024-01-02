@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: nostalgic warehouse == 
+
+
+
+== nostalgic warehouse: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |          1426 |         180923 |                1 |               1 |
+| Mundella Foods                                                         |          1217 |         158068 |                2 |               2 |
+| Sound Wave Marketing                                                   |          1084 |         131203 |                3 |               3 |
+| K-Point Internet Solutions                                             |           948 |         124088 |                4 |               4 |
+| Henties Juices                                                         |           878 |         117322 |                5 |               5 |
+| Lewis Commercial General Contractors                                   |           553 |          69827 |                6 |               6 |
+| Prosper Business Solutions                                             |           521 |          64311 |                7 |               7 |
+| Sitting Pretty Marketing                                               |           481 |          61906 |                8 |              11 |
+| Straight Line Contracting Llc                                          |           502 |          59873 |                9 |               8 |
+| United Container Machinery Group Inc.                                  |           482 |          59723 |               10 |              10 |
+| Chuo Mitsui Investments                                                |           487 |          58723 |               11 |               9 |
+| Busby Metals Limited                                                   |           466 |          56963 |               12 |              12 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |           453 |          56695 |               13 |              13 |
+| 2Connect Presentation Training                                         |           446 |          55437 |               14 |              14 |
+
+== nostalgic warehouse: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |          3306 |         420265 |                1 |               2 |
+|   2021 |          3341 |         419675 |                2 |               1 |
+|   2023 |          3297 |         415123 |                3 |               3 |
+
+== nostalgic warehouse: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |          4516 |         576844 |                1 |               1 |
+| United States  |          4059 |         506211 |                2 |               2 |
+| Canada         |           254 |          32662 |                3 |               3 |
+| Russia         |           199 |          24891 |                4 |               4 |
+| France         |           168 |          20490 |                5 |               5 |
+| United Kingdom |           151 |          18764 |                6 |               6 |
+| India          |           104 |          13959 |                7 |               7 |
+| Japan          |           104 |          12713 |                8 |               7 |
+| Brazil         |            85 |          10659 |                9 |               8 |
+| South Korea    |            82 |          10427 |               10 |               9 |
+| Spain          |            68 |           8308 |               11 |              10 |
+| Saudi Arabia   |            60 |           7551 |               12 |              11 |
+| Switzerland    |            25 |           3299 |               13 |              12 |
+| Sweden         |            15 |           1908 |               14 |              13 |
+| Belgium        |            12 |           1601 |               15 |              15 |
+| Netherlands    |            14 |           1457 |               16 |              14 |
+| Mexico         |            12 |           1365 |               17 |              15 |
+| Poland         |             9 |           1091 |               18 |              16 |
+| Turkey         |             7 |            863 |               19 |              17 |
+
+== nostalgic warehouse: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |           931 |         120372 |                1 |               1 |
+| drinkware                 |           849 |         103849 |                2 |               2 |
+| athletic shoes            |           689 |          86143 |                3 |               3 |
+| kitchen accessories       |           683 |          82596 |                4 |               4 |
+| casual & dress shoes      |           644 |          82171 |                5 |               5 |
+| sportswear                |           541 |          66029 |                6 |               6 |
+| uniform                   |           473 |          63598 |                7 |               7 |
+| pants                     |           450 |          56203 |                8 |               8 |
+| sporting goods            |           444 |          52658 |                9 |               9 |
+| makeup                    |           347 |          52249 |               10 |              11 |
+| hand tools                |           399 |          48787 |               11 |              10 |
+| cooking utensils          |           312 |          36028 |               12 |              12 |
+| table linens              |           268 |          33488 |               13 |              13 |
+| stationery                |           227 |          30200 |               14 |              16 |
+| sandals                   |           230 |          28778 |               15 |              15 |
+| storage & organization    |           241 |          28216 |               16 |              14 |
+| costumes & accessories    |           226 |          26886 |               17 |              17 |
+| bathroom accessories      |           157 |          26769 |               18 |              24 |
+| car care products         |           200 |          25802 |               19 |              18 |
+| watches                   |           188 |          24133 |               20 |              20 |
+| dinnerware & serveware    |           195 |          23052 |               21 |              19 |
+| paint & supplies          |           181 |          22788 |               22 |              21 |
+| sewing and accessories    |           174 |          22565 |               23 |              22 |
+| shorts                    |           169 |          20608 |               24 |              23 |
+| car parts                 |           116 |          14612 |               25 |              25 |
+| tops                      |           102 |          12121 |               26 |              26 |
+| sleepwear                 |            89 |          11610 |               27 |              28 |
+| mobile phone accessories  |            90 |          11457 |               28 |              27 |
+| boots                     |            88 |          10833 |               29 |              29 |
+| hats & caps               |            85 |          10517 |               30 |              30 |
+| home decor                |            79 |          10282 |               31 |              31 |
+| accessories               |            77 |           9662 |               32 |              32 |
+

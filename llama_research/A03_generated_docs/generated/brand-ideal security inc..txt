@@ -1,0 +1,82 @@
+== Title: Sales Figures for brand: ideal security inc. == 
+
+
+
+== ideal security inc.: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            22 |            572 |                1 |               1 |
+| Sitting Pretty Marketing                                               |            19 |            515 |                2 |               3 |
+| Chuo Mitsui Investments                                                |            17 |            490 |                3 |               5 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            18 |            469 |                4 |               4 |
+| Henties Juices                                                         |            20 |            461 |                5 |               2 |
+| Texas Va Mortgage                                                      |            17 |            428 |                6 |               5 |
+| Lewis Commercial General Contractors                                   |            15 |            415 |                7 |               6 |
+| United Container Machinery Group Inc.                                  |            15 |            387 |                8 |               6 |
+| K-Point Internet Solutions                                             |            14 |            354 |                9 |               7 |
+| 2Connect Presentation Training                                         |            14 |            316 |               10 |               7 |
+| Busby Metals Limited                                                   |            11 |            315 |               11 |               8 |
+| Straight Line Contracting Llc                                          |            10 |            254 |               12 |               9 |
+| Mundella Foods                                                         |             9 |            225 |               13 |              10 |
+| Prosper Business Solutions                                             |             8 |            190 |               14 |              11 |
+
+== ideal security inc.: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            75 |           1957 |                1 |               1 |
+|   2021 |            72 |           1881 |                2 |               2 |
+|   2023 |            62 |           1553 |                3 |               3 |
+
+== ideal security inc.: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           100 |           2596 |                1 |               1 |
+| China          |            88 |           2223 |                2 |               2 |
+| United Kingdom |             8 |            228 |                3 |               3 |
+| India          |             5 |            124 |                4 |               4 |
+| Japan          |             2 |             57 |                5 |               5 |
+| Russia         |             2 |             52 |                6 |               5 |
+| Netherlands    |             1 |             29 |                7 |               6 |
+| Saudi Arabia   |             1 |             29 |                7 |               6 |
+| South Korea    |             1 |             29 |                7 |               6 |
+| France         |             1 |             23 |                8 |               6 |
+
+== ideal security inc.: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |            36 |            931 |                1 |               1 |
+| pants                     |            15 |            394 |                2 |               3 |
+| drinkware                 |            16 |            391 |                3 |               2 |
+| table linens              |            16 |            391 |                4 |               2 |
+| tops                      |            10 |            291 |                5 |               4 |
+| sportswear                |            10 |            275 |                6 |               4 |
+| shorts                    |             9 |            234 |                7 |               5 |
+| accessories               |             7 |            191 |                8 |               7 |
+| sandals                   |             7 |            183 |                9 |               7 |
+| stationery                |             6 |            176 |               10 |               8 |
+| athletic shoes            |             8 |            173 |               11 |               6 |
+| hand tools                |             6 |            153 |               12 |               8 |
+| watches                   |             5 |            153 |               13 |               9 |
+| car care products         |             6 |            150 |               14 |               8 |
+| sewing and accessories    |             5 |            147 |               15 |               9 |
+| kitchen accessories       |             7 |            146 |               16 |               7 |
+| paint & supplies          |             5 |            127 |               17 |               9 |
+| costumes & accessories    |             4 |            114 |               18 |              10 |
+| storage & organization    |             4 |             98 |               19 |              10 |
+| uniform                   |             3 |             94 |               20 |              11 |
+| bathroom accessories      |             3 |             88 |               21 |              11 |
+| dinnerware & serveware    |             3 |             86 |               22 |              11 |
+| sporting goods            |             3 |             76 |               23 |              11 |
+| boots                     |             3 |             61 |               24 |              11 |
+| car parts                 |             2 |             52 |               25 |              12 |
+| bedding sets & components |             2 |             47 |               26 |              12 |
+| hats & caps               |             2 |             43 |               27 |              12 |
+| cooking utensils          |             2 |             37 |               28 |              12 |
+| sleepwear                 |             2 |             32 |               29 |              12 |
+| makeup                    |             1 |             29 |               30 |              13 |
+| mobile phone accessories  |             1 |             28 |               31 |              13 |
+

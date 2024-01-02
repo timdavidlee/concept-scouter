@@ -1,0 +1,89 @@
+== Title: Sales Figures for brand: pioneer == 
+
+
+
+== pioneer: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Henties Juices                                                         |           119 |          18843 |                1 |               1 |
+| Sound Wave Marketing                                                   |            68 |          11966 |                2 |               2 |
+| United Container Machinery Group Inc.                                  |            47 |           8709 |                3 |               4 |
+| K-Point Internet Solutions                                             |            61 |           8128 |                4 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            44 |           6258 |                5 |               5 |
+| Mundella Foods                                                         |            37 |           5779 |                6 |               6 |
+| Lewis Commercial General Contractors                                   |            33 |           5540 |                7 |               8 |
+| 2Connect Presentation Training                                         |            33 |           5501 |                8 |               8 |
+| Straight Line Contracting Llc                                          |            35 |           5462 |                9 |               7 |
+| Texas Va Mortgage                                                      |            28 |           4476 |               10 |               9 |
+| Sitting Pretty Marketing                                               |            24 |           4279 |               11 |              11 |
+| Prosper Business Solutions                                             |            24 |           4089 |               12 |              11 |
+| Busby Metals Limited                                                   |            23 |           4014 |               13 |              12 |
+| Chuo Mitsui Investments                                                |            25 |           3995 |               14 |              10 |
+
+== pioneer: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |           212 |          33570 |                1 |               1 |
+|   2021 |           203 |          32878 |                2 |               2 |
+|   2022 |           186 |          30590 |                3 |               3 |
+
+== pioneer: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           283 |          45152 |                1 |               1 |
+| United States  |           247 |          39920 |                2 |               2 |
+| Russia         |            18 |           3264 |                3 |               3 |
+| United Kingdom |            11 |           1661 |                4 |               4 |
+| South Korea    |             8 |           1332 |                5 |               5 |
+| Canada         |             6 |           1141 |                6 |               7 |
+| Japan          |             7 |           1086 |                7 |               6 |
+| France         |             5 |            953 |                8 |               8 |
+| India          |             4 |            701 |                9 |               9 |
+| Brazil         |             4 |            571 |               10 |               9 |
+| Turkey         |             2 |            347 |               11 |              10 |
+| Sweden         |             2 |            222 |               12 |              10 |
+| Spain          |             1 |            204 |               13 |              11 |
+| Switzerland    |             1 |            204 |               13 |              11 |
+| Poland         |             1 |            176 |               14 |              11 |
+| Belgium        |             1 |            104 |               15 |              11 |
+
+== pioneer: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |           125 |          20296 |                1 |               1 |
+| uniform                   |            50 |           8991 |                2 |               2 |
+| bathroom accessories      |            45 |           5545 |                3 |               3 |
+| pants                     |            29 |           5097 |                4 |               6 |
+| drinkware                 |            31 |           5008 |                5 |               5 |
+| athletic shoes            |            34 |           4435 |                6 |               4 |
+| storage & organization    |            19 |           3381 |                7 |               8 |
+| watches                   |            17 |           3346 |                8 |              10 |
+| kitchen accessories       |            21 |           3305 |                9 |               7 |
+| home decor                |            18 |           2995 |               10 |               9 |
+| sporting goods            |            19 |           2716 |               11 |               8 |
+| hand tools                |            16 |           2673 |               12 |              11 |
+| table linens              |            14 |           2668 |               13 |              13 |
+| shorts                    |            15 |           2395 |               14 |              12 |
+| dinnerware & serveware    |            13 |           2130 |               15 |              14 |
+| paint & supplies          |            13 |           1988 |               16 |              14 |
+| costumes & accessories    |            11 |           1733 |               17 |              15 |
+| cooking utensils          |            10 |           1605 |               18 |              16 |
+| sewing and accessories    |             8 |           1562 |               19 |              18 |
+| sandals                   |             9 |           1508 |               20 |              17 |
+| makeup                    |            10 |           1424 |               21 |              16 |
+| stationery                |             8 |           1362 |               22 |              18 |
+| car care products         |             8 |           1334 |               23 |              18 |
+| boots                     |             7 |           1277 |               24 |              19 |
+| sportswear                |             8 |           1214 |               25 |              18 |
+| accessories               |             7 |           1172 |               26 |              19 |
+| bedding sets & components |             7 |           1168 |               27 |              19 |
+| tops                      |             7 |           1104 |               28 |              19 |
+| hats & caps               |             5 |           1045 |               29 |              21 |
+| mobile phone accessories  |             6 |            926 |               30 |              20 |
+| car parts                 |             6 |            856 |               31 |              20 |
+| sleepwear                 |             5 |            779 |               32 |              21 |
+

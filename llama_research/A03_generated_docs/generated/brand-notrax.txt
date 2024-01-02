@@ -1,0 +1,90 @@
+== Title: Sales Figures for brand: notrax == 
+
+
+
+== notrax: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |           992 |          47965 |                1 |               1 |
+| K-Point Internet Solutions                                             |            80 |           6560 |                2 |               2 |
+| Prosper Business Solutions                                             |            57 |           4535 |                3 |               3 |
+| United Container Machinery Group Inc.                                  |            50 |           4498 |                4 |               5 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            49 |           3734 |                5 |               6 |
+| Lewis Commercial General Contractors                                   |            53 |           3699 |                6 |               4 |
+| Mundella Foods                                                         |            48 |           3695 |                7 |               7 |
+| Henties Juices                                                         |            45 |           3563 |                8 |               9 |
+| Sitting Pretty Marketing                                               |            47 |           3546 |                9 |               8 |
+| 2Connect Presentation Training                                         |            42 |           3218 |               10 |              10 |
+| Busby Metals Limited                                                   |            42 |           3187 |               11 |              10 |
+| Texas Va Mortgage                                                      |            41 |           2834 |               12 |              11 |
+| Chuo Mitsui Investments                                                |            35 |           2818 |               13 |              13 |
+| Straight Line Contracting Llc                                          |            40 |           2721 |               14 |              12 |
+
+== notrax: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           574 |          34458 |                1 |               1 |
+|   2023 |           540 |          31328 |                2 |               2 |
+|   2022 |           507 |          30784 |                3 |               3 |
+
+== notrax: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |          1078 |          60792 |                1 |               1 |
+| China          |           277 |          21522 |                2 |               2 |
+| France         |            94 |           4516 |                3 |               3 |
+| Spain          |            47 |           2354 |                4 |               5 |
+| South Korea    |            52 |           2256 |                5 |               4 |
+| Russia         |            14 |            981 |                6 |               6 |
+| Japan          |            11 |            771 |                7 |               7 |
+| United Kingdom |            11 |            755 |                8 |               7 |
+| Switzerland    |             9 |            685 |                9 |               8 |
+| India          |             8 |            567 |               10 |               9 |
+| Brazil         |             6 |            484 |               11 |              10 |
+| Canada         |             6 |            401 |               12 |              10 |
+| Sweden         |             3 |            228 |               13 |              11 |
+| Netherlands    |             2 |            104 |               14 |              12 |
+| Saudi Arabia   |             1 |             73 |               15 |              13 |
+| Belgium        |             1 |             57 |               16 |              13 |
+| Poland         |             1 |             22 |               17 |              13 |
+
+== notrax: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| cooking utensils          |           344 |          26756 |                1 |               2 |
+| drinkware                 |           652 |          21284 |                2 |               1 |
+| kitchen accessories       |            74 |           5694 |                3 |               3 |
+| casual & dress shoes      |            63 |           5038 |                4 |               4 |
+| hand tools                |            43 |           3561 |                5 |               5 |
+| table linens              |            39 |           3139 |                6 |               6 |
+| pants                     |            38 |           2755 |                7 |               7 |
+| uniform                   |            27 |           2215 |                8 |               8 |
+| paint & supplies          |            24 |           2052 |                9 |              10 |
+| sandals                   |            26 |           1815 |               10 |               9 |
+| sportswear                |            22 |           1735 |               11 |              11 |
+| storage & organization    |            22 |           1601 |               12 |              11 |
+| athletic shoes            |            22 |           1445 |               13 |              11 |
+| sewing and accessories    |            19 |           1441 |               14 |              14 |
+| watches                   |            16 |           1391 |               15 |              15 |
+| accessories               |            12 |           1382 |               16 |              19 |
+| stationery                |            21 |           1363 |               17 |              12 |
+| bedding sets & components |            20 |           1327 |               18 |              13 |
+| costumes & accessories    |            14 |           1275 |               19 |              17 |
+| car care products         |            16 |           1203 |               20 |              15 |
+| dinnerware & serveware    |            13 |           1166 |               21 |              18 |
+| shorts                    |            15 |           1119 |               22 |              16 |
+| sporting goods            |            13 |            955 |               23 |              18 |
+| home decor                |            11 |            740 |               24 |              20 |
+| mobile phone accessories  |             8 |            632 |               25 |              21 |
+| sleepwear                 |             8 |            620 |               26 |              21 |
+| tops                      |             7 |            548 |               27 |              22 |
+| makeup                    |             7 |            540 |               28 |              22 |
+| bathroom accessories      |             6 |            537 |               29 |              23 |
+| car parts                 |             7 |            479 |               30 |              22 |
+| hats & caps               |             7 |            444 |               31 |              22 |
+| boots                     |             5 |            319 |               32 |              24 |
+

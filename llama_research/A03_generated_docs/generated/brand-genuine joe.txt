@@ -1,0 +1,74 @@
+== Title: Sales Figures for brand: genuine joe == 
+
+
+
+== genuine joe: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |             5 |             77 |                1 |               1 |
+| Busby Metals Limited                                                   |             5 |             74 |                2 |               1 |
+| Henties Juices                                                         |             5 |             74 |                2 |               1 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             4 |             61 |                3 |               2 |
+| Chuo Mitsui Investments                                                |             4 |             60 |                4 |               2 |
+| Sound Wave Marketing                                                   |             4 |             60 |                4 |               2 |
+| Straight Line Contracting Llc                                          |             4 |             60 |                4 |               2 |
+| 2Connect Presentation Training                                         |             4 |             58 |                5 |               2 |
+| Lewis Commercial General Contractors                                   |             3 |             45 |                6 |               3 |
+| Prosper Business Solutions                                             |             3 |             45 |                6 |               3 |
+| Mundella Foods                                                         |             3 |             44 |                7 |               3 |
+| K-Point Internet Solutions                                             |             2 |             30 |                8 |               4 |
+| United Container Machinery Group Inc.                                  |             2 |             30 |                8 |               4 |
+| Sitting Pretty Marketing                                               |             1 |             14 |                9 |               5 |
+
+== genuine joe: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            19 |            282 |                1 |               1 |
+|   2022 |            16 |            241 |                2 |               2 |
+|   2021 |            14 |            207 |                3 |               3 |
+
+== genuine joe: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            21 |            315 |                1 |               1 |
+| China          |            19 |            284 |                2 |               2 |
+| Japan          |             2 |             28 |                3 |               3 |
+| Russia         |             2 |             28 |                3 |               3 |
+| Brazil         |             1 |             16 |                4 |               4 |
+| Canada         |             1 |             16 |                4 |               4 |
+| Spain          |             1 |             16 |                4 |               4 |
+| India          |             1 |             14 |                5 |               4 |
+| United Kingdom |             1 |             14 |                5 |               4 |
+
+== genuine joe: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |             5 |             75 |                1 |               1 |
+| pants                     |             5 |             75 |                1 |               1 |
+| sandals                   |             4 |             60 |                2 |               2 |
+| car care products         |             3 |             45 |                3 |               3 |
+| dinnerware & serveware    |             3 |             45 |                3 |               3 |
+| drinkware                 |             3 |             45 |                3 |               3 |
+| storage & organization    |             3 |             44 |                4 |               3 |
+| casual & dress shoes      |             2 |             31 |                5 |               4 |
+| table linens              |             2 |             30 |                6 |               4 |
+| bedding sets & components |             2 |             30 |                6 |               4 |
+| hand tools                |             2 |             30 |                6 |               4 |
+| athletic shoes            |             2 |             30 |                6 |               4 |
+| stationery                |             2 |             28 |                7 |               4 |
+| accessories               |             1 |             16 |                8 |               5 |
+| costumes & accessories    |             1 |             16 |                8 |               5 |
+| cooking utensils          |             1 |             16 |                8 |               5 |
+| watches                   |             1 |             16 |                8 |               5 |
+| mobile phone accessories  |             1 |             14 |                9 |               5 |
+| makeup                    |             1 |             14 |                9 |               5 |
+| hats & caps               |             1 |             14 |                9 |               5 |
+| shorts                    |             1 |             14 |                9 |               5 |
+| sleepwear                 |             1 |             14 |                9 |               5 |
+| bathroom accessories      |             1 |             14 |                9 |               5 |
+| uniform                   |             1 |             14 |                9 |               5 |
+

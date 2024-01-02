@@ -1,0 +1,85 @@
+== Title: Sales Figures for brand: shepherd hardware == 
+
+
+
+== shepherd hardware: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| United Container Machinery Group Inc.                                  |            20 |            167 |                1 |               1 |
+| K-Point Internet Solutions                                             |            14 |            100 |                2 |               2 |
+| Lewis Commercial General Contractors                                   |            13 |             93 |                3 |               3 |
+| 2Connect Presentation Training                                         |            11 |             75 |                4 |               4 |
+| Sound Wave Marketing                                                   |            11 |             74 |                5 |               4 |
+| Busby Metals Limited                                                   |            10 |             72 |                6 |               5 |
+| Texas Va Mortgage                                                      |            10 |             68 |                7 |               5 |
+| Straight Line Contracting Llc                                          |             9 |             58 |                8 |               6 |
+| Prosper Business Solutions                                             |             9 |             56 |                9 |               6 |
+| Chuo Mitsui Investments                                                |             7 |             53 |               10 |               8 |
+| Henties Juices                                                         |             8 |             52 |               11 |               7 |
+| Mundella Foods                                                         |             9 |             51 |               12 |               6 |
+| Sitting Pretty Marketing                                               |             5 |             36 |               13 |               9 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             5 |             24 |               14 |               9 |
+
+== shepherd hardware: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |            54 |            392 |                1 |               1 |
+|   2022 |            47 |            309 |                2 |               2 |
+|   2021 |            40 |            278 |                3 |               3 |
+
+== shepherd hardware: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            61 |            429 |                1 |               1 |
+| China          |            61 |            412 |                2 |               1 |
+| United Kingdom |             4 |             30 |                3 |               2 |
+| Brazil         |             3 |             27 |                4 |               3 |
+| Russia         |             4 |             26 |                5 |               2 |
+| Canada         |             2 |             17 |                6 |               4 |
+| Japan          |             1 |             12 |                7 |               5 |
+| Spain          |             1 |              9 |                8 |               5 |
+| France         |             1 |              5 |                9 |               5 |
+| India          |             1 |              5 |                9 |               5 |
+| Netherlands    |             1 |              5 |                9 |               5 |
+| Switzerland    |             1 |              5 |                9 |               5 |
+
+== shepherd hardware: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |            15 |            104 |                1 |               1 |
+| accessories               |            12 |            102 |                2 |               2 |
+| casual & dress shoes      |            11 |             69 |                3 |               3 |
+| pants                     |            11 |             64 |                4 |               3 |
+| sandals                   |             7 |             48 |                5 |               4 |
+| bedding sets & components |             6 |             46 |                6 |               5 |
+| car care products         |             6 |             40 |                7 |               5 |
+| storage & organization    |             5 |             38 |                8 |               6 |
+| athletic shoes            |             6 |             36 |                9 |               5 |
+| paint & supplies          |             5 |             36 |               10 |               6 |
+| stationery                |             5 |             34 |               11 |               6 |
+| sporting goods            |             3 |             33 |               12 |               8 |
+| hand tools                |             6 |             30 |               13 |               5 |
+| drinkware                 |             4 |             30 |               14 |               7 |
+| sewing and accessories    |             3 |             29 |               15 |               8 |
+| sportswear                |             5 |             28 |               16 |               6 |
+| home decor                |             3 |             27 |               17 |               8 |
+| table linens              |             4 |             22 |               18 |               7 |
+| sleepwear                 |             3 |             19 |               19 |               8 |
+| mobile phone accessories  |             3 |             18 |               20 |               8 |
+| tops                      |             2 |             17 |               21 |               9 |
+| hats & caps               |             2 |             15 |               22 |               9 |
+| dinnerware & serveware    |             2 |             15 |               22 |               9 |
+| cooking utensils          |             2 |             13 |               23 |               9 |
+| shorts                    |             1 |             12 |               24 |              10 |
+| watches                   |             2 |             11 |               25 |               9 |
+| costumes & accessories    |             2 |             11 |               25 |               9 |
+| bathroom accessories      |             1 |              9 |               26 |              10 |
+| uniform                   |             1 |              9 |               26 |              10 |
+| makeup                    |             1 |              6 |               27 |              10 |
+| car parts                 |             1 |              5 |               28 |              10 |
+| boots                     |             1 |              5 |               28 |              10 |
+

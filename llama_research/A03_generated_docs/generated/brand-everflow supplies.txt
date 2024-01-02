@@ -1,0 +1,62 @@
+== Title: Sales Figures for brand: everflow supplies == 
+
+
+
+== everflow supplies: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Lewis Commercial General Contractors                                   |            17 |            864 |                1 |               1 |
+| Busby Metals Limited                                                   |             5 |            254 |                2 |               2 |
+| Chuo Mitsui Investments                                                |             3 |            152 |                3 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             3 |            152 |                3 |               3 |
+| 2Connect Presentation Training                                         |             2 |            102 |                4 |               4 |
+| Henties Juices                                                         |             2 |            102 |                4 |               4 |
+| Sound Wave Marketing                                                   |             2 |            102 |                4 |               4 |
+| K-Point Internet Solutions                                             |             1 |             51 |                5 |               5 |
+| Mundella Foods                                                         |             1 |             51 |                5 |               5 |
+| Sitting Pretty Marketing                                               |             1 |             51 |                5 |               5 |
+| Texas Va Mortgage                                                      |             1 |             51 |                5 |               5 |
+| United Container Machinery Group Inc.                                  |             1 |             51 |                5 |               5 |
+
+== everflow supplies: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            14 |            712 |                1 |               1 |
+|   2022 |            13 |            661 |                2 |               2 |
+|   2023 |            12 |            610 |                3 |               3 |
+
+== everflow supplies: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |            18 |            915 |                1 |               1 |
+| United States  |             7 |            356 |                2 |               2 |
+| Russia         |             6 |            305 |                3 |               3 |
+| India          |             3 |            152 |                4 |               4 |
+| Switzerland    |             2 |            102 |                5 |               5 |
+| Japan          |             1 |             51 |                6 |               6 |
+| Spain          |             1 |             51 |                6 |               6 |
+| United Kingdom |             1 |             51 |                6 |               6 |
+
+== everflow supplies: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| home decor                |            15 |            762 |                1 |               1 |
+| casual & dress shoes      |             4 |            203 |                2 |               2 |
+| pants                     |             4 |            203 |                2 |               2 |
+| storage & organization    |             3 |            152 |                3 |               3 |
+| athletic shoes            |             2 |            102 |                4 |               4 |
+| car care products         |             2 |            102 |                4 |               4 |
+| bedding sets & components |             1 |             51 |                5 |               5 |
+| dinnerware & serveware    |             1 |             51 |                5 |               5 |
+| kitchen accessories       |             1 |             51 |                5 |               5 |
+| paint & supplies          |             1 |             51 |                5 |               5 |
+| sewing and accessories    |             1 |             51 |                5 |               5 |
+| sporting goods            |             1 |             51 |                5 |               5 |
+| stationery                |             1 |             51 |                5 |               5 |
+| table linens              |             1 |             51 |                5 |               5 |
+| uniform                   |             1 |             51 |                5 |               5 |
+

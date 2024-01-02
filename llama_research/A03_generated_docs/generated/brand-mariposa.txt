@@ -1,0 +1,75 @@
+== Title: Sales Figures for brand: mariposa == 
+
+
+
+== mariposa: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |            23 |           1181 |                1 |               1 |
+| Prosper Business Solutions                                             |             6 |            338 |                2 |               2 |
+| Henties Juices                                                         |             5 |            287 |                3 |               3 |
+| Sitting Pretty Marketing                                               |             4 |            225 |                4 |               4 |
+| Straight Line Contracting Llc                                          |             4 |            225 |                4 |               4 |
+| United Container Machinery Group Inc.                                  |             4 |            225 |                4 |               4 |
+| 2Connect Presentation Training                                         |             4 |            213 |                5 |               4 |
+| Chuo Mitsui Investments                                                |             4 |            213 |                5 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             4 |            213 |                5 |               4 |
+| K-Point Internet Solutions                                             |             3 |            187 |                6 |               5 |
+| Mundella Foods                                                         |             3 |            175 |                7 |               5 |
+| Lewis Commercial General Contractors                                   |             2 |            112 |                8 |               6 |
+| Texas Va Mortgage                                                      |             2 |            112 |                8 |               6 |
+| Busby Metals Limited                                                   |             1 |             62 |                9 |               7 |
+
+== mariposa: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            27 |           1513 |                1 |               1 |
+|   2021 |            24 |           1267 |                2 |               2 |
+|   2023 |            18 |            989 |                3 |               3 |
+
+== mariposa: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            40 |           2179 |                1 |               1 |
+| China          |            17 |            962 |                2 |               2 |
+| United Kingdom |             3 |            163 |                3 |               3 |
+| South Korea    |             3 |            151 |                4 |               3 |
+| India          |             2 |            112 |                5 |               4 |
+| France         |             2 |            101 |                6 |               4 |
+| Japan          |             1 |             50 |                7 |               5 |
+| Mexico         |             1 |             50 |                7 |               5 |
+
+== mariposa: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |            21 |           1068 |                1 |               1 |
+| kitchen accessories       |             5 |            287 |                2 |               2 |
+| casual & dress shoes      |             4 |            225 |                3 |               3 |
+| cooking utensils          |             3 |            175 |                4 |               4 |
+| hand tools                |             3 |            175 |                4 |               4 |
+| paint & supplies          |             3 |            175 |                4 |               4 |
+| costumes & accessories    |             3 |            163 |                5 |               4 |
+| mobile phone accessories  |             2 |            112 |                6 |               5 |
+| athletic shoes            |             2 |            112 |                6 |               5 |
+| uniform                   |             2 |            112 |                6 |               5 |
+| tops                      |             2 |            112 |                6 |               5 |
+| sporting goods            |             2 |            112 |                6 |               5 |
+| pants                     |             2 |            101 |                7 |               5 |
+| watches                   |             2 |            101 |                7 |               5 |
+| car care products         |             2 |            101 |                7 |               5 |
+| makeup                    |             1 |             62 |                8 |               6 |
+| sandals                   |             1 |             62 |                8 |               6 |
+| sewing and accessories    |             1 |             62 |                8 |               6 |
+| sportswear                |             1 |             62 |                8 |               6 |
+| storage & organization    |             1 |             62 |                8 |               6 |
+| bathroom accessories      |             1 |             62 |                8 |               6 |
+| accessories               |             1 |             62 |                8 |               6 |
+| shorts                    |             1 |             50 |                9 |               6 |
+| sleepwear                 |             1 |             50 |                9 |               6 |
+| boots                     |             1 |             50 |                9 |               6 |
+| bedding sets & components |             1 |             50 |                9 |               6 |
+

@@ -1,0 +1,77 @@
+== Title: Sales Figures for brand: sinkology == 
+
+
+
+== sinkology: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |            53 |           2975 |                1 |               1 |
+| Mundella Foods                                                         |             9 |           2799 |                2 |               2 |
+| Chuo Mitsui Investments                                                |             9 |           2005 |                3 |               2 |
+| Busby Metals Limited                                                   |             6 |           1553 |                4 |               4 |
+| Sound Wave Marketing                                                   |             4 |           1420 |                5 |               6 |
+| United Container Machinery Group Inc.                                  |             3 |           1318 |                6 |               7 |
+| 2Connect Presentation Training                                         |             5 |           1306 |                7 |               5 |
+| Prosper Business Solutions                                             |             8 |           1036 |                8 |               3 |
+| Sitting Pretty Marketing                                               |             5 |            945 |                9 |               5 |
+| Henties Juices                                                         |             4 |            915 |               10 |               6 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             2 |            710 |               11 |               8 |
+| Lewis Commercial General Contractors                                   |             2 |            710 |               11 |               8 |
+| K-Point Internet Solutions                                             |             2 |            638 |               12 |               8 |
+| Straight Line Contracting Llc                                          |             2 |            205 |               13 |               8 |
+
+== sinkology: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            44 |           7972 |                1 |               1 |
+|   2023 |            42 |           7406 |                2 |               2 |
+|   2022 |            28 |           3157 |                3 |               3 |
+
+== sinkology: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            29 |           7807 |                1 |               2 |
+| China          |            65 |           7236 |                2 |               1 |
+| Japan          |             4 |           1276 |                3 |               4 |
+| Russia         |             2 |            710 |                4 |               6 |
+| Mexico         |             2 |            638 |                5 |               6 |
+| Canada         |             7 |            500 |                6 |               3 |
+| Saudi Arabia   |             3 |            163 |                7 |               5 |
+| Belgium        |             1 |            102 |                8 |               7 |
+| United Kingdom |             1 |            102 |                8 |               7 |
+
+== sinkology: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |            50 |           2740 |                1 |               1 |
+| table linens              |             5 |           1884 |                2 |               4 |
+| athletic shoes            |             7 |           1583 |                3 |               2 |
+| hand tools                |             3 |           1318 |                4 |               6 |
+| car care products         |             2 |           1215 |                5 |               7 |
+| kitchen accessories       |             5 |            873 |                6 |               4 |
+| stationery                |             4 |            843 |                7 |               5 |
+| uniform                   |             3 |            812 |                8 |               6 |
+| dinnerware & serveware    |             6 |            759 |                9 |               3 |
+| pants                     |             2 |            710 |               10 |               7 |
+| sewing and accessories    |             2 |            710 |               10 |               7 |
+| sporting goods            |             2 |            710 |               10 |               7 |
+| sportswear                |             2 |            710 |               10 |               7 |
+| hats & caps               |             1 |            608 |               11 |               8 |
+| storage & organization    |             1 |            608 |               11 |               8 |
+| tops                      |             1 |            608 |               11 |               8 |
+| bathroom accessories      |             1 |            608 |               11 |               8 |
+| drinkware                 |             3 |            235 |               12 |               6 |
+| sleepwear                 |             2 |            205 |               13 |               7 |
+| costumes & accessories    |             3 |            163 |               14 |               6 |
+| casual & dress shoes      |             2 |            133 |               15 |               7 |
+| shorts                    |             2 |            133 |               15 |               7 |
+| watches                   |             1 |            102 |               16 |               8 |
+| sandals                   |             1 |            102 |               16 |               8 |
+| cooking utensils          |             1 |            102 |               16 |               8 |
+| mobile phone accessories  |             1 |             30 |               17 |               8 |
+| paint & supplies          |             1 |             30 |               17 |               8 |
+

@@ -1,0 +1,88 @@
+== Title: Sales Figures for brand: national hardware == 
+
+
+
+== national hardware: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Henties Juices                                                         |           177 |           1009 |                1 |               1 |
+| 2Connect Presentation Training                                         |            37 |            350 |                2 |               2 |
+| Mundella Foods                                                         |            30 |            309 |                3 |               3 |
+| Lewis Commercial General Contractors                                   |            27 |            307 |                4 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            30 |            279 |                5 |               3 |
+| K-Point Internet Solutions                                             |            21 |            222 |                6 |               7 |
+| Prosper Business Solutions                                             |            22 |            219 |                7 |               6 |
+| Sitting Pretty Marketing                                               |            30 |            214 |                8 |               3 |
+| Chuo Mitsui Investments                                                |            22 |            211 |                9 |               6 |
+| Busby Metals Limited                                                   |            23 |            198 |               10 |               5 |
+| Texas Va Mortgage                                                      |            22 |            198 |               11 |               6 |
+| Sound Wave Marketing                                                   |            22 |            188 |               12 |               6 |
+| United Container Machinery Group Inc.                                  |            21 |            172 |               13 |               7 |
+| Straight Line Contracting Llc                                          |            16 |            166 |               14 |               8 |
+
+== national hardware: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           184 |           1508 |                1 |               1 |
+|   2022 |           177 |           1385 |                2 |               2 |
+|   2023 |           139 |           1148 |                3 |               3 |
+
+== national hardware: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           290 |           2167 |                1 |               1 |
+| United States  |           131 |           1237 |                2 |               2 |
+| Russia         |            16 |            125 |                3 |               3 |
+| Brazil         |            14 |            113 |                4 |               4 |
+| United Kingdom |            11 |            105 |                5 |               5 |
+| Canada         |            10 |             87 |                6 |               6 |
+| India          |             9 |             75 |                7 |               7 |
+| Japan          |             6 |             35 |                8 |               8 |
+| Switzerland    |             3 |             26 |                9 |               9 |
+| Spain          |             3 |             20 |               10 |               9 |
+| France         |             3 |             18 |               11 |               9 |
+| Saudi Arabia   |             1 |              9 |               12 |              10 |
+| Mexico         |             1 |              9 |               13 |              10 |
+| Belgium        |             1 |              7 |               14 |              10 |
+| South Korea    |             1 |              7 |               14 |              10 |
+
+== national hardware: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |           174 |            961 |                1 |               1 |
+| pants                     |            29 |            336 |                2 |               2 |
+| kitchen accessories       |            24 |            256 |                3 |               3 |
+| shorts                    |            24 |            230 |                4 |               3 |
+| hand tools                |            18 |            191 |                5 |               4 |
+| stationery                |            24 |            164 |                6 |               3 |
+| athletic shoes            |            16 |            157 |                7 |               5 |
+| table linens              |            16 |            153 |                8 |               5 |
+| drinkware                 |            16 |            118 |                9 |               5 |
+| car care products         |            13 |            113 |               10 |               6 |
+| uniform                   |            10 |            108 |               11 |               7 |
+| costumes & accessories    |             6 |             85 |               12 |              11 |
+| sportswear                |             9 |             81 |               13 |               8 |
+| sewing and accessories    |             9 |             79 |               14 |               8 |
+| storage & organization    |             8 |             74 |               15 |               9 |
+| sporting goods            |             9 |             73 |               16 |               8 |
+| sandals                   |             6 |             72 |               17 |              11 |
+| paint & supplies          |             8 |             71 |               18 |               9 |
+| bedding sets & components |             9 |             70 |               19 |               8 |
+| dinnerware & serveware    |             6 |             66 |               20 |              11 |
+| makeup                    |             7 |             66 |               21 |              10 |
+| bathroom accessories      |             6 |             65 |               22 |              11 |
+| watches                   |             9 |             61 |               23 |               8 |
+| sleepwear                 |             7 |             58 |               24 |              10 |
+| mobile phone accessories  |             6 |             57 |               25 |              11 |
+| car parts                 |             7 |             55 |               26 |              10 |
+| home decor                |             4 |             48 |               27 |              13 |
+| cooking utensils          |             6 |             43 |               28 |              11 |
+| tops                      |             5 |             39 |               29 |              12 |
+| hats & caps               |             4 |             35 |               30 |              13 |
+| accessories               |             3 |             34 |               31 |              14 |
+| boots                     |             2 |             23 |               32 |              15 |
+

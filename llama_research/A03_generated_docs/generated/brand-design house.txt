@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: design house == 
+
+
+
+== design house: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |           245 |          10903 |                1 |               1 |
+| Mundella Foods                                                         |           126 |           4789 |                2 |               3 |
+| Sound Wave Marketing                                                   |           151 |           3912 |                3 |               2 |
+| United Container Machinery Group Inc.                                  |            97 |           3844 |                4 |               5 |
+| K-Point Internet Solutions                                             |            93 |           3680 |                5 |               7 |
+| Prosper Business Solutions                                             |           117 |           3551 |                6 |               4 |
+| Chuo Mitsui Investments                                                |            95 |           3181 |                7 |               6 |
+| Henties Juices                                                         |            68 |           2917 |                8 |              11 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            80 |           2875 |                9 |               8 |
+| Straight Line Contracting Llc                                          |            80 |           2515 |               10 |               8 |
+| Sitting Pretty Marketing                                               |            67 |           2460 |               11 |              12 |
+| 2Connect Presentation Training                                         |            70 |           2450 |               12 |              10 |
+| Busby Metals Limited                                                   |            76 |           2048 |               13 |               9 |
+| Lewis Commercial General Contractors                                   |            57 |           1788 |               14 |              13 |
+
+== design house: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |           506 |          18978 |                1 |               1 |
+|   2021 |           449 |          17050 |                2 |               3 |
+|   2022 |           467 |          14885 |                3 |               2 |
+
+== design house: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           610 |          23322 |                1 |               2 |
+| United States  |           616 |          20809 |                2 |               1 |
+| Canada         |            36 |           1451 |                3 |               3 |
+| Russia         |            20 |            811 |                4 |               4 |
+| Japan          |            20 |            794 |                5 |               4 |
+| United Kingdom |            18 |            699 |                6 |               5 |
+| Brazil         |            13 |            613 |                7 |               6 |
+| Saudi Arabia   |            12 |            586 |                8 |               7 |
+| France         |            20 |            477 |                9 |               4 |
+| India          |            12 |            414 |               10 |               7 |
+| South Korea    |             7 |            175 |               11 |               9 |
+| Netherlands    |             8 |            161 |               12 |               8 |
+| Spain          |            13 |            144 |               13 |               6 |
+| Mexico         |             5 |            131 |               14 |              10 |
+| Belgium        |             3 |            105 |               15 |              11 |
+| Sweden         |             1 |             89 |               16 |              13 |
+| Switzerland    |             5 |             83 |               17 |              10 |
+| Turkey         |             2 |             41 |               18 |              12 |
+| Poland         |             1 |              7 |               19 |              13 |
+
+== design house: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |           189 |           8585 |                1 |               1 |
+| casual & dress shoes      |            93 |           3832 |                2 |               5 |
+| athletic shoes            |            95 |           3575 |                3 |               4 |
+| drinkware                 |           115 |           3431 |                4 |               2 |
+| kitchen accessories       |            92 |           3301 |                5 |               6 |
+| pants                     |           112 |           3199 |                6 |               3 |
+| hand tools                |            86 |           2070 |                7 |               7 |
+| table linens              |            47 |           2043 |                8 |               9 |
+| uniform                   |            37 |           1798 |                9 |              12 |
+| sporting goods            |            43 |           1686 |               10 |              10 |
+| sportswear                |            35 |           1644 |               11 |              13 |
+| dinnerware & serveware    |            42 |           1377 |               12 |              11 |
+| car care products         |            28 |           1318 |               13 |              16 |
+| costumes & accessories    |            33 |           1265 |               14 |              14 |
+| accessories               |            25 |           1226 |               15 |              18 |
+| paint & supplies          |            30 |           1176 |               16 |              15 |
+| storage & organization    |            51 |           1062 |               17 |               8 |
+| shorts                    |            35 |            940 |               18 |              13 |
+| sandals                   |            26 |            899 |               19 |              17 |
+| watches                   |            25 |            872 |               20 |              18 |
+| stationery                |            26 |            859 |               21 |              17 |
+| tops                      |            22 |            824 |               22 |              20 |
+| hats & caps               |            15 |            600 |               23 |              21 |
+| bathroom accessories      |            15 |            598 |               24 |              21 |
+| boots                     |            14 |            543 |               25 |              22 |
+| sewing and accessories    |            15 |            385 |               26 |              21 |
+| makeup                    |            10 |            369 |               27 |              25 |
+| home decor                |            12 |            335 |               28 |              23 |
+| sleepwear                 |            10 |            299 |               29 |              25 |
+| mobile phone accessories  |            10 |            299 |               30 |              25 |
+| car parts                 |            11 |            267 |               31 |              24 |
+| cooking utensils          |            23 |            235 |               32 |              19 |
+

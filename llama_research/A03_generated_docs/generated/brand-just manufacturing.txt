@@ -1,0 +1,71 @@
+== Title: Sales Figures for brand: just manufacturing == 
+
+
+
+== just manufacturing: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Busby Metals Limited                                                   |             6 |           3200 |                1 |               1 |
+| Mundella Foods                                                         |             5 |           2786 |                2 |               2 |
+| United Container Machinery Group Inc.                                  |             5 |           2786 |                2 |               2 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             5 |           2607 |                3 |               2 |
+| Lewis Commercial General Contractors                                   |             5 |           2607 |                3 |               2 |
+| Straight Line Contracting Llc                                          |             4 |           2193 |                4 |               3 |
+| Sitting Pretty Marketing                                               |             4 |           2014 |                5 |               3 |
+| Sound Wave Marketing                                                   |             4 |           2014 |                5 |               3 |
+| Chuo Mitsui Investments                                                |             3 |           1779 |                6 |               4 |
+| Henties Juices                                                         |             3 |           1779 |                6 |               4 |
+| Prosper Business Solutions                                             |             3 |           1779 |                6 |               4 |
+| 2Connect Presentation Training                                         |             3 |           1421 |                7 |               4 |
+| Texas Va Mortgage                                                      |             2 |           1186 |                8 |               5 |
+| K-Point Internet Solutions                                             |             1 |            593 |                9 |               6 |
+
+== just manufacturing: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            21 |          11199 |                1 |               1 |
+|   2023 |            18 |           9778 |                2 |               2 |
+|   2021 |            14 |           7764 |                3 |               3 |
+
+== just manufacturing: Sales Break out by country == 
+
+| country       |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------|--------------:|---------------:|-----------------:|----------------:|
+| China         |            24 |          12978 |                1 |               1 |
+| United States |            20 |          10964 |                2 |               2 |
+| Spain         |             3 |           1600 |                3 |               3 |
+| France        |             2 |           1007 |                4 |               4 |
+| Brazil        |             1 |            593 |                5 |               5 |
+| Japan         |             1 |            593 |                5 |               5 |
+| Russia        |             1 |            593 |                5 |               5 |
+| India         |             1 |            414 |                6 |               5 |
+
+== just manufacturing: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |             6 |           3558 |                1 |               1 |
+| athletic shoes            |             5 |           2607 |                2 |               2 |
+| pants                     |             4 |           2372 |                3 |               3 |
+| casual & dress shoes      |             4 |           2014 |                4 |               3 |
+| bedding sets & components |             3 |           1779 |                5 |               4 |
+| storage & organization    |             3 |           1779 |                5 |               4 |
+| accessories               |             3 |           1600 |                6 |               4 |
+| sandals                   |             3 |           1600 |                6 |               4 |
+| drinkware                 |             3 |           1600 |                6 |               4 |
+| shorts                    |             3 |           1600 |                6 |               4 |
+| hand tools                |             2 |           1186 |                7 |               5 |
+| car care products         |             2 |           1007 |                8 |               5 |
+| stationery                |             2 |           1007 |                8 |               5 |
+| sewing and accessories    |             2 |           1007 |                8 |               5 |
+| sporting goods            |             1 |            593 |                9 |               6 |
+| tops                      |             1 |            593 |                9 |               6 |
+| cooking utensils          |             1 |            593 |                9 |               6 |
+| car parts                 |             1 |            593 |                9 |               6 |
+| paint & supplies          |             1 |            414 |               10 |               6 |
+| hats & caps               |             1 |            414 |               10 |               6 |
+| boots                     |             1 |            414 |               10 |               6 |
+| home decor                |             1 |            414 |               10 |               6 |
+

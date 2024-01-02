@@ -1,0 +1,88 @@
+== Title: Sales Figures for brand: guardian == 
+
+
+
+== guardian: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           292 |          15575 |                1 |               1 |
+| Prosper Business Solutions                                             |            38 |           2087 |                2 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            39 |           2030 |                3 |               3 |
+| Sound Wave Marketing                                                   |            40 |           1971 |                4 |               2 |
+| Mundella Foods                                                         |            25 |           1363 |                5 |               5 |
+| Lewis Commercial General Contractors                                   |            21 |           1262 |                6 |               6 |
+| Chuo Mitsui Investments                                                |            19 |           1236 |                7 |               8 |
+| United Container Machinery Group Inc.                                  |            20 |           1170 |                8 |               7 |
+| Texas Va Mortgage                                                      |            20 |           1149 |                9 |               7 |
+| Busby Metals Limited                                                   |            20 |           1085 |               10 |               7 |
+| Henties Juices                                                         |            15 |            993 |               11 |              10 |
+| 2Connect Presentation Training                                         |            17 |            963 |               12 |               9 |
+| Sitting Pretty Marketing                                               |            15 |            769 |               13 |              10 |
+| Straight Line Contracting Llc                                          |            10 |            606 |               14 |              11 |
+
+== guardian: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           228 |          12060 |                1 |               1 |
+|   2023 |           186 |          10431 |                2 |               2 |
+|   2022 |           177 |           9768 |                3 |               3 |
+
+== guardian: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           321 |          17359 |                1 |               1 |
+| China          |           217 |          11733 |                2 |               2 |
+| South Korea    |            11 |            525 |                3 |               3 |
+| Canada         |             6 |            431 |                4 |               5 |
+| Russia         |             8 |            411 |                5 |               4 |
+| Brazil         |             4 |            326 |                6 |               7 |
+| United Kingdom |             5 |            320 |                7 |               6 |
+| India          |             3 |            307 |                8 |               8 |
+| France         |             5 |            302 |                9 |               6 |
+| Sweden         |             4 |            187 |               10 |               7 |
+| Japan          |             3 |            139 |               11 |               8 |
+| Netherlands    |             1 |             84 |               12 |               9 |
+| Belgium        |             1 |             58 |               13 |               9 |
+| Spain          |             1 |             49 |               14 |               9 |
+| Switzerland    |             1 |             28 |               15 |               9 |
+
+== guardian: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |           296 |          16115 |                1 |               1 |
+| pants                     |            41 |           2085 |                2 |               2 |
+| casual & dress shoes      |            19 |           1188 |                3 |               3 |
+| sportswear                |            19 |           1010 |                4 |               3 |
+| drinkware                 |            19 |            789 |                5 |               3 |
+| cooking utensils          |            15 |            757 |                6 |               4 |
+| uniform                   |            13 |            734 |                7 |               5 |
+| sewing and accessories    |            12 |            688 |                8 |               6 |
+| costumes & accessories    |            10 |            668 |                9 |               8 |
+| hand tools                |            13 |            619 |               10 |               5 |
+| sporting goods            |             9 |            614 |               11 |               9 |
+| bedding sets & components |            11 |            611 |               12 |               7 |
+| athletic shoes            |            12 |            601 |               13 |               6 |
+| table linens              |            10 |            557 |               14 |               8 |
+| stationery                |             9 |            469 |               15 |               9 |
+| shorts                    |             8 |            460 |               16 |              10 |
+| accessories               |             7 |            451 |               17 |              11 |
+| dinnerware & serveware    |             7 |            440 |               18 |              11 |
+| car care products         |             8 |            436 |               19 |              10 |
+| sleepwear                 |             5 |            362 |               20 |              13 |
+| paint & supplies          |             6 |            312 |               21 |              12 |
+| boots                     |             5 |            312 |               22 |              13 |
+| sandals                   |             5 |            304 |               23 |              13 |
+| watches                   |             6 |            277 |               24 |              12 |
+| car parts                 |             4 |            258 |               25 |              14 |
+| bathroom accessories      |             4 |            224 |               26 |              14 |
+| storage & organization    |             4 |            202 |               27 |              14 |
+| tops                      |             4 |            202 |               27 |              14 |
+| home decor                |             2 |            170 |               28 |              16 |
+| makeup                    |             3 |            160 |               29 |              15 |
+| mobile phone accessories  |             4 |            148 |               30 |              14 |
+| hats & caps               |             1 |             36 |               31 |              17 |
+

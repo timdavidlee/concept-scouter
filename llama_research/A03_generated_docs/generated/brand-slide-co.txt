@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: slide-co == 
+
+
+
+== slide-co: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           172 |           3228 |                1 |               1 |
+| 2Connect Presentation Training                                         |            96 |           1626 |                2 |               3 |
+| Sound Wave Marketing                                                   |            89 |           1227 |                3 |               4 |
+| Texas Va Mortgage                                                      |            75 |           1198 |                4 |               5 |
+| Henties Juices                                                         |           103 |           1173 |                5 |               2 |
+| Mundella Foods                                                         |            68 |           1067 |                6 |               6 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            67 |           1022 |                7 |               7 |
+| Lewis Commercial General Contractors                                   |            58 |            933 |                8 |               8 |
+| Prosper Business Solutions                                             |            46 |            832 |                9 |              11 |
+| Chuo Mitsui Investments                                                |            51 |            825 |               10 |              10 |
+| Straight Line Contracting Llc                                          |            52 |            773 |               11 |               9 |
+| Busby Metals Limited                                                   |            40 |            637 |               12 |              13 |
+| Sitting Pretty Marketing                                               |            43 |            612 |               13 |              12 |
+| United Container Machinery Group Inc.                                  |            34 |            540 |               14 |              14 |
+
+== slide-co: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |           350 |           5592 |                1 |               1 |
+|   2021 |           331 |           5225 |                2 |               2 |
+|   2022 |           313 |           4877 |                3 |               3 |
+
+== slide-co: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           437 |           7025 |                1 |               1 |
+| China          |           429 |           6774 |                2 |               2 |
+| India          |            16 |            258 |                3 |               3 |
+| Japan          |            14 |            245 |                4 |               5 |
+| United Kingdom |            16 |            230 |                5 |               3 |
+| Canada         |            13 |            199 |                6 |               6 |
+| Russia         |            15 |            168 |                7 |               4 |
+| France         |            13 |            167 |                8 |               6 |
+| Brazil         |             9 |            142 |                9 |               8 |
+| South Korea    |            10 |            108 |               10 |               7 |
+| Saudi Arabia   |             5 |             67 |               11 |               9 |
+| Switzerland    |             3 |             66 |               12 |              10 |
+| Mexico         |             3 |             61 |               13 |              10 |
+| Spain          |             2 |             54 |               14 |              11 |
+| Sweden         |             3 |             52 |               15 |              10 |
+| Netherlands    |             3 |             45 |               16 |              10 |
+| Poland         |             1 |             15 |               17 |              12 |
+| Turkey         |             1 |             10 |               18 |              12 |
+| Belgium        |             1 |              8 |               19 |              12 |
+
+== slide-co: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sportswear                |            60 |           1531 |                1 |               6 |
+| bathroom accessories      |            93 |           1357 |                2 |               2 |
+| casual & dress shoes      |           112 |           1321 |                3 |               1 |
+| shorts                    |            70 |           1059 |                4 |               4 |
+| pants                     |            68 |           1002 |                5 |               5 |
+| drinkware                 |            84 |            953 |                6 |               3 |
+| kitchen accessories       |            57 |            934 |                7 |               7 |
+| bedding sets & components |            28 |            603 |                8 |              12 |
+| uniform                   |            33 |            582 |                9 |              10 |
+| car care products         |            35 |            579 |               10 |               9 |
+| hand tools                |            29 |            527 |               11 |              11 |
+| athletic shoes            |            38 |            524 |               12 |               8 |
+| sporting goods            |            28 |            466 |               13 |              12 |
+| table linens              |            21 |            380 |               14 |              14 |
+| car parts                 |            23 |            328 |               15 |              13 |
+| sandals                   |            20 |            325 |               16 |              15 |
+| dinnerware & serveware    |            17 |            308 |               17 |              16 |
+| paint & supplies          |            20 |            298 |               18 |              15 |
+| stationery                |            17 |            279 |               19 |              16 |
+| cooking utensils          |            13 |            252 |               20 |              20 |
+| costumes & accessories    |            14 |            241 |               21 |              19 |
+| sewing and accessories    |            15 |            235 |               22 |              18 |
+| watches                   |            15 |            230 |               23 |              18 |
+| storage & organization    |            16 |            222 |               24 |              17 |
+| tops                      |            14 |            196 |               25 |              19 |
+| boots                     |             9 |            180 |               26 |              22 |
+| sleepwear                 |            10 |            177 |               27 |              21 |
+| mobile phone accessories  |             8 |            174 |               28 |              23 |
+| hats & caps               |             8 |            162 |               29 |              23 |
+| home decor                |             7 |            102 |               30 |              24 |
+| accessories               |             6 |             90 |               31 |              25 |
+| makeup                    |             6 |             77 |               32 |              25 |
+

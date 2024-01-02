@@ -1,0 +1,62 @@
+== Title: Sales Figures for brand: purity pool == 
+
+
+
+== purity pool: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Mundella Foods                                                         |            67 |           2015 |                1 |               1 |
+| Busby Metals Limited                                                   |             8 |            241 |                2 |               2 |
+| Straight Line Contracting Llc                                          |             3 |             90 |                3 |               3 |
+| Texas Va Mortgage                                                      |             3 |             90 |                3 |               3 |
+| 2Connect Presentation Training                                         |             2 |             60 |                4 |               4 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             2 |             60 |                4 |               4 |
+| K-Point Internet Solutions                                             |             2 |             60 |                4 |               4 |
+| Prosper Business Solutions                                             |             2 |             60 |                4 |               4 |
+| Chuo Mitsui Investments                                                |             1 |             30 |                5 |               5 |
+| Henties Juices                                                         |             1 |             30 |                5 |               5 |
+| Lewis Commercial General Contractors                                   |             1 |             30 |                5 |               5 |
+| United Container Machinery Group Inc.                                  |             1 |             30 |                5 |               5 |
+
+== purity pool: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            34 |           1023 |                1 |               1 |
+|   2023 |            31 |            932 |                2 |               2 |
+|   2021 |            28 |            842 |                3 |               3 |
+
+== purity pool: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |            55 |           1654 |                1 |               1 |
+| United States  |            33 |            993 |                2 |               2 |
+| Russia         |             2 |             60 |                3 |               3 |
+| France         |             1 |             30 |                4 |               4 |
+| India          |             1 |             30 |                4 |               4 |
+| United Kingdom |             1 |             30 |                4 |               4 |
+
+== purity pool: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| uniform                   |            66 |           1985 |                1 |               1 |
+| storage & organization    |             7 |            211 |                2 |               2 |
+| paint & supplies          |             2 |             60 |                3 |               3 |
+| costumes & accessories    |             2 |             60 |                3 |               3 |
+| drinkware                 |             2 |             60 |                3 |               3 |
+| kitchen accessories       |             2 |             60 |                3 |               3 |
+| pants                     |             2 |             60 |                3 |               3 |
+| shorts                    |             1 |             30 |                4 |               4 |
+| stationery                |             1 |             30 |                4 |               4 |
+| sporting goods            |             1 |             30 |                4 |               4 |
+| athletic shoes            |             1 |             30 |                4 |               4 |
+| sandals                   |             1 |             30 |                4 |               4 |
+| bedding sets & components |             1 |             30 |                4 |               4 |
+| casual & dress shoes      |             1 |             30 |                4 |               4 |
+| car parts                 |             1 |             30 |                4 |               4 |
+| car care products         |             1 |             30 |                4 |               4 |
+| watches                   |             1 |             30 |                4 |               4 |
+

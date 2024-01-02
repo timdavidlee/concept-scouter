@@ -1,0 +1,87 @@
+== Title: Sales Figures for brand: elkay == 
+
+
+
+== elkay: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Texas Va Mortgage                                                      |            43 |          21802 |                1 |               1 |
+| Busby Metals Limited                                                   |            15 |           6272 |                2 |               5 |
+| 2Connect Presentation Training                                         |            15 |           5766 |                3 |               5 |
+| K-Point Internet Solutions                                             |            27 |           4852 |                4 |               2 |
+| Sitting Pretty Marketing                                               |            17 |           4462 |                5 |               3 |
+| Straight Line Contracting Llc                                          |            17 |           4462 |                5 |               3 |
+| Chuo Mitsui Investments                                                |            16 |           4412 |                6 |               4 |
+| Mundella Foods                                                         |            13 |           4343 |                7 |               7 |
+| Prosper Business Solutions                                             |            13 |           4274 |                8 |               7 |
+| Lewis Commercial General Contractors                                   |            14 |           3760 |                9 |               6 |
+| United Container Machinery Group Inc.                                  |            17 |           3206 |               10 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            13 |           3012 |               11 |               7 |
+| Henties Juices                                                         |            12 |           2456 |               12 |               8 |
+| Sound Wave Marketing                                                   |            12 |           2392 |               13 |               8 |
+
+== elkay: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           100 |          32446 |                1 |               1 |
+|   2023 |            74 |          22810 |                2 |               2 |
+|   2022 |            70 |          20215 |                3 |               3 |
+
+== elkay: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           108 |          34792 |                1 |               1 |
+| United States  |            95 |          24473 |                2 |               2 |
+| Canada         |            13 |           6991 |                3 |               3 |
+| United Kingdom |             7 |           3361 |                4 |               4 |
+| Saudi Arabia   |             3 |           1911 |                5 |               6 |
+| India          |             6 |            913 |                6 |               5 |
+| Japan          |             2 |            725 |                7 |               7 |
+| Brazil         |             1 |            679 |                8 |               8 |
+| Spain          |             1 |            679 |                8 |               8 |
+| Russia         |             2 |            661 |                9 |               7 |
+| Turkey         |             2 |             97 |               10 |               7 |
+| France         |             2 |             92 |               11 |               7 |
+| Belgium        |             1 |             51 |               12 |               8 |
+| Switzerland    |             1 |             46 |               13 |               8 |
+
+== elkay: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| bedding sets & components |            34 |          18845 |                1 |               1 |
+| kitchen accessories       |            18 |           5776 |                2 |               3 |
+| pants                     |            12 |           4361 |                3 |               6 |
+| drinkware                 |            13 |           4206 |                4 |               5 |
+| casual & dress shoes      |            15 |           3162 |                5 |               4 |
+| stationery                |             8 |           2847 |                6 |               9 |
+| hand tools                |             7 |           2796 |                7 |              10 |
+| paint & supplies          |             6 |           2750 |                8 |              11 |
+| costumes & accessories    |             7 |           2732 |                9 |              10 |
+| table linens              |             9 |           2319 |               10 |               8 |
+| athletic shoes            |             9 |           2318 |               11 |               8 |
+| sportswear                |            22 |           2221 |               12 |               2 |
+| sewing and accessories    |             5 |           2066 |               13 |              12 |
+| car care products         |             5 |           2066 |               14 |              12 |
+| sporting goods            |            10 |           1677 |               15 |               7 |
+| dinnerware & serveware    |             8 |           1575 |               16 |               9 |
+| watches                   |             7 |           1529 |               17 |              10 |
+| shorts                    |             6 |           1484 |               18 |              11 |
+| mobile phone accessories  |             4 |           1455 |               19 |              13 |
+| cooking utensils          |             4 |           1451 |               20 |              13 |
+| boots                     |             4 |           1450 |               21 |              13 |
+| storage & organization    |             4 |           1450 |               22 |              13 |
+| tops                      |             2 |           1295 |               23 |              15 |
+| sandals                   |             5 |            872 |               24 |              12 |
+| uniform                   |             3 |            771 |               25 |              14 |
+| accessories               |             4 |            758 |               26 |              13 |
+| makeup                    |             2 |            725 |               27 |              15 |
+| hats & caps               |             3 |            142 |               28 |              14 |
+| car parts                 |             3 |            142 |               28 |              14 |
+| sleepwear                 |             3 |            138 |               29 |              14 |
+| home decor                |             1 |             46 |               30 |              16 |
+| bathroom accessories      |             1 |             46 |               30 |              16 |
+

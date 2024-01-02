@@ -1,0 +1,66 @@
+== Title: Sales Figures for brand: draft king == 
+
+
+
+== draft king: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| United Container Machinery Group Inc.                                  |             5 |            455 |                1 |               1 |
+| Busby Metals Limited                                                   |             2 |            182 |                2 |               2 |
+| Chuo Mitsui Investments                                                |             2 |            182 |                2 |               2 |
+| Henties Juices                                                         |             2 |            182 |                2 |               2 |
+| K-Point Internet Solutions                                             |             2 |            182 |                2 |               2 |
+| Lewis Commercial General Contractors                                   |             2 |            182 |                2 |               2 |
+| Prosper Business Solutions                                             |             2 |            182 |                2 |               2 |
+| Texas Va Mortgage                                                      |             2 |            182 |                2 |               2 |
+| 2Connect Presentation Training                                         |             1 |             91 |                3 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             1 |             91 |                3 |               3 |
+| Mundella Foods                                                         |             1 |             91 |                3 |               3 |
+| Sound Wave Marketing                                                   |             1 |             91 |                3 |               3 |
+| Straight Line Contracting Llc                                          |             1 |             91 |                3 |               3 |
+
+== draft king: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |            10 |            911 |                1 |               1 |
+|   2023 |             8 |            728 |                2 |               2 |
+|   2021 |             6 |            546 |                3 |               3 |
+
+== draft king: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |            11 |           1002 |                1 |               1 |
+| China          |             7 |            637 |                2 |               2 |
+| Brazil         |             1 |             91 |                3 |               3 |
+| India          |             1 |             91 |                3 |               3 |
+| Japan          |             1 |             91 |                3 |               3 |
+| Russia         |             1 |             91 |                3 |               3 |
+| Turkey         |             1 |             91 |                3 |               3 |
+| United Kingdom |             1 |             91 |                3 |               3 |
+
+== draft king: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| accessories               |             3 |            273 |                1 |               1 |
+| kitchen accessories       |             3 |            273 |                1 |               1 |
+| pants                     |             2 |            182 |                2 |               2 |
+| uniform                   |             2 |            182 |                2 |               2 |
+| table linens              |             1 |             91 |                3 |               3 |
+| stationery                |             1 |             91 |                3 |               3 |
+| sportswear                |             1 |             91 |                3 |               3 |
+| sporting goods            |             1 |             91 |                3 |               3 |
+| sewing and accessories    |             1 |             91 |                3 |               3 |
+| makeup                    |             1 |             91 |                3 |               3 |
+| bedding sets & components |             1 |             91 |                3 |               3 |
+| home decor                |             1 |             91 |                3 |               3 |
+| hand tools                |             1 |             91 |                3 |               3 |
+| drinkware                 |             1 |             91 |                3 |               3 |
+| dinnerware & serveware    |             1 |             91 |                3 |               3 |
+| casual & dress shoes      |             1 |             91 |                3 |               3 |
+| car care products         |             1 |             91 |                3 |               3 |
+| watches                   |             1 |             91 |                3 |               3 |
+

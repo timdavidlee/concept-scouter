@@ -1,0 +1,92 @@
+== Title: Sales Figures for brand: american standard == 
+
+
+
+== american standard: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           327 |          47207 |                1 |               1 |
+| Sound Wave Marketing                                                   |           246 |          36648 |                2 |               2 |
+| Mundella Foods                                                         |           174 |          27730 |                3 |               3 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |           110 |          26577 |                4 |               5 |
+| Prosper Business Solutions                                             |           108 |          22230 |                5 |               6 |
+| Henties Juices                                                         |           107 |          20030 |                6 |               7 |
+| Lewis Commercial General Contractors                                   |           114 |          18533 |                7 |               4 |
+| 2Connect Presentation Training                                         |           108 |          16824 |                8 |               6 |
+| Chuo Mitsui Investments                                                |            98 |          16370 |                9 |               9 |
+| United Container Machinery Group Inc.                                  |           108 |          16217 |               10 |               6 |
+| Sitting Pretty Marketing                                               |            80 |          16082 |               11 |              12 |
+| Texas Va Mortgage                                                      |           103 |          15381 |               12 |               8 |
+| Busby Metals Limited                                                   |            86 |          14614 |               13 |              10 |
+| Straight Line Contracting Llc                                          |            82 |          14056 |               14 |              11 |
+
+== american standard: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2023 |           616 |         105067 |                1 |               2 |
+|   2022 |           626 |         103097 |                2 |               1 |
+|   2021 |           609 |         100337 |                3 |               3 |
+
+== american standard: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           900 |         154596 |                1 |               1 |
+| China          |           728 |         117108 |                2 |               2 |
+| Russia         |            34 |           5334 |                3 |               3 |
+| United Kingdom |            28 |           5330 |                4 |               5 |
+| South Korea    |            31 |           4390 |                5 |               4 |
+| Japan          |            28 |           4201 |                6 |               5 |
+| France         |            27 |           4121 |                7 |               6 |
+| India          |            17 |           3629 |                8 |               7 |
+| Canada         |            14 |           2504 |                9 |               8 |
+| Spain          |            10 |           1563 |               10 |               9 |
+| Switzerland    |             7 |           1204 |               11 |              10 |
+| Brazil         |             6 |            855 |               12 |              11 |
+| Mexico         |             4 |            825 |               13 |              12 |
+| Saudi Arabia   |             7 |            766 |               14 |              10 |
+| Sweden         |             2 |            686 |               15 |              14 |
+| Netherlands    |             3 |            673 |               16 |              13 |
+| Poland         |             2 |            469 |               17 |              14 |
+| Belgium        |             2 |            137 |               18 |              14 |
+| Turkey         |             1 |            111 |               19 |              15 |
+
+== american standard: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |           251 |          44280 |                1 |               2 |
+| kitchen accessories       |           313 |          42731 |                2 |               1 |
+| athletic shoes            |           142 |          23554 |                3 |               3 |
+| sportswear                |            71 |          19356 |                4 |               6 |
+| uniform                   |            66 |          16221 |                5 |               7 |
+| casual & dress shoes      |            91 |          16160 |                6 |               4 |
+| pants                     |            87 |          14704 |                7 |               5 |
+| table linens              |            56 |          10260 |                8 |              10 |
+| hand tools                |            49 |           8911 |                9 |              12 |
+| watches                   |            55 |           8535 |               10 |              11 |
+| bedding sets & components |            62 |           7694 |               11 |               8 |
+| shorts                    |            59 |           7015 |               12 |               9 |
+| sewing and accessories    |            38 |           6046 |               13 |              14 |
+| dinnerware & serveware    |            34 |           5846 |               14 |              16 |
+| sandals                   |            35 |           5727 |               15 |              15 |
+| stationery                |            35 |           5714 |               16 |              15 |
+| home decor                |            40 |           5672 |               17 |              13 |
+| car care products         |            32 |           5386 |               18 |              18 |
+| costumes & accessories    |            33 |           5292 |               19 |              17 |
+| storage & organization    |            32 |           4897 |               20 |              18 |
+| paint & supplies          |            32 |           4748 |               21 |              18 |
+| sporting goods            |            27 |           4685 |               22 |              21 |
+| makeup                    |            29 |           4675 |               23 |              20 |
+| sleepwear                 |            31 |           4470 |               24 |              19 |
+| accessories               |            24 |           4014 |               25 |              24 |
+| tops                      |            25 |           3880 |               26 |              23 |
+| car parts                 |            16 |           3521 |               27 |              25 |
+| boots                     |            16 |           3410 |               28 |              25 |
+| hats & caps               |            16 |           3172 |               29 |              25 |
+| cooking utensils          |            26 |           3006 |               30 |              22 |
+| mobile phone accessories  |            14 |           2738 |               31 |              26 |
+| bathroom accessories      |            14 |           2182 |               32 |              26 |
+

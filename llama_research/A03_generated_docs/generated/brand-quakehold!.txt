@@ -1,0 +1,70 @@
+== Title: Sales Figures for brand: quakehold! == 
+
+
+
+== quakehold!: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Lewis Commercial General Contractors                                   |             6 |             53 |                1 |               1 |
+| Chuo Mitsui Investments                                                |             5 |             44 |                2 |               2 |
+| Texas Va Mortgage                                                      |             5 |             44 |                2 |               2 |
+| Mundella Foods                                                         |             4 |             35 |                3 |               3 |
+| United Container Machinery Group Inc.                                  |             4 |             35 |                3 |               3 |
+| 2Connect Presentation Training                                         |             3 |             26 |                4 |               4 |
+| Busby Metals Limited                                                   |             3 |             26 |                4 |               4 |
+| Sound Wave Marketing                                                   |             3 |             26 |                4 |               4 |
+| Henties Juices                                                         |             2 |             18 |                5 |               5 |
+| Prosper Business Solutions                                             |             2 |             18 |                5 |               5 |
+| Sitting Pretty Marketing                                               |             2 |             18 |                5 |               5 |
+| Straight Line Contracting Llc                                          |             2 |             18 |                5 |               5 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             1 |              9 |                6 |               6 |
+| K-Point Internet Solutions                                             |             1 |              9 |                6 |               6 |
+
+== quakehold!: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |            15 |            132 |                1 |               1 |
+|   2023 |            15 |            132 |                1 |               1 |
+|   2022 |            13 |            114 |                2 |               2 |
+
+== quakehold!: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |            19 |            167 |                1 |               1 |
+| United States  |            16 |            140 |                2 |               2 |
+| Japan          |             2 |             18 |                3 |               3 |
+| United Kingdom |             2 |             18 |                3 |               3 |
+| France         |             1 |              9 |                4 |               4 |
+| India          |             1 |              9 |                4 |               4 |
+| Russia         |             1 |              9 |                4 |               4 |
+| Spain          |             1 |              9 |                4 |               4 |
+
+== quakehold!: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |             5 |             44 |                1 |               1 |
+| drinkware                 |             4 |             35 |                2 |               2 |
+| pants                     |             3 |             26 |                3 |               3 |
+| bedding sets & components |             3 |             26 |                3 |               3 |
+| sewing and accessories    |             3 |             26 |                3 |               3 |
+| hand tools                |             3 |             26 |                3 |               3 |
+| kitchen accessories       |             3 |             26 |                3 |               3 |
+| tops                      |             2 |             18 |                4 |               4 |
+| sporting goods            |             2 |             18 |                4 |               4 |
+| sandals                   |             2 |             18 |                4 |               4 |
+| watches                   |             2 |             18 |                4 |               4 |
+| dinnerware & serveware    |             2 |             18 |                4 |               4 |
+| home decor                |             1 |              9 |                5 |               5 |
+| shorts                    |             1 |              9 |                5 |               5 |
+| sleepwear                 |             1 |              9 |                5 |               5 |
+| car parts                 |             1 |              9 |                5 |               5 |
+| stationery                |             1 |              9 |                5 |               5 |
+| table linens              |             1 |              9 |                5 |               5 |
+| car care products         |             1 |              9 |                5 |               5 |
+| uniform                   |             1 |              9 |                5 |               5 |
+| accessories               |             1 |              9 |                5 |               5 |
+

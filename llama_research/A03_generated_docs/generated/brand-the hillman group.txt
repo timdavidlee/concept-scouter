@@ -1,0 +1,88 @@
+== Title: Sales Figures for brand: the hillman group == 
+
+
+
+== the hillman group: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Mundella Foods                                                         |           108 |           1116 |                1 |               1 |
+| Henties Juices                                                         |            95 |            942 |                2 |               2 |
+| K-Point Internet Solutions                                             |           108 |            887 |                3 |               1 |
+| Texas Va Mortgage                                                      |            78 |            768 |                4 |               3 |
+| Straight Line Contracting Llc                                          |            59 |            621 |                5 |               4 |
+| Sound Wave Marketing                                                   |            50 |            575 |                6 |               5 |
+| Busby Metals Limited                                                   |            43 |            437 |                7 |               6 |
+| Sitting Pretty Marketing                                               |            41 |            401 |                8 |               7 |
+| 2Connect Presentation Training                                         |            36 |            393 |                9 |              10 |
+| Lewis Commercial General Contractors                                   |            38 |            388 |               10 |               9 |
+| Chuo Mitsui Investments                                                |            39 |            373 |               11 |               8 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            38 |            367 |               12 |               9 |
+| Prosper Business Solutions                                             |            35 |            349 |               13 |              11 |
+| United Container Machinery Group Inc.                                  |            31 |            306 |               14 |              12 |
+
+== the hillman group: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2022 |           285 |           2821 |                1 |               1 |
+|   2023 |           275 |           2756 |                2 |               2 |
+|   2021 |           239 |           2346 |                3 |               3 |
+
+== the hillman group: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| China          |           372 |           3653 |                1 |               1 |
+| United States  |           322 |           3212 |                2 |               2 |
+| Canada         |            16 |            154 |                3 |               3 |
+| Russia         |            13 |            139 |                4 |               4 |
+| France         |            12 |            123 |                5 |               5 |
+| India          |            11 |            117 |                6 |               6 |
+| United Kingdom |            10 |            102 |                7 |               7 |
+| Japan          |             9 |             97 |                8 |               8 |
+| Brazil         |             8 |             78 |                9 |               9 |
+| Saudi Arabia   |             7 |             64 |               10 |              10 |
+| South Korea    |             6 |             56 |               11 |              11 |
+| Switzerland    |             4 |             49 |               12 |              12 |
+| Spain          |             4 |             35 |               13 |              12 |
+| Netherlands    |             3 |             29 |               14 |              13 |
+| Sweden         |             2 |             14 |               15 |              14 |
+
+== the hillman group: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| casual & dress shoes      |            90 |            887 |                1 |               1 |
+| pants                     |            64 |            635 |                2 |               2 |
+| kitchen accessories       |            63 |            598 |                3 |               3 |
+| hand tools                |            54 |            498 |                4 |               4 |
+| athletic shoes            |            48 |            477 |                5 |               5 |
+| drinkware                 |            45 |            451 |                6 |               6 |
+| sportswear                |            54 |            448 |                7 |               4 |
+| uniform                   |            29 |            364 |                8 |               8 |
+| sporting goods            |            34 |            311 |                9 |               7 |
+| sandals                   |            26 |            262 |               10 |               9 |
+| stationery                |            20 |            214 |               11 |              11 |
+| car care products         |            18 |            205 |               12 |              13 |
+| table linens              |            19 |            181 |               13 |              12 |
+| shorts                    |            16 |            178 |               14 |              14 |
+| bathroom accessories      |            22 |            174 |               15 |              10 |
+| cooking utensils          |            15 |            166 |               16 |              15 |
+| costumes & accessories    |            15 |            165 |               17 |              15 |
+| makeup                    |            16 |            163 |               18 |              14 |
+| hats & caps               |            13 |            154 |               19 |              17 |
+| bedding sets & components |            15 |            154 |               20 |              15 |
+| sewing and accessories    |            15 |            153 |               21 |              15 |
+| dinnerware & serveware    |            14 |            148 |               22 |              16 |
+| storage & organization    |            13 |            143 |               23 |              17 |
+| paint & supplies          |            13 |            123 |               24 |              17 |
+| watches                   |            12 |            123 |               25 |              18 |
+| sleepwear                 |            11 |            101 |               26 |              19 |
+| mobile phone accessories  |            10 |             94 |               27 |              20 |
+| car parts                 |             7 |             93 |               28 |              21 |
+| home decor                |            10 |             92 |               29 |              20 |
+| boots                     |             6 |             66 |               30 |              22 |
+| tops                      |             7 |             61 |               31 |              21 |
+| accessories               |             5 |             44 |               32 |              23 |
+

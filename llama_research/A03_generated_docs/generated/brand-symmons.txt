@@ -1,0 +1,87 @@
+== Title: Sales Figures for brand: symmons == 
+
+
+
+== symmons: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           364 |          77948 |                1 |               1 |
+| Mundella Foods                                                         |            47 |           9200 |                2 |               3 |
+| Chuo Mitsui Investments                                                |            50 |           8042 |                3 |               2 |
+| Texas Va Mortgage                                                      |            44 |           7899 |                4 |               4 |
+| Henties Juices                                                         |            36 |           6523 |                5 |               6 |
+| United Container Machinery Group Inc.                                  |            37 |           6444 |                6 |               5 |
+| Prosper Business Solutions                                             |            30 |           6021 |                7 |               8 |
+| Busby Metals Limited                                                   |            33 |           5931 |                8 |               7 |
+| Sitting Pretty Marketing                                               |            26 |           5904 |                9 |               9 |
+| Lewis Commercial General Contractors                                   |            30 |           5695 |               10 |               8 |
+| 2Connect Presentation Training                                         |            25 |           4982 |               11 |              10 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            25 |           4380 |               12 |              10 |
+| Straight Line Contracting Llc                                          |            22 |           3953 |               13 |              11 |
+| Sound Wave Marketing                                                   |            20 |           3623 |               14 |              12 |
+
+== symmons: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           285 |          57667 |                1 |               1 |
+|   2023 |           257 |          50808 |                2 |               2 |
+|   2022 |           247 |          48070 |                3 |               3 |
+
+== symmons: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           362 |          70064 |                1 |               1 |
+| China          |           340 |          68701 |                2 |               2 |
+| United Kingdom |            16 |           3249 |                3 |               3 |
+| South Korea    |            13 |           2951 |                4 |               4 |
+| Japan          |            11 |           2114 |                5 |               5 |
+| Canada         |             7 |           2012 |                6 |               7 |
+| India          |             8 |           1654 |                7 |               6 |
+| Russia         |            11 |           1639 |                8 |               5 |
+| Sweden         |             4 |           1186 |                9 |               9 |
+| France         |             4 |            978 |               10 |               9 |
+| Spain          |             4 |            926 |               11 |               9 |
+| Brazil         |             5 |            619 |               12 |               8 |
+| Saudi Arabia   |             3 |            336 |               13 |              10 |
+| Switzerland    |             1 |            119 |               14 |              11 |
+
+== symmons: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| sportswear                |           340 |          70460 |                1 |               1 |
+| athletic shoes            |            44 |           8980 |                2 |               2 |
+| kitchen accessories       |            32 |           8210 |                3 |               3 |
+| casual & dress shoes      |            31 |           6180 |                4 |               4 |
+| drinkware                 |            27 |           5357 |                5 |               6 |
+| pants                     |            24 |           4676 |                6 |               7 |
+| bedding sets & components |            30 |           4405 |                7 |               5 |
+| sporting goods            |            24 |           3916 |                8 |               7 |
+| stationery                |            14 |           3253 |                9 |              10 |
+| dinnerware & serveware    |            22 |           3128 |               10 |               8 |
+| storage & organization    |            13 |           2709 |               11 |              11 |
+| sewing and accessories    |            14 |           2630 |               12 |              10 |
+| table linens              |            13 |           2503 |               13 |              11 |
+| bathroom accessories      |             8 |           2445 |               14 |              16 |
+| sandals                   |            13 |           2368 |               15 |              11 |
+| uniform                   |            13 |           2338 |               16 |              11 |
+| accessories               |            14 |           2199 |               17 |              10 |
+| sleepwear                 |            11 |           2162 |               18 |              13 |
+| costumes & accessories    |            15 |           2157 |               19 |               9 |
+| paint & supplies          |             9 |           1950 |               20 |              15 |
+| hand tools                |            10 |           1881 |               21 |              14 |
+| car care products         |             9 |           1856 |               22 |              15 |
+| watches                   |            12 |           1601 |               23 |              12 |
+| tops                      |             5 |           1384 |               24 |              19 |
+| hats & caps               |             7 |           1309 |               25 |              17 |
+| boots                     |             6 |           1215 |               26 |              18 |
+| mobile phone accessories  |             6 |           1165 |               27 |              18 |
+| makeup                    |             6 |           1157 |               28 |              18 |
+| car parts                 |             5 |           1154 |               29 |              19 |
+| shorts                    |             5 |            853 |               30 |              19 |
+| home decor                |             5 |            571 |               31 |              19 |
+| cooking utensils          |             2 |            370 |               32 |              20 |
+

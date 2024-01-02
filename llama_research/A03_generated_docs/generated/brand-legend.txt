@@ -1,0 +1,81 @@
+== Title: Sales Figures for brand: legend == 
+
+
+
+== legend: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| K-Point Internet Solutions                                             |           136 |           4126 |                1 |               2 |
+| Sound Wave Marketing                                                   |           163 |           1104 |                2 |               1 |
+| Lewis Commercial General Contractors                                   |            11 |            246 |                3 |               3 |
+| Prosper Business Solutions                                             |            11 |            221 |                4 |               3 |
+| 2Connect Presentation Training                                         |             7 |            149 |                5 |               5 |
+| United Container Machinery Group Inc.                                  |             6 |            124 |                6 |               6 |
+| Busby Metals Limited                                                   |             7 |            121 |                7 |               5 |
+| Straight Line Contracting Llc                                          |            10 |            116 |                8 |               4 |
+| Henties Juices                                                         |             5 |             97 |                9 |               7 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |             6 |             93 |               10 |               6 |
+| Mundella Foods                                                         |             7 |             89 |               11 |               5 |
+| Chuo Mitsui Investments                                                |             5 |             88 |               12 |               7 |
+| Texas Va Mortgage                                                      |             5 |             87 |               13 |               7 |
+| Sitting Pretty Marketing                                               |             4 |             64 |               14 |               8 |
+
+== legend: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           136 |           2600 |                1 |               1 |
+|   2022 |           134 |           2263 |                2 |               2 |
+|   2023 |           113 |           1861 |                3 |               3 |
+
+== legend: Sales Break out by country == 
+
+| country       |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------|--------------:|---------------:|-----------------:|----------------:|
+| United States |           249 |           3891 |                1 |               1 |
+| China         |            89 |           2272 |                2 |               2 |
+| South Korea   |            13 |            234 |                3 |               4 |
+| France        |            15 |            113 |                4 |               3 |
+| Spain         |             8 |             47 |                5 |               5 |
+| Brazil        |             2 |             37 |                6 |               6 |
+| Canada        |             2 |             37 |                6 |               6 |
+| Russia        |             1 |             31 |                7 |               7 |
+| Sweden        |             1 |             31 |                7 |               7 |
+| Mexico        |             1 |             21 |                8 |               7 |
+| Japan         |             1 |              6 |                9 |               7 |
+| Switzerland   |             1 |              6 |                9 |               7 |
+
+== legend: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| kitchen accessories       |           141 |           4207 |                1 |               2 |
+| drinkware                 |           161 |           1024 |                2 |               1 |
+| pants                     |             9 |            168 |                3 |               3 |
+| casual & dress shoes      |             7 |            131 |                4 |               4 |
+| table linens              |             6 |            118 |                5 |               5 |
+| hand tools                |             7 |             98 |                6 |               4 |
+| paint & supplies          |             4 |             88 |                7 |               6 |
+| storage & organization    |             3 |             83 |                8 |               7 |
+| stationery                |             4 |             72 |                9 |               6 |
+| car parts                 |             3 |             67 |               10 |               7 |
+| home decor                |             2 |             61 |               11 |               8 |
+| hats & caps               |             3 |             58 |               12 |               7 |
+| sportswear                |             2 |             52 |               13 |               8 |
+| dinnerware & serveware    |             3 |             51 |               14 |               7 |
+| shorts                    |             2 |             45 |               15 |               8 |
+| sewing and accessories    |             2 |             45 |               15 |               8 |
+| watches                   |             3 |             42 |               16 |               7 |
+| athletic shoes            |             3 |             42 |               16 |               7 |
+| car care products         |             2 |             37 |               17 |               8 |
+| sandals                   |             6 |             35 |               18 |               5 |
+| makeup                    |             1 |             31 |               19 |               9 |
+| costumes & accessories    |             1 |             31 |               19 |               9 |
+| tops                      |             1 |             31 |               19 |               9 |
+| accessories               |             1 |             31 |               19 |               9 |
+| uniform                   |             3 |             26 |               20 |               7 |
+| bedding sets & components |             1 |             21 |               21 |               9 |
+| cooking utensils          |             1 |             15 |               22 |               9 |
+| boots                     |             1 |             15 |               22 |               9 |
+

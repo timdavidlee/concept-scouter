@@ -1,0 +1,89 @@
+== Title: Sales Figures for brand: moen == 
+
+
+
+== moen: Sales Break out by company == 
+
+| company                                                                |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:-----------------------------------------------------------------------|--------------:|---------------:|-----------------:|----------------:|
+| Sound Wave Marketing                                                   |           334 |          48688 |                1 |               1 |
+| Straight Line Contracting Llc                                          |            98 |          48258 |                2 |               3 |
+| Henties Juices                                                         |            76 |          38315 |                3 |               5 |
+| Sitting Pretty Marketing                                               |           130 |          30320 |                4 |               2 |
+| Texas Va Mortgage                                                      |            71 |          21722 |                5 |               6 |
+| United Container Machinery Group Inc.                                  |            63 |          18143 |                6 |               9 |
+| Prosper Business Solutions                                             |            55 |          17706 |                7 |              10 |
+| Busby Metals Limited                                                   |            65 |          17494 |                8 |               8 |
+| Lewis Commercial General Contractors                                   |            63 |          16605 |                9 |               9 |
+| Chuo Mitsui Investments                                                |            81 |          16570 |               10 |               4 |
+| Mundella Foods                                                         |            66 |          16221 |               11 |               7 |
+| K-Point Internet Solutions                                             |            51 |          14137 |               12 |              11 |
+| 2Connect Presentation Training                                         |            49 |          13957 |               13 |              13 |
+| Jasmine Sandler: Top Digital Marketing Consultant And Linkedin Trainer |            50 |          13886 |               14 |              12 |
+
+== moen: Sales Break out by year == 
+
+|   year |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|-------:|--------------:|---------------:|-----------------:|----------------:|
+|   2021 |           423 |         116763 |                1 |               2 |
+|   2022 |           427 |         109978 |                2 |               1 |
+|   2023 |           402 |         105280 |                3 |               3 |
+
+== moen: Sales Break out by country == 
+
+| country        |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:---------------|--------------:|---------------:|-----------------:|----------------:|
+| United States  |           631 |         145767 |                1 |               1 |
+| China          |           415 |         141726 |                2 |               2 |
+| United Kingdom |            35 |           9535 |                3 |               3 |
+| France         |            31 |           5703 |                4 |               4 |
+| India          |            20 |           5673 |                5 |               7 |
+| Canada         |            15 |           4546 |                6 |               8 |
+| Japan          |            23 |           4177 |                7 |               6 |
+| Brazil         |             9 |           3721 |                8 |              10 |
+| South Korea    |            25 |           3648 |                9 |               5 |
+| Russia         |            20 |           3629 |               10 |               7 |
+| Spain          |            13 |           1237 |               11 |               9 |
+| Saudi Arabia   |             4 |           1097 |               12 |              12 |
+| Netherlands    |             2 |            715 |               13 |              13 |
+| Switzerland    |             6 |            623 |               14 |              11 |
+| Sweden         |             2 |            147 |               15 |              13 |
+| Mexico         |             1 |             77 |               16 |              14 |
+
+== moen: Sales Break out by item category == 
+
+| item category             |   sales_count |   sales_amount |   rank by amount |   rank by count |
+|:--------------------------|--------------:|---------------:|-----------------:|----------------:|
+| drinkware                 |           334 |          47944 |                1 |               1 |
+| costumes & accessories    |            57 |          34497 |                2 |               5 |
+| casual & dress shoes      |           105 |          24947 |                3 |               2 |
+| pants                     |            75 |          22630 |                4 |               3 |
+| kitchen accessories       |            71 |          21438 |                5 |               4 |
+| sleepwear                 |            21 |          16906 |                6 |              16 |
+| makeup                    |            23 |          13245 |                7 |              14 |
+| sportswear                |            29 |          11009 |                8 |              10 |
+| shorts                    |            30 |          10226 |                9 |               9 |
+| athletic shoes            |            37 |           8805 |               10 |               8 |
+| sandals                   |            26 |           8702 |               11 |              11 |
+| dinnerware & serveware    |            51 |           8062 |               12 |               7 |
+| stationery                |            53 |           7680 |               13 |               6 |
+| table linens              |            26 |           7285 |               14 |              11 |
+| hand tools                |            24 |           7265 |               15 |              13 |
+| watches                   |            26 |           7164 |               16 |              11 |
+| car care products         |            23 |           7161 |               17 |              14 |
+| sewing and accessories    |            22 |           6482 |               18 |              15 |
+| paint & supplies          |            20 |           6388 |               19 |              17 |
+| cooking utensils          |            16 |           5856 |               20 |              19 |
+| sporting goods            |            21 |           5604 |               21 |              16 |
+| uniform                   |            26 |           5508 |               22 |              11 |
+| accessories               |            17 |           5254 |               23 |              18 |
+| bedding sets & components |            20 |           5200 |               24 |              17 |
+| storage & organization    |            25 |           5170 |               25 |              12 |
+| home decor                |            14 |           3984 |               26 |              20 |
+| tops                      |            10 |           3728 |               27 |              23 |
+| mobile phone accessories  |            10 |           3119 |               28 |              23 |
+| hats & caps               |            11 |           2958 |               29 |              22 |
+| bathroom accessories      |             9 |           2716 |               30 |              24 |
+| boots                     |             7 |           2559 |               31 |              25 |
+| car parts                 |            13 |           2531 |               32 |              21 |
+
