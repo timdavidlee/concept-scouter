@@ -13,7 +13,14 @@ class CompanyProfile:
         countries: list[str],
         country_probs: list[float],
         cat2iid: dict[str, list],
+        years: list[int] = None,
     ):
+        if not years:
+            # generate transactions for 3 years
+            self.years = [2021, 2022, 2023]
+        else:
+            self.years = years
+
         self.cid = company_id
         # will be a nested dictionary
         self.profiles = dict()
@@ -31,7 +38,11 @@ class CompanyProfile:
         target_n: int = 100_000,
         n_items: int = 1000
     ):
-        """Generates a descending distribution of items purchased"""
+        """Generates a descending distribution of items purchased
+        This was designed so that each company would purchase
+        a dominant item out of a subcategory and have descending
+        popularity.
+        """
         x = np.linspace(1, 100, n_items)
         vals = pareto.pdf(x, b=1)
 
@@ -47,7 +58,7 @@ class CompanyProfile:
         qty_per_cat = (self.cat_probs * total_qty).astype(int)
         effective_total = 0
 
-        datelist, date_probs = generate_date_profile()
+        datelist, date_probs = generate_date_profile(self.years)
 
         transactions = []
         for c, qc in zip(self.categories, qty_per_cat):
@@ -72,7 +83,10 @@ class CompanyProfile:
                 purchased_qtys
             )
 
+            # repeat enough values for company
             company_id_arr = np.repeat(self.cid, cat_effective_total)
+
+            # repeat each values for category
             category_arr = np.repeat(c, cat_effective_total)
 
             countries = np_random.choice(

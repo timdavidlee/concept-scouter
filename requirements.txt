@@ -11,3 +11,4 @@ spacy-transformers
 
 # fakeopedia
 pyarrow
+loguru

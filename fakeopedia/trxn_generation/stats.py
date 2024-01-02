@@ -66,11 +66,26 @@ def gen_country_profile():
 
 
 def generate_date_profile(
-    start: str = "2023-01-01",
-    end: str = "2023-12-31"
+    years: list[int]
 ):
-    datelist = pd.date_range(start, end, freq="d")
-    x = np.linspace(0, 6.28, len(datelist))
-    y = np.cos(x) + 2
-    y = y / y.sum()
-    return datelist, y
+    """Returns two arrays
+    Returns:
+        date_collector: a list of dates
+        p: an array of probabilities totaling to 1
+    """
+    datecollector = []
+    probs = []
+    for y in years:
+        start = "{}-01-01".format(y)
+        end = "{}-12-31".format(y)
+
+        datelist = pd.date_range(start, end, freq="d")
+        x = np.linspace(0, 6.28, len(datelist))
+        y = np.cos(x) + 2
+        datecollector.extend(datelist)
+        probs.extend(y)
+
+    p = np.array(probs)
+    p = p / p.sum()
+
+    return datecollector, p

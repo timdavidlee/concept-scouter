@@ -74,7 +74,9 @@ def parse_llm_text_for_spacy(force: bool = False, train_file: str = DISK_LOCATIO
         savefile = SPACY_DOC_DIR / fl.name
 
         if savefile.exists() and (not force):
-            print("already converted, skipping: {}".format(savefile))
+            print("already converted, loading directly from disk: {}".format(savefile))
+            spacy_doc = load_json_formatted_spacy_doc(savefile)
+            docbin.add(spacy_doc)
             continue
 
         data = load_json(fl)
@@ -85,11 +87,12 @@ def parse_llm_text_for_spacy(force: bool = False, train_file: str = DISK_LOCATIO
             f.write(json.dumps(spacy_doc.to_json(), indent=2))
             print("saved: {}".format(savefile))
 
+    ndocs_collected = len(docbin)
     docbin.to_disk(train_file)
-    print("spacy-serialized version saved to: {}".format(train_file))
+    print("spacy-serialized version saved to {:,}: {}".format(ndocs_collected, train_file))
 
 
-def load_json_formatted_spacy_doc(file: str):
+def load_json_formatted_spacy_doc(file: str) -> Doc:
     nlp = spacy.blank("en")
     with open(file, "r") as f:
         doc = Doc(nlp.vocab).from_json(json.load(f))

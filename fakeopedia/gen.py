@@ -7,7 +7,11 @@ from fakeopedia.trxn_generation.data import load_company_info, load_item_catalog
 from fakeopedia.trxn_generation.trxn_factory import TransactionFactory
 
 
-def load_trxn(cache_flag: bool = True):
+def load_trxn(
+    cache_flag: bool = True,
+    n_companies: int = 500,
+    n_trxn_per: int = 10_000
+):
     cache_file = "/tmp/trxn.feather"
     if os.path.exists(cache_file) and cache_flag:
         logger.info("cached version found: {}".format(cache_file))
@@ -16,7 +20,12 @@ def load_trxn(cache_flag: bool = True):
     company_df = load_company_info(cache_flag=False)
     catalog_df = load_item_catalog(cache_flag=False)
     cat2iid = catalog_df.groupby("item_category_name")["iid"].agg(list)
-    fact = TransactionFactory(cat2iid, sample_company_size=500)
+
+    fact = TransactionFactory(
+        cat2iid,
+        n_transactions=n_trxn_per,
+        sample_company_size=n_companies
+    )
     fact.generate_transactions()
 
     txn_df = pd.DataFrame(
@@ -24,7 +33,7 @@ def load_trxn(cache_flag: bool = True):
         columns=["company_id", "item_category", "iid", "country", "purchase_date"]
     )
 
-    txn_df["purchase_month"] = txn_df["purchase_date"].dt.month
+    txn_df["purchase_month"] = txn_df["purchase_date"].dt.strftime("%Y-%m")
 
     merged_df = txn_df.merge(
         company_df,
