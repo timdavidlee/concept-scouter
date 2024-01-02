@@ -1,0 +1,4 @@
+The federal judge overseeing the SEC v. Terraform Labs case has determined that Terra's UST stablecoin, LUNA token, and related tokens were securities. "There is no genuine dispute that UST, LUNA, wLUNA, and MIR are securities because they are investment contracts," wrote Judge Jed Rakoff.
+This is a major decision in the crypto world, which recently celebrated a decision in the SEC v. Ripple case, which found that some sales of Ripple's XRP token did not constitute unregistered securities offerings.
+
+The SEC has maintained a position that the majority of crypto asset offerings are securities offerings, which has been an unpopular opinion among those in the cryptocurrency industry — which broadly does not wish to be regulated by the SEC.

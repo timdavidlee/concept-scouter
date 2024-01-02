@@ -1,0 +1,10 @@
+Grayscale Bitcoin Trust suffers due to FTX collapse and doubts over reserves
+
+Grayscale Bitcoin Trust (GBTC), the largest publicly traded crypto fund, hit record lows in the wake of the FTX collapse. The fund was trading at nearly a 50% discount on the underlying Bitcoin asset, as holders rushed to sell off their GBTC holdings.
+This was not helped by Grayscale's response to those in crypto who were pushing Grayscale to follow suit with some other crypto platforms and publish proof of reserves. Grayscale announced that "due to security concerns, we do not make such on-chain wallet information and confirmation information publicly available through a cryptographic Proof-of-Reserve, or other advanced cryptographic accounting procedure". They did not elaborate on what these "security concerns" might be, and stoked fears in some that the company might not have the backing they ought to have.
+
+Grayscale published a letter from Coinbase that basically said "we have Grayscale's assets, we promise", which did not seem to assuage the fears that have formed around centralized entities promising they have the assets they claim. This is understandable, given that FTX made similar promises, only to collapse.
+
+"World’s largest crypto fund swept into FTX storm", Financial Times
+Tweet thread by Grayscale
+GBTC discount

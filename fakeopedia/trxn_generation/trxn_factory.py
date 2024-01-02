@@ -9,7 +9,8 @@ from fakeopedia.trxn_generation.company_profile import CompanyProfile
 from fakeopedia.trxn_generation.stats import (
     purchase_quantity_profile,
     gen_country_profile,
-    topk_profile_probs
+    topk_profile_probs,
+    random_trxn_ct_generator
 )
 
 
@@ -19,7 +20,7 @@ class TransactionFactory:
         cat2iid: dict[str, list],
         cats_per: int = 5,
         countries_per: int = 4,
-        n_transactions: int = 10_000,
+        n_transactions: int = None,
         purchase_batch_sz: int = 5,
         sample_company_size: int = None,
         n_total_companies: int = 73_974,
@@ -29,7 +30,16 @@ class TransactionFactory:
         self.np_random = np.random.RandomState()
         self.cats_per = cats_per
         self.countries_per = countries_per
-        self.n_transactions = n_transactions
+
+        if n_transactions is None:
+            self.trxn_cts, self.trxn_probs = random_trxn_ct_generator()
+        else:
+            # if provided, will be constant
+            if not isinstance(n_transactions, int):
+                raise ValueError("not an int: {}".format(n_transactions))
+            self.trxn_cts = [n_transactions]
+            self.trxn_probs = np.array([1.0])
+
         self.purchase_batch_sz = purchase_batch_sz
 
         self.np_random = np.random.RandomState()
@@ -85,9 +95,10 @@ class TransactionFactory:
         )
 
     def _generate_trxn_for_company(self, cid: int):
+        n_transactions = self.np_random.choice(self.trxn_cts, p=self.trxn_probs)
         start_ts = perf_counter()
         logger.info(f"generating transactions for company: {cid}")
         comp_profile = self.company_profiles[cid]
-        local_trxns = comp_profile.calculate_trxn(self.np_random, self.n_transactions)
+        local_trxns = comp_profile.calculate_trxn(self.np_random, n_transactions)
         logger.info("{} -> runtime: {}".format(cid, format_timespan(perf_counter() - start_ts)))
         return local_trxns

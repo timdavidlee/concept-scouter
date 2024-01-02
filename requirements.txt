@@ -12,3 +12,4 @@ spacy-transformers
 # fakeopedia
 pyarrow
 loguru
+llama-index

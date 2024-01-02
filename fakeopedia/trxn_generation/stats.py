@@ -89,3 +89,16 @@ def generate_date_profile(
     p = p / p.sum()
 
     return datecollector, p
+
+
+def random_trxn_ct_generator(
+    intervals: int = 25,
+    low: int = 3,
+    high: int = 6
+):
+    # 1000 - 1M
+    amounts = np.logspace(low, high, num=intervals)
+    amounts = amounts.astype(int)
+    probs = 1 / amounts
+    probs = probs / probs.sum()
+    return amounts, probs

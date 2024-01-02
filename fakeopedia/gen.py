@@ -10,7 +10,7 @@ from fakeopedia.trxn_generation.trxn_factory import TransactionFactory
 def load_trxn(
     cache_flag: bool = True,
     n_companies: int = 500,
-    n_trxn_per: int = 10_000
+    n_trxn_per: int = None
 ):
     cache_file = "/tmp/trxn.feather"
     if os.path.exists(cache_file) and cache_flag:
@@ -33,6 +33,7 @@ def load_trxn(
         columns=["company_id", "item_category", "iid", "country", "purchase_date"]
     )
 
+    txn_df["purchase_year"] = txn_df["purchase_date"].dt.year
     txn_df["purchase_month"] = txn_df["purchase_date"].dt.strftime("%Y-%m")
 
     merged_df = txn_df.merge(
@@ -50,7 +51,7 @@ def load_trxn(
     return merged_df
 
 
-def main(cache_flag: bool = True):
+def main(cache_flag: bool = False):
     merged_df = load_trxn(cache_flag)
 
     dims = [
