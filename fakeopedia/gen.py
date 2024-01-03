@@ -1,6 +1,7 @@
 """python -m fakeopedia.gen"""
 import os
 import pandas as pd
+from caseconverter import camelcase
 
 from loguru import logger
 from fakeopedia.trxn_generation.data import load_company_info, load_item_catalog

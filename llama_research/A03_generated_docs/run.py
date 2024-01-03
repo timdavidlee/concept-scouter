@@ -5,6 +5,8 @@ import pandas as pd
 import numpy as np
 
 from loguru import logger
+from caseconverter import snakecase
+
 from llama_index import Document as LlamaDoc, VectorStoreIndex
 from llama_index.indices.document_summary import DocumentSummaryIndex
 from llama_index.schema import TextNode, NodeRelationship, RelatedNodeInfo
@@ -17,6 +19,8 @@ def load_some_data(size: int = 3):
     company_names = np_rand.choice(raw_df["company_name"].unique(), size=size)
     mask = raw_df["company_name"].isin(company_names)
     df = raw_df[mask].copy()
+    df = df.dropna(subset=["company_name", "item_category", "item_brand_name"], how="any")
+    df["brand"] = df["item_brand_name"].map(snakecase)
     return df
 
 def agg_the_df(df: pd.DataFrame, agg_dim: str):
@@ -62,7 +66,6 @@ def generate_docs():
         "company_name": "company",
         "purchase_year": "year",
         "item_category": "item category",
-        "item_brand_name": "brand",
     })
 
     df["amt"] = df["item_price_usd"]
@@ -98,7 +101,7 @@ def generate_docs():
                 bodytext += agg_df.to_markdown(floatfmt=".0f") + "\n\n"
 
             doctext = create_text_doc(title=title, body=bodytext)
-            doc_id = f"{doc_dim}-{uv}"
+            doc_id = f"{doc_dim}-{snakecase(str(uv))}"
             write_doc_to_repo(doc_id + ".txt", doctext)
 
             llmdoc = LlamaDoc(doc_id=doc_id, text=doctext)

@@ -62,7 +62,7 @@ class CompanyProfile:
 
         transactions = []
         for c, qc in zip(self.categories, qty_per_cat):
-            iids = self.cat2iid[c]
+            iids = np.array(self.cat2iid[c])
             inds = np.arange(len(iids))
             np_random.shuffle(inds)
 
@@ -71,11 +71,11 @@ class CompanyProfile:
             cat_effective_total = purchased_qtys.sum()
             effective_total += cat_effective_total
             n_qtys = len(purchased_qtys)
-            purchased_iids = inds[:n_qtys]
+            purchased_iids = iids[inds[:n_qtys]]
 
             self.profiles[c] = dict(iids=purchased_iids, qtys=purchased_qtys)
 
-            # expand item, qty pairs into a full list, then generate the other 
+            # expand item, qty pairs into a full list, then generate the other
             # attributes
             items_purchased = self.expand(
                 np_random,
